@@ -59,8 +59,8 @@
    <!-- Iz datoteke ../../../../publikacije-XSLT/sistory/html5-foundation6-chs/to.xsl -->
    <xsl:param name="outputDir">docs/</xsl:param>
    
-   <xsl:param name="homeLabel">SI-DIH</xsl:param>
-   <xsl:param name="homeURL">https://sidih.si/20.500.12325/120</xsl:param>
+   <xsl:param name="homeLabel">Ustava RS</xsl:param>
+   <xsl:param name="homeURL">https://nastajanje-ustave.si</xsl:param>
    
    <xsl:param name="splitLevel">1</xsl:param>
    
@@ -229,6 +229,12 @@
       </p>-->
       
       <div class="row border-content">
+         <div class="small-12 columns border-content-inner">
+            <p>Pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo.</p>
+         </div>
+      </div>
+      
+      <div class="row border-content">
          <div class="medium-6 columns border-content-inner">
             <ul class="accordion" data-accordion="" data-allow-all-closed="true">
                <li class="accordion-item" data-accordion-item="">
@@ -278,6 +284,12 @@
          </div>
          <div class="medium-6 columns border-content-inner">
             <p>Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. </p>
+         </div>
+      </div>
+      
+      <div class="row border-content">
+         <div class="small-12 columns border-content-inner">
+            <p>Gradivlo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo.</p>
          </div>
       </div>
       
