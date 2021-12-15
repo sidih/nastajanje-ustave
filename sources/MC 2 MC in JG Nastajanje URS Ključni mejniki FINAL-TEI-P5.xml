@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Microsoft Office User</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2021-12-11</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2021-12-12T18:03:49Z</date><name>Microsoft Office User</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p style="text-align:center;"><hi rend="bold">Miro Cerar, Jure Gašparič</hi></p>
+                <p style="text-align:center;"><hi rend="bold">USTAVNA DISKONTINUITETA, SKUPŠČINSKI
+                        SISTEM, MEJNIKI V PROCESU NASTAJANJA USTAVE IN PRIZNANJE SLOVENIJE</hi></p>
+                <div>
+                    <head><anchor xml:id="Toc130884615"/><hi rend="italic">Obdobje ustavne
+                            diskontinuitete</hi>
+                    </head>
+                    <p>Za razumevanje pomena nove ustavne ureditve, ki jo je Slovenija ustvarila v
+                        procesu osamosvajanja, ter za razumevanje potrebe po stabilnosti te ureditve
+                        si je treba vsaj na kratko pogledati zgodovino ustavne diskontinuitete, ki
+                        je bila za slovensko ozemlje značilna v prejšnjem stoletju. Večina
+                        slovenskega ozemlja se je po razpadu habsburške monarhije ob koncu prve
+                        svetovne vojne 29. oktobra 1918 združila v Državo Slovencev, Hrvatov in
+                        Srbov (država SHS). Le dober mesec zatem, 1. decembra 1918, je prišlo do
+                        združitve te države s Kraljevino Srbijo in Črno goro v novo državo,
+                        Kraljevino Srbov, Hrvatov in Slovencev (kraljevina SHS). Po drugi svetovni
+                        vojni je Slovenija postala del socialistične (komunistične) Jugoslavije in
+                        ostala njen konstitutivni del vse do svoje državne osamosvojitve 25. 6.
+                        1991. Slovensko ozemlje je tako vse od trenutka, ko je po prvi svetovni
+                        vojni prvič relativno samostojno nastopilo kot konstitutivni del širše
+                        države, pa vse do svoje državne osamosvojitve leta 1991, tj. približno 70
+                        let prejšnjega stoletja (če ne štejemo obdobja okupacije v času druge
+                        svetovne vojne), svojo politično in pravno ureditev podrejalo in prirejalo
+                        jugoslovanski ureditvi. V vsem tem času je bila za ustavno ureditev, ki je
+                        veljala v Sloveniji, mnogo bolj značilna diskontinuiteta kot pa
+                        kontinuiteta. Slednja je v obdobju zadnje skupne države, v času po drugi
+                        svetovni vojni, v ožjem političnem pogledu obstajala predvsem v oblastnem
+                        monopolu jugoslovanske komunistične partije, medtem ko se je na
+                        ustavnopravni ravni ohranjala predvsem preko skupščinskega sistema državne
+                        oblasti. </p>
+                    <p>Že v Kraljevini Jugoslaviji je kralj Aleksander leta 1929 razveljavil
+                        vidovdansko ustavo iz leta 1921, razpustil narodno skupščino in uvedel
+                        diktaturo. Naslednji radikalni element ustavne diskontinuitete je bila
+                        seveda druga svetovna vojna, ki je privedla do okupacije Slovenije ter do
+                        nastajanja nove Jugoslavije, v kateri je imela svojo konstitutivno vlogo
+                        tudi Slovenija in v kateri je kmalu po končani vojni komunistična partija
+                        prevzela popolno oblast ter uvedla socialistično ureditev. Leta 1946 je bila
+                        sprejeta (prva) ustava Federativne Ljudske Republike Jugoslavije, nato pa je
+                        bil že leta 1953 sprejet ustavni zakon, ki je pomenil začetek sistemskega
+                        uvajanja samoupravljanja in je tako bistveno posegel v ustavno ureditev.
+                        Leta 1963 je bila sprejeta nova ustava, ki je bila na prelomu 60-ih let
+                        dopolnjena z ustavnimi amandmaji. Do nadaljnjega preobrata je nato prišlo s
+                        sprejemom nove ustave leta 1974, ki pa je bila nato do razpada Socialistične
+                        Federativne Republike Jugoslavije še večkrat dopolnjena in spremenjena z
+                        ustavnimi amandmaji. Vsaka od teh ustavnih ureditev je vnesla v sistem
+                        bistvene novosti, čeprav nobena ni posegla v monopol komunistične partije in
+                        v specifično (real)socialistično ureditev skupščinskega sistema oblasti.</p>
+                    <p>V tem času je imela Slovenija tudi svojo ustavno ureditev (slovenske ustave
+                        iz let 1947, 1963 in 1974 s številnimi ustavnimi amandmaji). Kljub dejstvu,
+                        da je bila ta ureditev v večini bistvenih prvin podrejena jugoslovanski, je
+                        že samo dejstvo, da je Slovenija v tem obdobju imela tudi lastno ustavno
+                        opredelitev in ureditev, pomenilo pripoznanje Slovenije kot posebne
+                        konstitutivne oziroma državotvorne enote skupne države Jugoslavije. To
+                        dejstvo ter še posebej določba v slovenski ustavi iz leta 1974 (prvi
+                        odstavek I. razdelka Temeljnih načel ustave), ki je slovenskemu narodu
+                        izrecno priznavala pravico do samoodločbe, vključno s pravico do odcepitve
+                        iz Jugoslavije, sta bili pomembni ustavnopravni opori za nadaljnjo
+                        uveljavljanje nacionalno-državne identitete slovenskega naroda, ki je bila
+                        nato leta 1991 realizirana z ustanovitvijo Republike Slovenije kot suverene
+                        (samostojne in neodvisne) države. </p>
+                    <p>Iz navedenega je razvidno, da se je v okviru spreminjajoče se povojne
+                        jugoslovanske ustavne ureditve (od leta 1946 dalje) večkrat bistveno
+                        spremenila tudi slovenska ustavna ureditev. Takšen razvoj je seveda
+                        zaznamoval politično in pravno mentaliteto Slovencev, ki tako niti v času
+                        med obema svetovnima vojnama niti po drugi svetovni vojni niso imeli
+                        priložnosti, da bi razvili (občutek za) ustavno kontinuiteto oziroma
+                        tradicijo. Spoštovanje slovenske ustave iz leta 1991 in proces njenega
+                        praktičnega udejanjanja predstavljata zato pomemben preizkus zrelosti
+                        slovenske nacije in politike. Za Slovenijo in druge države, ki so ob koncu
+                        80-ih let in v 90-ih letih 20. stoletja izvedle prehod (tranzicijo) iz
+                        avtoritarnega režima v demokracijo, je namreč nadvse pomembno, da dolgoročno
+                        in čim bolj konsenzualno ohranjajo temelje svoje nove, demokratične
+                        ureditve. Le tako se lahko postopno, skozi desetletja širšega družbenega in
+                        poklicnega pravniškega ozaveščanja o smiselnosti in temeljnem pomenu
+                        ustavnih vrednot razvije nova ustavnopravna tradicija, ki bo dejansko
+                        služila demokratičnim vrednotam, človekovim pravicam, pravni in socialni
+                        državi ter drugim humanističnim namenom in ciljem. </p>
+                    <p>Dosedanjih 30 let slovenske ustavnosti kaže, da razvoj politične, pravne in
+                        obče družbene kulture ne sledi avtomatično in premočrtno ustavno
+                        opredeljenim in zadanim vrednotam. Pretirane politične turbulence in
+                        zaostreni ideološki spopadi, netoleranca, krize doma in po svetu ter
+                        nenazadnje nezadostna angažiranost vodilnih družbenih akterjev (politiki,
+                        strokovnjaki, intelektualci, predstavniki medijev, nosilci kapitala,
+                        predstavniki poklicnih in drugih pomembnejših interesnih skupin) v smeri
+                        promoviranja, spoštovanja in uresničevanja ustavnih vrednot lahko zelo hitro
+                        ogrozijo praktično moč ustave ter preusmerijo družbo k nedemokratičnim in
+                        nekonstruktivnim načinom delovanja. </p>
+                    <p>Ustave zato ne gre razumeti le kot pisani formalni pravni akt, pač v širšem
+                        sociološkem smislu tudi kot družbeno prakso, ki jo politične in pravne
+                        institucije ter družba kot celota vsak dan živijo in dograjujejo skozi
+                        konkretne oblastne in druge odločitve ter skozi obče družbene odnose. Kadar
+                        te odločitve in odnosi izražajo in dograjujejo izvorni duh in vrednote
+                        slovenske ustave, takrat se naša nova ustavna tradicija izgrajuje v duhu
+                        demokratične kontinuitete in stabilnosti. V primeru močnejših odklonov od
+                        ustavnih vrednot pa se je treba zavedati, da je lahko s tem celotna ustavna
+                        ureditev potencialno ogrožena, zato je treba v takšnih primerih na vse
+                        dopustne in primerne načine stopiti v bran temeljnim ustavnim načelom in
+                        ohraniti demokratično ustavno kontinuiteto in stabilnost. Ne gre namreč
+                        pozabiti, da imajo demokracija, pravna država (vladavina prava), varstvo
+                        človekovih pravic ter nenazadnje socialna država v Sloveniji tudi pred- ali
+                        celo nad-ustavno politično veljavo, kajti državna osamosvojitev Slovenije in
+                        uveljavitev teh vrednot so bili ključni motiv in razlog za veliko večino
+                        Slovencev, ki se je na plebiscitu leta 1990 izrekla za samostojno in
+                        neodvisno Slovenijo ter s tem za odpravo prejšnjega nedemokratičnega
+                        političnega sistema. Seveda pa takšno zavzemanje za stabilni in
+                        kontinuitetni razvoj slovenske ustavne ureditve nikakor ne pomeni apriornega
+                        nasprotovanja vsem tistim ustavnim spremembam, ki ob upoštevanju navedenih
+                        vrednot in temeljnih načel ustave le-to konstruktivno dograjujejo in
+                        izboljšujejo v zgoraj že navedenih vidikih. </p>
+                    <p rend="footnote text"
+                        ><hi style="font-size:12pt" xml:space="preserve">K povedanemu je treba dodati, da je seveda mogoče od sedanjih temeljnih ustavnih načel tudi odstopiti in jih s spremembo ustave nadomestiti z novimi. Naša ustava namreč nobenega svojega načela ali druge norme ne opredeljuje kot nespremenljive. Toda če v pravnem smislu za takšno spremembo ustave zadostuje dvotretjinska večina glasov vseh poslancev državnega zbora, pa se v političnem pogledu z vso resnostjo in državotvorno težo zastavlja vprašanje politične in širše družbene legitimnosti takšne morebitne odločitve. Odstop od sedanjih temeljnih načel ustave (demokracija, pravna in socialna država, zavezanost mednarodnemu pravu itd.) bi bil namreč v političnem in širšem družbenem pogledu legitimen le, če bi ga analogno plebiscitarni odločitvi iz leta 1990 podprli tudi državljani na ustavnem referendumu. </hi></p>
+                    <p>Veljavna Ustava Republike Slovenije je bila kot ključni del procesa
+                        demokraticacije ter političnega in pravnega osamosvajanja Slovenije sprejeta
+                        23. decembra 1991. Začetki tega procesa, ki se je pričel konec 80-ih in na
+                        začetku 90-ih let 20. stoletja, so bili družbeno-politični nastavek in
+                        temeljni okvir za prehod v novo ustavno ureditev, državna osamosvojitev in
+                        demokratizacija pa sta predstavljali najpomembnejša cilja te ureditve. Toda
+                        do razglasitve državne suverenosti Slovenije je nato prišlo že približno pol
+                        leta pred sprejemom nove ustave, kar je bila posledica odsotnosti zadostnega
+                        političnega konsenza za nekatere nove ustavne rešitve. Državna osamosvojitev
+                        (25. 6. 1991), sprejem nove ustave (23. 12. 1991) ter volitve novih
+                        najvišjih organov državne oblasti, tj. predsednika republike, državnega
+                        zbora in državnega sveta (decembra 1992), so zaokrožile prvo in najbolj
+                        dramatično fazo slovenske tranzicije (ne gre pozabiti, da je razglasitvi
+                        slovenske osamosvojitve sledila 10-dnevna vojna in večmesečna precejšnja
+                        mednarodna izolacija Slovenije). </p>
+                    <p>V 90-tih letih 20. stoletja in v prvih letih 21. stoletja je Slovenija prešla
+                        drugo fazo tranzicije, ki je bila, z izjemo vstopa v Evropsko unijo in NATO
+                        leta 2004, seveda bistveno manj prežeta z »velikimi temami«, kot sta bili
+                        vzpostavitev državne (nacionalne) neodvisnosti in demokratičnega sistema.
+                        Vendar pa je bila ta faza prav tako izredno težavna. Med drugim je bilo
+                        treba na podlagi ustave izgraditi novo pravno ureditev ter zagotoviti
+                        funkcioniranje vseh treh vej oblasti (zakonodajna, izvršilno-upravna in
+                        sodna) ter posameznih institucij znotraj njih, kar vse je spremljal
+                        intenziven boj političnih strank in drugih družbenih skupin za politično,
+                        ekonomsko in drugačno prevlado ali obstoj, pri čemer so se na drugi strani
+                        državljani začeli soočati tudi s številnimi socialnimi in drugimi težavami
+                        (npr. povečanje brezposelnosti, porast hujših oblik kriminala, premalo
+                        učinkovito sodno varstvo). </p>
+                    <p>Danes, po dobrih 30 letih od državne osamosvojitve in sprejema ustave, lahko
+                        ugotovimo, da je demokratična tranzicija (prehod v demokracijo) v
+                        pravno-sistemskem pogledu na splošno zaključena, medtem ko na ravni pravne
+                        in politične kulture proces tranzicije še vedno poteka. Seveda takšen proces
+                        v resnici nikoli ni zaključen, kajti v spreminjajoči se družbi se morajo
+                        pravni in politični akterji vedno znova in na drugačne načine odzivati na
+                        spreminjajoče se družbene okoliščine ter v tem smislu tudi iskati nove, času
+                        in prostoru prilagojene pravne in politične pristope za udejanjanje
+                        demokracije in pravne države oziroma vladavine prava. Toda kljub temu da je
+                        Slovenija tudi z vstopom v Evropsko unijo (1. maja 2004) dokazala, da jo je
+                        po uveljavljenih evropskih merilih treba šteti za demokratično in pravno
+                        državo, v slovenski družbeni realnosti nekateri tranzicijski problemi in
+                        izzivi ostajajo še vedno aktualni. V primerjalni zgodovinski perspektivi
+                        lahko podobno ugotovimo tudi za druge države vzhodne in srednje Evrope, pri
+                        čemer je potrebno poudariti, da so nove politične institucije in nove pravne
+                        norme zrasle relativno hitro, spremembe v mentaliteti ljudi, ki bi morale
+                        slediti temu razvoju, pa so (bile) mnogo počasnejše in težavnejše. Praktično
+                        v vseh tranzicijskih državah je kmalu po letu 1990 sledil čas razočaranja. V
+                        tem pogledu ostaja za slovensko politično, pravno in širšo družbeno sfero
+                        poseben izziv dejansko ponotranjenje (interiorizacija) demokratičnih in
+                        pravnih vrednot v zavesti nosilcev politične in pravne moči ter med
+                        državljani oziroma v družbi nasploh. To ponotranjenje se v družbi odraža in
+                        meri predvsem glede na doseženo stopnjo politične (demokratične) in pravne
+                        kulture ter glede na stopnjo realizacije ustavnih in zakonskih načel in
+                        pravil v pravni in širši družbeni praksi. </p>
+                    <p>Ob vsem tem je treba vsaj strnjeno izpostaviti, da se Republika Slovenija s
+                        svojo ustavo uvršča v krog tistih sodobnih demokratičnih držav, ki
+                        sprejemajo večstoletno civilizacijsko dediščino evropskega in širšega
+                        zahodnega (okcidentalnega) razvoja razsvetljenstva. Ta razvoj je tem državam
+                        oziroma družbam postopno prinesel spoznanje, da je ob spoštovanju različnih
+                        religioznih, filozofskih in drugih pogledov in tradicij treba na politični
+                        in pravni ravni kot osrednjo dobrino in vrednoto varovati predvsem človekovo
+                        individualno dostojanstvo ter njegove svoboščine in pravice. Prav človeku
+                        kot individuumu ter hkrati družbenemu bitju mora ustavnopravna ureditev
+                        pripoznati temeljno vrednost v smislu njegovih osebnih, političnih,
+                        ekonomskih, socialnih, kulturnih ter drugih svoboščin in pravic. Oblast mora
+                        biti zato demokratična in omejena (<hi rend="italic">načelo
+                            konstitucionalizma</hi>) ter mora služiti človeku kot državljanu in
+                        posamezniku. Seveda pa to pomeni tudi odgovornost slehernega državljana, da
+                        je strpen, da priznava pravice in svoboščine ter enakopravnost vseh drugih
+                        posameznikov ter da v celoti spoštuje ustavno ureditev in prispeva k njenemu
+                        uresničevanju. Takšni in drugi temelji oziroma izhodišča moderne ustavnosti
+                        seveda niso popolni in ne zagotavljajo vseh možnih družbenih idealov, toda v
+                        dosedanji zgodovini so se – še posebej s humanističnega zornega kota –
+                        pretežno izkazali za najboljša (ali vsaj najmanj slaba) vodila družbenega
+                        sožitja. Med te temelje oziroma vrednotna izhodišča vsekakor sodijo
+                        spoštovanje človekovih pravic ter posebnih pravic družbenih manjšin, načelo
+                        splošnih, svobodnih in poštenih volitev, načelo ljudske suverenosti, načelo
+                        reprezentativne (predstavniške) demokracije s korektivnimi mehanizmi
+                        neposredne demokracije, načelo delitve oblasti, načelo javnosti in
+                        neretroaktivnosti prava, načeli ustavnosti in zakonitosti, načelo
+                        neodvisnosti sodstva, načelo socialne države itd. </p>
+                </div>
+                <div>
+                    <head><anchor xml:id="Toc130884616"/><hi rend="italic">Vprašanje kontinuitete in
+                            diskontinuitete med prejšnjo in novo ustavno ureditvijo</hi></head>
+                    <p>Nova slovenska ustava (1991) je pomenila dokončen in korenit prelom oziroma
+                            <hi rend="italic">diskontinutiteto</hi> s prejšnjo zvezno ustavno
+                        ureditvijo Socialistične Federativne Republike Jugoslavije in ustavno
+                        ureditvijo Socialistične Republike Slovenije (obe prejšnji ustavi sta bili
+                        sprejeti leta 1974 in kasneje dopolnjeni z več ustavnimi amandmaji). Ta
+                        diskontinuiteta je bila predvsem vsebinska (materialnopravna), saj je nova
+                        ustava uveljavila povsem nova načela in temelje državne ureditve, nov
+                        politični sistem in državne institucije, demokratičen katalog človekovih
+                        pravic itd. Le v zelo majhni meri lahko pogojno govorimo tudi o vsebinski
+                        ustavni kontinuiteti, in sicer v tisti meri, v kateri je nova ustava
+                        ohranila (točneje: rekonstituirala) nekatere posamezne določbe iz prejšnje
+                        ustave, ki pa so (bile) v novi ustavi ustrezno kontekstualno modificirane in
+                        postavljene v povsem nov (demokratičen, moderen) ustavni kontekst. </p>
+                    <p>Za razliko od vsebinske (materialnopravne) diskontinuitete, je v
+                        formalno-procesnem pogledu mogoče ugotoviti precejšnjo ustavno <hi
+                            rend="italic">kontinuiteto</hi> s prejšnjo slovensko ustavno ureditvijo,
+                        ki se kaže predvsem v dveh vidikih: 1) novo ustavo je sprejela takratna
+                        slovenska skupščina; 2) ustava je bila sprejeta po ustavnorevizijskem
+                        postopku, določenem v ustavi iz leta 1974. Gre torej za kontinuiteto v
+                        (istem) subjektu ustavodajalca in v (istem) postopku spreminjanja ustave. K
+                        temu je treba dodati, da je bil celoten proces nastajanja nove ustave kot
+                        takšen bolj evolutiven kot revolucionaren, saj se je ustava oblikovala
+                        postopoma oziroma skozi daljše časovno obdobje (od prvih formalnih
+                        iniciativnih predlogov do sprejema ustave je preteklo leto in pol), pri
+                        čemer je bila ustavna razprava široko odprta in inkluzivna (demokratična),
+                        saj je vključevala poleg politike tudi pravno in druge stroke, civilno
+                        družbo ter najširšo družbeno javnost.</p>
+                    <p>Kljub temu da je vprašanje ustavne kontinuitete in diskontinuitete kompleksno
+                        ter na splošno nanj ni mogoče odgovoriti zgolj enopomensko, je nesporno, da
+                        je ustava iz leta 1991 povsem nova ustava, ki vsebinsko pomeni radikalno <hi
+                            rend="italic">diskontinuiteto</hi> s prejšnjim ustavnim sistemom oziroma
+                        ureditvijo. Za razliko od prejšnje ustavne ureditve Slovenije, ki je bila
+                        zgolj ustavna ureditev Slovenije kot federalne enote znotraj skupne države
+                        SFR Jugoslavije, je slovenska ustava iz leta 1991 prva ustava suverene
+                        (samostojne in neodvisne) slovenske države. Ob tem pa ne gre spregledati
+                        dejstva, da je bil prehod v slovensko državnost tako pravno kot tudi
+                        politično lažje izvedljiv na temelju že priznane posebne ustavnopravne
+                        subjektivitete Slovenije v okviru SFR Jugoslavije ter ustavno opredeljene
+                        pravice slovenskega naroda do samoodločbe, ki je izrecno vključevala pravico
+                        do odcepitve. Poleg tega se je prehod v novo ustavno ureditev postopno
+                        pravno izgrajeval že tudi s sprejemom nekaterih amandmajev k ustavi
+                        Republike Slovenije iz leta 1974 (zlasti amandmaja XCVI in XCIX).
+                        Navsezadnje velja poudariti, da se je Slovenija še pred sprejemom nove
+                        ustave kot država pravno konstituirala s sprejemom Temeljne ustavne listine
+                        o samostojnosti in neodvisnosti Republike Slovenije.</p>
+                    <p><hi rend="bold" style="font-size:14pt">Skupščinski sistem in slovenska
+                            socialistična skupščina</hi></p>
+                    <p>Z vidika političnega sistema je prehod v novo stavno ureditev odločilno
+                        zaznamoval prehod iz skupščinskega v parlamentarni sistem oblasti. V
+                        socialistični (komunistični) Jugoslaviji in Sloveniji je bil namreč tako kot
+                        v drugih real-socialističnih državah uveljavljen skupščinski model
+                        organizacije vrhovnih državnih organov. Slovenska skupščina je imela tako v
+                        prejšnjem ustavnem sistemu osrednjo politično in pravno vlogo, pri čemer je
+                        bila kot vrhovno politično telo ter kot ustavodajalec in zakonodajalec na
+                        ravni Slovenije kot republike in federalne enote pomemben predhodnik
+                        sedanjega slovenskega parlamenta, v katerem ima osrednje mesto državni zbor
+                        kot ustavodajni in zakonodajni organ, državni svet pa kot zastopstvo
+                        nosilcev najpomembnejih družbenih interesov v omejenem okviru sodeluje v
+                        zakonodajnem procesu ter si prizadeva za uveljavitev mnenj zastopanih
+                        interesnih skupin. V tem pogledu je mogoče ugotoviti tudi določeno podobnost
+                        med sestavo slovenske skupščine in sestavo sedanjega slovenskega parlamenta,
+                        saj so bili v trodomni skupščini ob političnem predstavništvu v
+                        družbenopolitičnem zboru, posebej zastopani tudi lokalni interesi (zbor
+                        občin) in interesi subjektov v gospodarstvu (zbor združenega dela), sedanji
+                        parlament pa ima ob političnem predstavništvu v državnem zboru posebej
+                        zastopane tudi interese lokalnih skupnosti, subjektov v gospodarstvu ter
+                        druge družbene interese v državnem svetu. Kljub bistveni razliki med
+                        sedanjim in prejšnjim sistemov predstavništva in oblasti nasploh tu vsekakor
+                        ni mogoče spregledati vpliva specifične slovenske socialistične tradicije,
+                        ki se kaže v interesnem predstavništvu v sedanjem državnem svetu, kajti
+                        tovrstna predstavništva na ravni parlamenta praviloma niso značilna za
+                        parlamentarne sisteme. Seveda pa imajo predstavniki teh interesov v državnem
+                        svetu, še posebej v kontekstu sedanjega demokratičnega sistema ter določenih
+                        pristojnosti državnega sveta, drugačen položaj in formalni vpliv kot so ga
+                        imeli predstavniki interesov v navedenih dveh zborih bivše trodomne
+                        skupščine.</p>
+                    <p>Čeprav med prejšnjo skupščino in sedanjim parlamentom ni neposredne politične
+                        ali pravne kontinuitete, pa je pomembno, da se je v slovenski skupščini
+                        skozi ustavodajno, zakonodajno in drugo aktivnost več desetletij oblikovala
+                        in utrdila praksa ustvarjanja relativno avtonomne slovenske pravne ureditve
+                        ter praksa sprejemanja vrhovnih političnih odločitev v okviru Slovenije kot
+                        samostojne federalne enote SFR Jugoslavije. Kljub dejstvu, da so bili
+                        izvoljeni ljudski delegati v skupščini pod monopolnim političnim vplivom
+                        slovenske komunistične oblasti ter da je bila ta podrejena jugoslovanski
+                        komunistični oblasti, je bila slovenska skupščina v določeni meri avtonomna
+                        oblast, ki je skupaj z izvršno in sodno oblastjo uveljavljala in utrjevala
+                        posamezne prvine slovenske državnosti. </p>
+                    <p>Ker je bila SFR Jugoslavija zvezna država (federacija) z nekaterimi
+                        konfederalnimi prvinami, tj. lastnostmi med-državne organizacije, je prav
+                        preko skupščinske oblike oblasti Slovenija že vzpostavila lasten pravni
+                        sistem ter politične in pravne prakse, ki so bile v formalnem vidiku povsem
+                        uporabne za določitev in izvedbo postopkov državne osamosvojitve ter prehoda
+                        v demokratičen političen sistem. Poleg sprejemanja lastne zakonodaje in
+                        relativno avtonomnega oblikovanja republiške politike je Slovenija v 80-ih
+                        letih prejšnjega stoletja s svojim nasprotovanjem sprejemu t.i.
+                        centralističnih amandmajev k ustavi SFR Jugoslavije blokirala njihov sprejem
+                        (enako je takrat storila Hrvaška), hkrati pa je tudi s sprejemanjem
+                        amandmajev k slovenski ustavi utrjevala pot k večji samostojnosti Slovenije
+                        znotraj jugoslovanske federacije. To so bila posamezne državotvorne
+                        pristojnosti in dejanja, ki sicer samo po sebi niso vodila v državno
+                        osamosvojitev in demokracijo, so pa utrjevala avtonomni slovenski
+                        institucionalni sistem, kar je bilo ključnega pomena, saj so po
+                        demokratizaciji sestave in delovanja skupščine po aprilskih demokratičnih
+                        volitvah leta 1990 vsi slovenski državotvorni akti (predvsem Zakon o
+                        plebiscitu, Temeljna ustavna listina, t.i. osamosvojitveni paket zakonov in
+                        Ustava Republike Slovenije) nastali v okviru slovenske skupščine, ob njenem
+                        sodelovanju s slovenskim izvršnim svetom kot nosilcem republiške izvršilne
+                        oblasti. Večdesetletno obdobje skupščinskega sistema je bila torej za
+                        Slovence pomembna šola izgrajevanja lastnih državnih institucij, predvsem
+                        formiranja predstavniškega sistema ter izvajanja lastne zakonodajne, izvršne
+                        in sodne oblasti. Seveda pa je bilo to tudi obdobje političnega monopola
+                        zveze komunistov, ki ni dopuščala razvoja demokracije in pravne države in je
+                        skupščinski sistem uporabila kot sredstvo za monopolizacijo svoje oblasti in
+                        moči. </p>
+                    <p>Za <hi rend="italic">skupščinski sistem</hi> državne oblasti na splošno
+                        oziroma teoretično velja, da je (bil) zamišljen kot demokratična oblika
+                        državne oblasti, v katerem ima izrazito prevladujoč položaj ljudska
+                        skupščina kot najbolj avtentično predstavništvo ljudstva. Ta sistem temelji
+                        na načelu enotnosti oblasti, po katerem je izvršna oblast izrazito podrejena
+                        vrhovni zakonodajni oblasti skupščine. Vlada je voljena s strani skupščine,
+                        ki v veliki meri usmerja njeno delo. Poleg tega vlada, ki ima običajno
+                        drugačen naziv (npr. državni ali izvršni svet) ne more od skupščine
+                        zahtevati glasovanja o svoji zaupnici niti o razpustitvi skupščine. </p>
+                    <p>Skupščinski sistem se je v demokratični obliki razvil in deluje le v Švici,
+                        kjer pluralna strankarska sestava skupščine ter številni učinkoviti
+                        mehanizmi neposredne demokracije (referendumi, ljudske iniciative itd.)
+                        preprečujejo njegove zlorabe. V nedemokratični inačici so skupščinski sistem
+                        doslej privzele in razvijale predvsem vse (bivše) komunistične oziroma
+                        real-socialistične države, ki so skozi ta sistem najlažje udejanjale
+                        enostrankarsko diktaturo. Kljub proklamacijam o neposrednem ljudskem
+                        predstavništvu (skupščinski delegatski sistem) ter sklicevanju na
+                        pravičnejšo in naprednejšo socialistično demokracijo in pravo, so bile te
+                        države po naravi dejansko avtokratične in praviloma totalitarne, saj v
+                        resnici niso priznavale političnega pluralizma in drugih demokratičnih
+                        institucij, človekovih svoboščin in pravic ter vladavine prava (pravne
+                        države). Prav zato (nova) slovenska ustava uveljavlja parlamentarni sistem
+                        državne oblasti, ki se je v dosedanji evropski praksi in širše po svetu
+                        izkazal kot ustrezen pravno-političen okvir za zagotavljanje demokracije,
+                        človekovih pravic in pravne države. </p>
+                    <p>Osnovna značilnost <hi rend="italic">parlamentarnega sistema</hi> je načelo
+                        delitve (ločitve) oblasti, po katerem delujeta vlada in parlament relativno
+                        ločeno, pri čemer mora seveda vlada izvajati zakone in slediti temeljnim
+                        političnim aktom, ki jih sprejema parlament. Pri oblikovanju vlade imata
+                        poleg parlamenta pomembno vlogo tudi izvoljeni predsednik vlade in državni
+                        poglavar (predsednik države ali monarh), vlada pa lahko pri oblikovanju
+                        politik deluje v večji meri samostojno kot v skupščinskem sistemu. Vlada
+                        mora v parlamentarnem sistemu uživati zaupanje parlamenta, lahko pa tudi
+                        sama v parlamentu sproži odločanje o svoji zaupnici in s tem izvaja pritisk
+                        na poslance, ki jo v takšnem primeru bodisi podprejo bodisi tvegajo možnost
+                        razpusta parlamenta in predčasnih volitev. Vloga državnega poglavarja (šefa
+                        države) je v parlamentarnem sistemu relativno šibka, kajti večji del
+                        političnega odločanja je osredinjen v parlamentu in vladi. V parlamentarnem
+                        sistemu ima sodstvo bolj neodvisen položaj kot v skupščinskem sistemu,
+                        demokratičnost sistema ter varstvo pravic in svoboščin posameznikov ter
+                        subjektov civilne družbe pa zagotavljajo institucije pravne države
+                        (vladavine prava) in različnih mehanizmi zavor in ravnovesij (<hi
+                            rend="italic">checks and balances</hi>). </p>
+                    <p>Glede na pomen, ki sta ga imela za izgradnjo posameznih prvin slovenske
+                        državnosti skupščinski sistem in slovenska republiška skupščina, velja
+                        strnjeno še dodatno predstaviti nekatere značilnosti slovenske socialistične
+                        skupščine. Kot je bilo že nakazano, je bila ta v času, ko je razpadala
+                        socialistične ureditev, v ustavnopravnem pogledu ključen, a obenem po svoji
+                        sestavi in načinu delovanja precej zapleten organ.</p>
+                    <p>Upoštevajoč pravne vire (zlasti ustavo 1974) in literaturo lahko skoraj
+                        enoznačno trdimo, da je bila skupščina v času razpadanja jugoslovanske
+                        države organ, ki ga ni bilo mogoče obiti. V 334. členu slovenske republiške
+                        ustave iz leta 1974 je bilo zapisano: <hi rend="italic">»Skupščina
+                            Socialistične republike Slovenije je organ družbenega samoupravljanja in
+                            najvišji organ oblasti v okviru pravic in dolžnosti republike.«</hi>
+                        Bila je pomemben faktor v procesu političnega odločanja s širokimi
+                        pristojnostmi, ki so bile naštete predvsem v obsežnem 335. členu navedene
+                        ustave. Nikogar drugega ni bilo, ne na zvezni ne na republiški ravni, ki bi
+                        jo lahko nadomestil. Odločevalski proces se je takrat sicer uresničeval
+                        skozi zapletene mehanizme in postopke, ki so pogosto le formalno
+                        zagotavljali demokratično odločanje in sodelovanje ljudi. Dejansko so
+                        samoupravni mehanizmi skrbeli predvsem za to, da ni bila ogrožena monopolna
+                        ureditev, zamišljena v partijskih programih. Toda brez skupščine sprejem
+                        odločitve vendarle ni bil mogoč, zlasti ne sprememba ustave. </p>
+                    <p>Slovenija kot članica federacije (republika) je lahko skozi odločitve
+                        skupščine krepila ali slabila svoj položaj. Pri tem je bilo seveda leta 1989
+                        za marsikoga v Beogradu vprašljivo, če so bile odločitve slovenske
+                        skupščine, ki so okrepile slovenski položaj, skladne z ustavo SFRJ, za
+                        nikogar pa ni bila vprašljiva formalna pot sprejetja amandmajev k slovenski
+                        ustavi. Skupščina je torej imela vse sistemske pogoje za to, da dejansko
+                        opravlja pomembno politično vlogo v sistemu. Brez njenega angažmaja državna
+                        osamosvojitev in demokratične politične spremembe ne bi bile mogoče, vsaj ne
+                        po ustavni poti, ki je bila značilna za slovenski osamosvojitveni proces in
+                        prvo fazo politične tranzicije. </p>
+                    <p>Skupščina je obenem bila tudi voljen organ, a na poseben delegatski način.
+                        Volitve delegacij so se bistveno razlikovale od klasičnih parlamentarnih
+                        volitev, saj niso predstavljale »enkratnega dejanja volilcev, s katerim bi
+                        le-ti pooblastili izvoljene člane parlamenta, da kot njihovi splošni
+                        predstavniki in v njihovem imenu oblikujejo oblastne odločitve.« Volitve
+                        delegacij so pomenile po tedaj veljavni pravni interpretaciji Franca Grada
+                        in Cirila Ribičiča »začetek stalnega, štiriletnega delovnega sodelovanja med
+                        delegacijami in delegati, delovnimi ljudmi in občani ...« Ljudje naj bi ves
+                        čas »kontinuirano odločali« po kakšnih smernicah se naj ravna njihov
+                        delegat. Sistem je tako bil svojstvena uresničitev neposredne demokracije.
+                        Skupščina posledično tudi ni bila zamišljena kot klasično predstavniško
+                        telo.</p>
+                    <p>Poleg tega velja poudariti, da delegati tedaj niso bili ves mandat isti
+                        ljudje; zaradi sistema izmenljivega delegata so na skupščinske seje lahko
+                        prihajali novi, drugačni delegati, včasih tudi simpatizerji novih družbenih
+                        gibanj. Skupščina je tako načeloma lahko sledila željam in zahtevam
+                        javnosti. Pa je tudi javnost bila mnenja, da je temu tako? So ljudje v
+                        skupščini videli svojega predstavnika? Precej povedni so podatki tedanjih
+                        raziskav javnega mnenja. Leta 1986 so ljudje na vprašanje »Za nami so
+                        skupščinske volitve. Ali imate občutek, da ste sodelovali pri presoji in
+                        določanju kandidatov za vodilne funkcije?« odgovorili v 50 % z da, ko je šlo
+                        za raven občine. Ko pa je šlo za sodelovanje pri odločanju vodilnih
+                        kandidatov na republiški in zvezni ravni, so skoraj v treh četrtinah
+                        odgovorili z ne. Očitno se jim je delegatski sistem resnično zdel odtujen in
+                        so imeli občutek, da ne sodelujejo pri oblikovanju skupščine. Političnega
+                        sistema tudi niso prav podrobno poznali. Leta 1989 jih večina ni znala
+                        našteti vseh treh skupščinskih zborov. </p>
+                    <p>Toda po drugi strani so v odgovorih ljudje tedaj kazali naklonjenost
+                        skupščini, na konkretno odprto vprašanje, čemu se zavzemate za referendum,
+                        so le v minimalnem odstotku odgovorili, da zaradi nezaupanja v skupščino. V
+                        glavnem so izražali željo po več (neposredne) demokracije, kar je bil
+                        svojstven paradoks za sistem, kjer naj bi bila uveljavljena ravno neposredna
+                        demokracija. </p>
+                    <p>Kredibilnost slovenske skupščine se je konec osemdesetih let bolj in bolj
+                        krepila, še zlasti pa po letu 1989 in sprejetju ustavnih amandmajev. Aprila
+                        1990 so bile nato prvič po letu 1927 izvedene večstrankarske in tajne
+                        volitve in v skupščino so tedaj sedli delegati, ki so se navkljub tedanji
+                        veljavni ustavi novim časom oziroma razmeram primerno nazivali z izrazom
+                        poslanci. </p>
+                </div>
+                <div>
+                    <head><anchor xml:id="Toc130884617"/><hi rend="italic">Pregled pomembnejših
+                            dejavnikov, ki so vplivali na proces nastajanja slovenske ustave ter
+                            nekaterih spremljajočih vidikov političnega razvoja Slovenije</hi>
+                    </head>
+                    <p><hi rend="color(221E1F)" xml:space="preserve">V nadaljevanju je kronološko podan strnjen pregled nekaterih pomembnejših dejavnikov, ki so neposredno ali posredno vplivali na oblikovanje Ustave Republike Slovenije iz leta 1991. Ta pregled po eni strani nazorno kaže, kako je bilo oblikovanje slovenske ustave neločljivo povezano s procesom osamosvajanja Slovenije in Slovencev kot državotvornega naroda (nacije) ter s prizadevanjem, da se Slovenija konstituira predvsem kot demokratična in pravna država, ki spoštuje in varuje človekove pravice in pravice manjšin. Po drugi strani je iz pregleda razvidno, da so se ti procesi in prizadevanja manifestirali skozi nekaj zelo intenzivnih let intelektualnega in političnega vrenja, skozi katerega je postopno, vendar vseeno relativno hitro dozorela in bila nato tudi realizirana ideja vzpostavitve samostojne slovenske države, ki se je preko ustave in iz nje izhajajočega pravnega reda zavezala tistim vrednotam, ki so jih dotlej že dodobra razvile predvsem evropske in zahodne demokracije. </hi></p>
+                    <list type="ordered">
+                        <item>Dne 20. februarja 1987 je izšla 57. številka Nove revije, v kateri so
+                            bili objavljeni
+                                <hi rend="italic" xml:space="preserve">Prispevki za slovenski </hi><hi
+                                rend="italic color(221E1F)">nacionalni program.</hi>
+                            <hi rend="color(221E1F)" xml:space="preserve">Ta program je bil ena prvih vplivnejših in organiziranih reakcij slovenske intelektualne in deloma politične opozicije zoper takratno oblast, osredotočeno v Zvezi komunistov Slovenije oziroma Jugoslavije. Program je poudaril ključne vidike slovenske nacionalne samobitnosti, predvsem potrebo po uresničitvi pravice slovenskega naroda do samoodločbe in po državni suverenosti, potrebo po razvoju slovenske parlamentarne večstrankarske demokracije, potrebo po formiranju lastne slovenske vojske, potrebo po drugačni ureditvi pravnega razmerja med Slovenijo in Jugoslavijo itd.. Vse to je bilo v izrazitem nasprotju s stališči takratne uradne politike. Stališče le-te do objavljenega nacionalnega programa je bilo zato v celoti odklonilno. </hi></item>
+                    </list>
+                    <list type="ordered">
+                        <item>Dne 25. aprila 1988 sta Ustavna komisija upravnega odbora Društva
+                            slovenskih pisateljev in Delovna skupina za ustavni razvoj pri
+                            slovenskem sociološkem društvu objavili posebno <hi rend="italic"
+                                >Gradivo za slovensko ustavo</hi>, v katerem so zavzemale posebno
+                            mesto <hi rend="italic">Teze za ustavo Republike Slovenije</hi>, bolj
+                            znane kot Sociološko-pisateljska ustava ali Pisateljska ustava (v
+                            nadaljevanju: <hi rend="italic">Pisateljska ustava</hi>). Teze so
+                            predstavljale povzetek in dograditev idej, ki so bile leto prej
+                            objavljene v nacionalnem programu. Oblikovane so bile kot nekakšna
+                            okvirna zasnova ustavnega besedila, njihov osnovni namen pa je bil
+                            izražen v težnji po odpravi ideoloških načel iz ustave, po odpravi
+                            ustavnih določil o vodilni vlogi Zveze komunistov ter v težnji po
+                            začetku procesa za vzpostavitev modernega demokratičnega ustavnega reda
+                            v Sloveniji, ki naj bi se oblikovala kot država. </item>
+                    </list>
+                    <list type="ordered">
+                        <item>Dne 27. septembra 1989 je slovenska skupščina sprejela <hi
+                                rend="italic">ustavne amandmaje IX do XC k ustavi Socialistične
+                                Republike Slovenije iz leta 1974</hi> (Ur. l. SRS, št. 32/89). Že
+                            število amandmajev kaže, da je šlo za obširen poseg v dotedanje ustavno
+                            besedilo, ki pa ni bistveno spremenil temeljev političnega sistema v
+                            Sloveniji ter položaja Slovenije kot federalne enote znotraj SFR
+                            Jugoslavije. Posamezni amandmaji so med drugim predvsem: </item>
+                    </list>
+                    <p>a) okrepili politični položaj Slovenije, čeprav njenega federalnega statusa
+                        znotraj Jugoslavije niso spreminjali (glej 1. točko amandmaja IX, 1. točko
+                        amandmaja LXIII ter amandma X); </p>
+                    <p>b) izrecno zajamčili spoštovanje pravic in svoboščin človeka in državljana,
+                        politični pluralizem ter enakopravnost vseh oblik lastnine ter gospodarskega
+                        in drugega ustvarjalnega delovanja (glej npr. 1., 6., 17. in 26. točko
+                        amandmaja IX, 7. in 8. točko amandmaja XIII, 1. in 2. točko amandmaja XIV,
+                        1. točko amandmaja XXVII, 1. točko amandmaja XXXVI; glej tudi amandmaje, ki
+                        dopolnjujejo poglavje o svoboščinah, pravicah in dolžnostih človeka in
+                        občana). </p>
+                    <p>Posamično bi bilo sicer mogoče nekatere od teh amandmajev videti tudi kot
+                        zasnovo </p>
+                    <p>bodoče temeljitejše prenove ustavne ureditve, vendar pa v takratnem ustavnem
+                        kontekstu niso imeli te vloge oziroma namena. </p>
+                    <list type="ordered">
+                        <item>Dne 16. decembra 1989 je Predsedstvo Socialistične Republike Slovenije
+                            s sklepom imenovalo Skupino za pripravo <hi rend="italic">Izhodišč za
+                                novo ustavo SR Slovenije in novo ustavo SFR Jugoslavije.</hi>
+                            Delovna skupina je pripravila izhodišča na podlagi usmeritev, ki so jih
+                            določili ustavni amandmaji iz istega leta ter nekateri politični in
+                            strokovni dokumenti (predvsem <hi rend="italic">Majniška deklaracija,
+                                Temeljna listina Slovenije 1989</hi> ter <hi rend="italic">Gradivo
+                                delovne skupine pri Predsedstvu Republiške konference Socialistične
+                                zveze delovnega ljudstva Slovenije</hi>). Izhodišča za novo ustavo
+                            (objavljena tudi v časopisu <hi rend="italic">Delu</hi>, 16. 12. 1989,
+                            str. 28–29) so vsekakor napovedala usmeritev v nov ustavni sistem,
+                            katerega značilnosti naj bi bile med drugim demokratičnost in pravna
+                            država v najširšem smislu, pluralizem in enakopravnost lastnin, tržne
+                            oblike gospodarstva itd. Pri tem pa ta izhodišča niso predvidela
+                            samostojnega in neodvisnega statusa Slovenije, ki naj bi torej ostala
+                            jugoslovanska federalna enota. </item>
+                    </list>
+                    <list type="ordered">
+                        <item>Dne 10. aprila 1990 je takrat že bistveno močnejša in vplivnejša
+                            politična in intelektualna opozicija v svojem časopisu Demkracija (št.
+                            14, 10. 4. 1990, str. 1-8) objavila svoj <hi rend="italic">Delovni
+                                osnutek nove slovenske ustave</hi>, ki se je opiral na besedilo
+                            Pisateljske ustave. Tega osnutka se je prijelo ime <hi rend="italic"
+                                >»Demosova ustava«</hi>, kar ni bilo povsem točno. Sprejel ga je
+                            namreč Zbor za ustavo, katerega članica je bila tudi Zveza socialistične
+                            mladine Slovenije (ZSMS), res pa ga je v svoj program sprejela tudi
+                            tedaj že ustanovljena Demokratična opozicija Slovenije (Demos), katere
+                            koalicijske članice so bile združene tudi v Zboru za ustavo.<anchor
+                                xml:id="ftn1"/> V primerjavi s Pisateljsko ustavo je navedeni
+                            osnutek v 164. členih ponujal natančneje izdelano in pravno gledano še
+                            za stopnjo bolj izpopolnjeno formulacijo zasnove nove ustave, čeprav
+                            seveda po stopnji izdelanosti ni presegal oznake iz svojega naslova.
+                            Delovni osnutek je bil razdeljen na naslednja poglavja: 1. Temeljna
+                            načela; 2. Pravice človeka in državljana; 3. Državna ureditev; 4.
+                            Samouprava; 5. Ustavno varstvo.</item>
+                    </list>
+                    <list type="ordered">
+                        <item>V dneh 8., 12. in 22. aprila 1990 so bile v Sloveniji izvedene prve
+                            povojne <hi rend="italic">demokratične volitve</hi>, na katerih se je za
+                            mesta v takratni tridomni Skupščini Socialistične Republike Slovenije
+                            potegovalo 15 političnih organizacij in 3 liste. Skupno je bilo
+                            izvoljenih 240 delegatov (trikrat po 80 za vsakega izmed treh zborov).
+                            Formalno so se vse organizacije, ki so kandidirale na volitvah,
+                            imenovale politične organizacije, čeprav se je poimenovanje v medijih in
+                            drugod uporabljalo nedosledno (pogosto so jih imenovali kar politične
+                            stranke). Volitve so potekale po t.i. kombiniranem volilnem sistemu: v
+                            družbeno-politični zbor po proporcionalnem volilnem sistemu, v zbor
+                            občin po dvokrožnem večinskem sistemu, za zbor združenega dela pa je
+                            veljal enokrožni večinski sistem.</item>
+                    </list>
+                    <p rend="No Spacing"><hi rend="italic">V družbenopolitičnem zboru skupščine</hi>
+                        so bili rezultati sledeči: Koalicija Demos je skupno dobila največ glasov
+                        (SDZ 9,5% glasov, Socialdemokratska zveza Slovenije 7,4% glasov; Slovenski
+                        krščanski demokrati 13% glasov, Slovenska kmečka zveza 12,6% glasov,
+                        Slovenska obrtniška stranka 3,5% glasov in Zeleni Slovenije 8,8% glasov).
+                        Drugo mesto je zasedla Zveza komunistov Slovenije – Stranka demokratične
+                        prenove (17,3% glasov), tretje Zveza socialistične mladine Slovenije –
+                        Liberalna stranka (14,5% glasov), volilni prag je prestopila še
+                        Socialistična zveza delovnega ljudstva (5,4% glasov).</p>
+                    <p rend="No Spacing"><hi rend="italic">V zbor združenega dela</hi> so bili
+                        voljeni posamezni kandidati, ki jih je predlagala organizacija oziroma lista
+                        ali katerakoli druga družbena organizacija ali njen del (npr. Gospodarska
+                        zbornica, Republiški odbor sindikata delavcev obrti Slovenije, Mercator –
+                        Ljubljanske mlekarne itd.). Kandidirali so v vsaki volilni enoti in po
+                        področjih kot so bila industrija in rudarstvo, gradbeništvo, promet in
+                        zveze, trgovina, finance, socialno varstvo, izobraževanje in telesna kultura
+                        itd. </p>
+                    <p rend="No Spacing"><hi rend="italic">V zbor občin</hi> so volitve po
+                        dvokrožnem volilnem sistemu prav tako potekale po posameznih volilnih enotah
+                        (Ur. l. SRS, št. 17/1990).</p>
+                    <p>Na volitvah so volilni upravičenci izbirali tudi predsednika in člane
+                        predsedstva SR Slovenije, pri čemer so bili v skladu z zakonom, ki je
+                        upošteval večinsko voljo volivcev, predsednik in člani tega kolektivnega
+                        organa voljeni neposredno s strani državljanov. Volitev se je udeležilo 83,
+                        51 % volilnih upravičencev (Ur. l. SRS, št. 14/1990 in 17/1990). V prvem
+                        krogu, 8. aprila 1990, nihče od štirih kandidatov za predsednika predsedstva
+                        (Marko Demšar, Jože Pučnik, Milan Kučan in Ivan Kramberger) ni dobil večine
+                        glasov, zaradi česar je republiška volilna komisija razpisala ponovno
+                        glasovanje o dveh najuspešnejših kandidatih iz prvega kroga (Milanu Kučanu
+                        in Jožetu Pučniku) za 22. april 1990. V drugem krogu je bil za <hi
+                            rend="italic">predsednika predsedstva</hi> z 58,6% izvoljen Milan Kučan.
+                            <hi rend="italic">Člani predsedstva</hi> so bili uspešno izvoljeni v
+                        prvem krogu glasovanja (Ciril Zlobec in Matjaž Kmecl kot vidna člana ZKS in
+                        SZDL, ter Dušan Plut in Ivan Oman, člana Demosa).</p>
+                    <list type="ordered">
+                        <item>Dne 25. junija 1990 je novoizvoljeno Predsedstvo Republike Slovenije
+                            oblikovalo <hi rend="italic">Predlog za začetek postopka za sprejetje
+                                nove slovenske ustave.</hi> V predlogu je bilo poudarjeno, da naj se
+                            Slovenija konstituira kot samostojna država, bodoča ustava pa naj
+                            predvsem oblikuje temeljne atribute državnosti ter zagotovi vse potrebne
+                            mehanizme pravne in demokratične države. Konkretno so bile v predlogu
+                            ponujene nekatere bistvene prvine bodoče ustavne ureditve, glede katerih
+                            je v tistem času že obstajal splošni konsenz parlamentarnih strank. Tako
+                            je predlog med drugim navedel, da naj ustava: a) vsestransko zagotovi
+                            varstvo človekovih pravic; b) vsebuje le nekaj temeljnih določb o
+                            gospodarskem sistemu; c) uredi državno ureditev na temelju parlamentarne
+                            oblike oblasti; d) poudari in okrepi vlogo ustavnega sodišča; e)
+                            opredeli oblike lokalne samouprave ter f) zagotovi možnost
+                            referendumskega odločanja državljanov. </item>
+                    </list>
+                    <list type="ordered">
+                        <item>Dne 13. junija 1990 je bila ustanovljena <hi rend="italic">Ustavna
+                                komisija Skupščine Republike Slovenije</hi> s prednostno nalogo, da
+                            pripravi predlog nove slovenske ustave in ga predloži v sprejem
+                            skupščini oziroma njenim zborom. </item>
+                    </list>
+                    <list type="ordered">
+                        <item>Dne 2. julija 1990 je slovenska skupščina skladno z voljo vseh
+                            parlamentarnih političnih strank in drugih poslanskih skupin
+                            (predstavniki italijanske in madžarske narodne skupnosti ter neodvisni
+                            poslanci), sprejela <hi rend="italic">Deklaracijo o suverenosti države
+                                Republike Slovenije</hi> (Ur. l. RS, št. 26/1990). Ker je Slovenija
+                            v tistem času bila in ostala federalna enota SFR Jugoslavije, je bila
+                            takšna deklaracija predvsem simbolna. Toda obenem je bila pomembna
+                            politična spodbuda slovenski politiki in državljanom v smeri nadaljnjih
+                            aktivnosti osamosvajanja Slovenije. Ob sklicevanju nanjo je slovenska
+                            skupščina sprejela več ustavnih aktov in navadnih zakonov, ki so začeli
+                            uvajati v Sloveniji nov pravni red, tudi mimo zvezne jugoslovanske
+                            ustave in drugih zveznih predpisov. Kot deklaratorni (razglasitveni)
+                            dokument pa je seveda deklaracija izzvenela v prazno, saj slovenska
+                            državnost takrat še ni bila vzpostavljena.</item>
+                    </list>
+                    <p>Ob tem ne gre zanemariti pomena, ki ga je imela deklaracija v mednarodnem
+                        pogledu, saj je evropsko in širšo mednarodno skupnost opozorila na slovensko
+                        odločenost, da pospeši in izpelje proces osamosvojitve. Hkrati so se dogodki
+                        v Jugoslaviji že začeli neustavljivo razvijati v smeri razpadanja zveznega
+                        državnega sistema. </p>
+                    <list type="ordered">
+                        <item>Dne 18. julija 1990 je Skupščina Republike Slovenije sprejela <hi
+                                rend="italic">Sklep o začetku postopka za sprejem ustave Republike
+                                Slovenije</hi> (Ur. l. RS, št. 29/90).</item>
+                    </list>
+                    <list type="ordered">
+                        <item>V skladu z navedenim sklepom je skupščinska ustavna komisija imenovala
+                            posebno skupino pravnih in drugih strokovnjakov, ki je v hotelu Grad
+                            Podvin od 20. do 25. avgusta 1990 oblikovala <hi rend="italic">predlog
+                                osnutka nove slovenske ustave</hi> (t. i. <hi rend="italic"
+                                >Podvinska ustava</hi>). Kot izhodišče in podlago za svoje delo je
+                            uporabila že omenjeni Delovni osnutek nove slovenske ustave, ki ga je
+                            sprejel Zbor za ustavo, hkrati pa je preučila tudi druga gradiva iz
+                            dotedanje neformalne javne ustavne razprave ter številne do takrat
+                            podane pripombe in pobude javnosti. Ob temeljni osredotočenosti na
+                            specifično slovensko situacijo in politično deklarirane cilje bodoče
+                            ustavne ureditve je podvinska strokovna skupina pri oblikovanju predloga
+                            ustavnega osnutka preučila in ustrezno upoštevala tudi ureditve iz
+                            nekaterih evropskih in drugih demokratičnih ustav ter ureditve iz
+                            mednarodnih konvencij in listin o varstvu človekovih pravic in svoboščin
+                            ter o zagotavljanju lokalne samouprave.</item>
+                    </list>
+                    <list type="ordered">
+                        <item>Besedilo, ki ga je oblikovala podvinska strokovna skupina, je ustavna
+                            komisija po opravljeni razpravi v nekaterih določbah preoblikovala ter
+                            12. oktobra 1990 določila <hi rend="italic">Osnutek ustave Republike
+                                Slovenije</hi>, ki ga je s spremno razlago (glej Poročevalec
+                            Skupščine RS, št. 17, 19. 10. 1990) dala v javno razpravo. V precejšnjem
+                            delu vladajoče politične koalicije (Demos) je takrat prevladovalo
+                            prepričanje, da bo nova ustava, s katero bi se ustanovila
+                            (konstituirala) tudi slovenska država, sprejeta že do konca decembra
+                            1990, toda tako znotraj koalicije kot tudi na strani opozicijskih strank
+                            je kmalu prišlo do nasprotovanj tako kratkemu roku. Za sprejem
+                            najpomembnejšega pravno-političnega dokumenta države naj bi bil takrat
+                            po mnenju mnogih, tako v političnih kot tudi v strokovnih krogih,
+                            potreben daljši čas, ki bi omogočil dovolj pretehtane ustavne rešitve.
+                            Pri tem so bili v ozadju med drugim tudi različni politični pogledi na
+                            osamosvojitev ter na parlamentarne volitve, ki bi se morale izvesti
+                            kmalu po sprejetju ustave, kar nekaterim političnim strankam takrat ni
+                            ustrezalo. </item>
+                    </list>
+                    <list type="ordered">
+                        <item><hi rend="italic">Javna razprava o osnutku ustave</hi>, ki se je
+                            pričela 12. oktobra 1990, se je uradno zaključila 30. novembra 1990,
+                            dejansko pa je trajala mnogo dlje. Pripombe in pobude javnosti je
+                            ustavna komisija sprejemala in obravnavala vse do določitve predloga
+                            ustave.</item>
+                    </list>
+                    <list type="ordered">
+                        <item>Ker v skupščinski ustavni razpravi glede nekaterih pomembnih ustavnih
+                            vprašanj ni bilo mogoče doseči potrebne (dvotretjinske) ustavne večine,
+                            se namen vladajoče koalicije, da bi se slovenska država konec leta 1990
+                            pravno konstituirala s sprejemom nove slovenske ustave, ni uresničil.
+                            Zato se je slovenska politika z namenom zagotovitve potrebnega
+                            nacionalnega soglasja ter politične in pravne podlage za osamosvojitev
+                            po zahtevnih medsebojnih pogajanjih med političnimi strankami odločila
+                            za izvedbo <hi rend="italic">plebiscita</hi>. Neposredna pobuda za
+                            slovenski plebiscit je prišla iz vrst parlamentarne opozicije, točneje
+                            iz vrst Socialistične stranke Slovenije, vendar pa je koalicija Demos že
+                            pred tem predvidela podobno dejanje, saj naj bi se po prvotni zamisli
+                            nova slovenska ustava dokončno sprejela na referendumu (predvidoma
+                            decembra 1990), na katerem bi ljudstvo Slovenije potrdilo besedilo
+                            ustave in s tem tudi opredelitev Slovenije kot suverene države. (glej
+                            163. in 164. člen osnutka ustave v povezavi s 1. členom osnutka
+                            ustave).</item>
+                    </list>
+                    <list type="ordered">
+                        <item>Dne 23. decembra 1990 je bil izveden plebiscit, ki se ga je udeležilo
+                            1.359.901 volilnih upravičencev od skupaj 1.459.752 vseh volilnih
+                            upravičencev, kar pomeni, da je bila udeležba 93,2 %. 1.288.044 (88,2 %)
+                            upravičencev je glasovalo ZA samostojno in neodvisno državo Slovenijo,
+                            57.877 (4,2 %) udeležencev je glasovalo PROTI, medtem ko je bilo 12.398
+                            (0,8 %) oddanih glasovnic neveljavnih. Takšen izid plebiscita je
+                            dokazal, da je politična usmeritev v izgradnjo samostojne oziroma
+                            suverene slovenske države nesporno legitimna. </item>
+                    </list>
+                    <list type="ordered">
+                        <item>V nadaljnjem pravno-političnem izgrajevanju slovenske države in njenih
+                            prvin je slovenska skupščina sprejela nekaj ustavnih amandmajev, ki so v
+                            omejenem obsegu “nadomestili” pričakovano novo ustavo, saj so omogočili
+                            nemoteno izvajanje nekaterih osamosvojitvenih dejanj. </item>
+                    </list>
+                    <p>Že 5. oktobra 1990 je skupščina sprejela <hi rend="italic">ustavne amandmaje
+                            XCVI do XCVIII k ustavi Republike Slovenije</hi> (Ur. l. RS, št. 35/90),
+                        s katerimi je določila predvsem naslednje: </p>
+                    <list type="unordered">
+                        <item>v Sloveniji se ne uporabljajo določbe ustave SFR Jugoslavije, ki niso
+                            v skladu s slovensko ustavo; </item>
+                        <item>Slovenija z ustavnimi zakoni določi, katere določbe jugoslovanskih
+                            zveznih predpisov in splošnih aktov zveznih organov se ne uporabljajo
+                            več v Sloveniji (ker po takratni jugoslovanski ustavi veljavnosti
+                            republiških <hi rend="italic">ustavnih</hi> zakonov, za razliko od
+                            navadnih zakonov, ni moglo presojati zvezno ustavno sodišče, temveč le
+                            slovensko republiško ustavno sodišče, je s tem določilom celotna
+                            jurisdikcija, ki je temeljila na slovenskih ustavnih zakonih, formalno
+                            prešla v izključno sfero Slovenije); </item>
+                        <item>Slovenija z zakonom (samostojno) ureja način služenja vojaškega roka
+                            in druga vprašanja vojaške obveznosti ter ureja teritorialno obrambo.
+                        </item>
+                    </list>
+                    <p>Dne 22. februarja je bil sprejet <hi rend="italic">XCIX. amandma k ustavi
+                            Republike Slovenije</hi> (Ur. l. RS, št. 7/91), ki bi ga lahko že
+                        imenovali osamosvojitveni amandma, saj je določil ustavno podlago za povsem
+                        suvereno urejanje slovenskih notranjih in zunanjih zadev. Ta amandma je
+                        zapolnil pravno praznino, ki bi bila sicer obstajala zaradi dejstva, da
+                        Slovenija takrat še ni sprejela ustave samostojne države z vsemi potrebnimi
+                        atributi. Ustavni amandma XCIX je med drugim določil, da državljani
+                        Slovenije neposredno in preko skupščine odločajo o urejanju vseh odnosov v
+                        Sloveniji in o urejanju odnosov Slovenije z drugimi državami in mednarodnimi
+                        organizacijami. Razveljavil je vse določbe slovenske ustave iz leta 1974, s
+                        katerimi je bilo preneseno izvrševanje suverenih pravic Republike Slovenije
+                        na organe SFR Jugoslavije, in določbe, ki so urejale položaj Slovenije v SFR
+                        Jugoslaviji ter iz njega izhajajoča razmerja. Ob tem pa je tudi kompromisno
+                        določil, da dokler slovenska skupščina ne odloči drugače, Slovenija še
+                        vedno, v skladu s svojimi predpisi, ureja odnose z drugimi republikami v SFR
+                        Jugoslaviji in z organi SFR Jugoslavije. </p>
+                    <p>Istega dne (22. februarja 1991) je slovenska skupščina sprejela tudi <hi
+                            rend="italic">Resolucijo o predlogu za sporazumno razdružitev SFR
+                            Jugoslavije</hi> (Ur. l. RS, št. 7/91), v kateri je najprej opozorila na
+                        plebiscitno odločitev Slovencev oziroma slovenskih volivcev, nato pa
+                        ponudila konkretne predloge za izpeljavo sporazumnega postopka razdružitve
+                        Jugoslavije. Resolucija ni naletela na ugoden odziv (tega praktično sploh ni
+                        bilo) v drugih jugoslovanskih republikah, z izjemo Hrvaške. </p>
+                    <list type="ordered">
+                        <item>Slovenija se je dokončno oblikovala kot država s sprejetjem <hi
+                                rend="italic">Temeljne ustavne listine o samostojnosti in
+                                neodvisnosti Republike Slovenije</hi> in <hi rend="italic">Ustavnega
+                                zakona za izvedbo Temeljne ustavne listine o samostojnosti in
+                                neodvisnosti Republike Slovenije</hi>, hkrati pa je sprejela tudi
+                                <hi rend="italic">Deklaracijo ob neodvisnosti</hi> (vsi trije
+                            dokumenti so bili sprejeti 25. junija 1991 in so bili objavljeni v prvi
+                            številki uradnega lista nove države – Ur. l. RS, št. 1, z dne 25. junija
+                            1991). Prva dva akta sta ustavnopravne narave, medtem ko je deklaracija
+                            političen akt. </item>
+                    </list>
+                    <p><hi rend="italic">Temeljna ustavna listina</hi> je ustavni akt <hi
+                            rend="italic">sui generis</hi> (tj. akt posebne vrste), kajti po eni
+                        strani se pri nas prvič pojavlja akt s takšnim nazivom, po drugi strani pa
+                        sta tudi vsebina in oblika tega akta specifični glede na do sedaj znane in
+                        pri nas uveljavljene ustavne oziroma pravne akte. Temeljna ustavna listina
+                        opredeljuje Slovenijo kot samostojno in neodvisno državo, ki prevzema vse
+                        pravice in dolžnosti, ki so bile z ustavo Republike Slovenije in ustavo SFR
+                        Jugoslavije prenesene na organe SFRJ, ter prevzema tudi njihovo izvrševanje
+                        (kar ureja ustavni zakon za izvedbo te listine). Ob tem je določena tudi
+                        (mednarodna) meja slovenske države, posebej pa je določeno, da Republika
+                        Slovenija zagotavlja varstvo temeljnih pravic in svoboščin vsem osebam na
+                        svojem državnem ozemlju, ter da zagotavlja italijanski in madžarski narodni
+                        skupnosti in njunim pripadnikom v Sloveniji pravno varstvo na temelju ustave
+                        iz leta 1974. </p>
+                    <p>Temeljna ustavna listina je določila le najnujnejše za vzpostavitev državne
+                        suverenosti in je ohranila (do sprejetja nove ustave) v veljavi večji del
+                        ustave iz leta 1974 z njenimi spremembami in dopolnili. Ta ustava je namreč
+                        vsebovala potrebne državotvorne prvine, tj. predvsem celotno institucionalno
+                        zgradbo državne oblasti (skupščina, izvršni svet, predsedstvo republike
+                        itd.), pri čemer je listina ustrezno opredelila še državno mejo. Temeljna
+                        ustavna listina je razveljavila ustavo iz leta 1974 kot ustavo federalne
+                        enote Jugoslavije, kar pomeni, da je razveljavila tiste njene določbe, ki so
+                        odražale njeno izvedenost iz jugoslovanske ustavne ureditve. </p>
+                    <p>Preambula (svečani uvod) nove ustave izrecno navaja, da izhaja ustava iz
+                        Temeljne ustavne listine, ki torej ostaja v veljavi hkrati z novo ustavo. To
+                        je predvsem pomembno zaradi časovnega vidika nastanka slovenske države, ki
+                        sovpada z dnem sprejetja Temeljne ustavne listine, ter zaradi določbe II.
+                        razdelka listine, ki opredeljuje državne meje (nova ustava nima takšne
+                        določbe), kajti vse ostale določbe iz listine so v ustavi implicitno ali
+                        izrecno povzete. Ob tem je posebej pomembna tudi preambula (svečani uvod)
+                        Temeljne ustavne listine, ki strnjeno pojasnjuje razloge za državno
+                        osamosvojitev Slovenije. </p>
+                    <p><hi rend="italic">Ustavni zakon za izvedbo Temeljne ustavne listine</hi> je v
+                        23 členih določil način, na katerega morajo slovenski državni organi
+                        prevzeti izvrševanje pravic in dolžnosti, ki so bile z dotedanjo slovensko
+                        in jugoslovansko ustavno ureditvijo prenesene na organe SFR Jugoslavije.
+                        Hkrati je uredil vsa druga pomembnejša vprašanja, ki so zadevala prehodno
+                        obdobje ter načine in roke za prevzem določenih funkcij in pristojnosti
+                        dotedanje jugoslovanske federacije s strani slovenskih državnih organov. </p>
+                    <p><hi rend="italic">Deklaracija ob neodvisnosti</hi> je bila politični akt in
+                        torej za razliko od Temeljne ustavne listine in ustavnega zakona za njeno
+                        izvedbo ni imela pravnih učinkov. S to deklaracijo je Skupščina Republike
+                        Slovenije strnjeno pojasnila razloge za slovensko osamosvojitev, način njene
+                        izvedbe ter bodoče glavne usmeritve delovanja Slovenije kot države.
+                        Deklaracija je bila namenjena predvsem mednarodni javnosti oziroma drugim
+                        državam ter mednarodnim institucijam in organizacijam, ki naj bi priznale
+                        državnost Slovenije. </p>
+                    <list type="ordered">
+                        <item>Temeljna ustavna listina in ustavni zakon za njeno izvedbo sta
+                            omogočila prvi odločnejši zakonodajni poseg v staro pravno ureditev, saj
+                            je na njuni podlagi Skupščina Republike Slovenije sprejela <hi
+                                rend="italic">sveženj t. i. osamosvojitvenih zakonov</hi>. Med temi
+                            so bili najpomembnejši Zakon o državljanstvu Republike Slovenije, Zakon
+                            o tujcih, Zakon o potnih listinah državljanov Republike Slovenije, Zakon
+                            o nadzoru državne meje, Zakon o zunanjih zadevah, Zakon o carinski
+                            službi, Zakon o kreditnih poslih s tujino, Zakon o deviznem poslovanju,
+                            Zakon o banki Slovenije, Zakon o bankah in hranilnicah ter Zakon o
+                            Agenciji Republike Slovenije za zavarovanje vlog v bankah in hranilnicah
+                            (Ur. l. RS, št. 1, z dne 25. junija 1991). </item>
+                    </list>
+                    <list type="ordered">
+                        <item>Dne 4. 12. 1991 je ustavna komisija določila <hi rend="italic">predlog
+                                Ustave Republike Slovenije</hi> in <hi rend="italic">predlog
+                                Ustavnega zakona za izvedbo Ustave Republike Slovenije</hi>
+                            (Poročevalec Skupščine RS, št. 30, z dne 12. 12. 1991 – popravki v
+                            Poročevalcu Skupščine RS, št. 1, z dne 17. 1. 1992).</item>
+                    </list>
+                    <list type="ordered">
+                        <item>Dne 23. decembra 1991 so vsi trije zbori Skupščine Republike Slovenije
+                            z (več kot) dvotretjinsko večino vseh delegatov sprejeli predlog ustave
+                            in predlog ustavnega zakona za njeno izvedbo. Na skupni seji vseh treh
+                            zborov je odlok o razglasitvi Ustave Republike Slovenije podprlo 207
+                            delegatov, 6 jih je glasovalo proti, 7 pa jih je bilo vzdržanih. S tem
+                            je bila ustava razglašena in je (takoj) stopila v veljavo (ustavna in
+                            ustavni zakon za njeno izvedbo sta objavljena v Ur. l. RS, št.
+                            33/91-I).</item>
+                    </list>
+                    <p rend="bodytext" style="text-align:left; "><hi rend="bold"
+                            style="font-size:14pt">Mednarodni kontekst osamosvajanja in mednarodno
+                            priznanje Slovenije</hi>
+                    </p>
+                    <p rend="bodytext" style="text-align:left; ">Sprejetje ustave je sovpadalo z
+                        (raz)reševanjem jugoslovanske krize. Ob tem je treba poudariti, da je bilo
+                        spomladi leta 1991 dogajanje v Jugoslaviji, vključno s slovenskimi koraki k
+                        samostojnosti, na obrobju zanimanja svetovne politike in javnosti. Vroče
+                        teme so se tedaj obravnavale drugje in so segale od razpadajoče jedrske
+                        velesile Sovjetske zveze do iraške zasedbe Kuvajta, kjer se je ravno takrat
+                        začela prva zalivska vojna. Odnos svetovnih velesil do jugoslovanskega
+                        vprašanja je bil ob relativno širokem nezanimanju zanj glavni razlog za
+                        nerazumevanje razpadanja najzahodnejše države na evropskem vzhodu.
+                        Jugoslovanska kriza je poleg tega sovpadala s pripravo pogodbe o EU, ki je
+                        bila nato konec leta 1991 podpisana v Maastrichtu. Po hladni vojni in v času
+                        evropskega povezovanja se je ravno v Jugoslaviji začenjal resen konflikt, ki
+                        je bil navzven videti kot posledica separatizma z nacionalističnim nabojem.
+                        Strah pred krepitvijo načela o samoodločbi je bil seveda resna nevarnost
+                        notranji stabilnosti Evrope in njenemu združevalnemu projektu. Stališče
+                        Evrope in ZDA je bilo tako spočetka protislovno, saj je odobravalo
+                        demokratizacijske procese in gospodarske reforme, a hkrati zagovarjalo
+                        ohranitev enotne jugoslovanske države.</p>
+                    <p rend="bodytext" style="text-align:left; ">Toda začetek osamosvojitvene vojne
+                        26. junija 1991 zvečer je naglo spremenil interesni horizont tujine in
+                        pogledi so se vendarle zazrli v najsevernejšo jugoslovansko republiko.
+                        Evropa se je odzvala precej hitro – ne nazadnje je tedanji luksemburški
+                        zunanji minister Jacques Poos jugoslovansko krizo takoj označil za »uro
+                        Evrope« – in v Jugoslavijo poslala skupino posrednikov, poljudno imenovano
+                        trojka. Ta se je z vsemi vpletenimi stranmi večkrat sešla, tudi v nekdanji
+                        Titovi poletni rezidenci na Brionih.</p>
+                    <p rend="bodytext" style="text-align:left; ">Evropejci vpletenim niso puščali
+                        veliko manevrskega prostora, saj so jim ponudili – pravzaprav zahtevali – v
+                        podpis posebno izjavo, po kraju podpisa poimenovano <hi rend="italic"
+                            >Brionska deklaracija</hi>. Vsebovala je številne kompromisne rešitve in
+                        zato ni v celoti zadovoljila nikogar. Za slovensko stran sta bili
+                        najspornejši točki, ki sta predvidevali trimesečni moratorij za
+                        osamosvojitvene odločitve in deblokado vojašnic Jugoslovanske ljudske armade
+                        (JLA) ter vračilo zaplenjene vojaške opreme. Tedaj se je marsikomu zdelo, da
+                        bi sprejetje teh dveh točk pomenilo odpoved temeljnim pridobitvam, sami
+                        osamosvojitvi in njenemu uspešnemu policijsko-vojaškemu zavarovanju. Toda
+                        Brionska deklaracija je hkrati pokazala, da so se trda stališča zahodnih
+                        držav nedvomno spremenila, kajti jugoslovanska zvezna vlada Anteja Markovića
+                        je izgubila status dotlej edinega resnega sogovornika tujim diplomatom.
+                        Republika Slovenija, ki je ob drugih republikah dejansko že bila eden od
+                        nosilcev politične moči, je to postala tudi v očeh tujih sogovornikov. S
+                        samim sprejetjem brionskega sporazuma pa je ne nazadnje postala tudi
+                        odgovoren, razumevajoč in verodostojen dejavnik. Slovenska skupščina je 10.
+                        julija 1991 deklaracijo kljub pomislekom večinsko podprla. </p>
+                    <p rend="bodytext" style="text-align:left; ">Politična dogovarjanja pod
+                        pokroviteljstvom mednarodne skupnosti so medtem tekla naprej. Septembra se
+                        je v Haagu začela <hi rend="italic">konferenca o Jugoslaviji</hi> in v
+                        reševanje konflikta se je vse bolj vključevala tudi Organizacija združenih
+                        narodov (OZN). Toda haaška konferenca, ki ji je predsedoval lord Peter
+                        Carrington, ni našla rešitve, ki bi zadovoljila sprte strani. Zato je
+                        prenesla končno določitev na arbitražno komisijo uglednih tujih pravnikov,
+                        po predsedujočem imenovano <hi rend="italic">Badinterjeva komisija</hi>. Do
+                        8. decembra 1991 je komisija končala delo in ugotovila, da je »SFRJ v
+                        razdružitvenem procesu«, da torej razpada. </p>
+                    <p>Slovenija je tedaj bila edini rešljivi del jugoslovanskega gordijskega vozla.
+                        V razpadajoči državi se je vse bolj razplamtevala vojna. Toda pot k <hi
+                            rend="italic">mednarodnemu priznanju</hi> in polni mednarodni
+                        uveljavitvi kljub temu ni minila bez zapletov. Po prvih priznanjih ob
+                        razglasitvi slovenske samostojnosti (najprej je Slovenijo priznala sosednja
+                        Hrvaška, nato nekatere republike nekdanje Sovjetske zveze - julija Litva,
+                        avgusta Latvija, Estonija in Gruzija) je sledilo naporno obdobje iskanja
+                        konsenza znotraj Evrope. Precej držav je bilo vsled številnih razlogov
+                        skeptičnih, a je naposled prevladalo pozitivno stališče do priznanja, ki ga
+                        je najbolj vneto zagovarjala Nemčija oziroma njen zunanji minister Hans
+                        Dietrich Genscher. Dne 15. januarja 1992 so države Evropske skupnosti ena za
+                        drugo priznale Slovenijo kot neodvisno in samostojno državo. Nemčija je to
+                        storila že 19. 12. 1991, a z dnem veljavnosti 15. 1. 1992; pred tem so to
+                        storile tudi Islandija, Švedska, Belorusija, Ukrajina, Vatikan in San
+                        Marino. V naslednjih dneh in mesecih so sledila še priznanja drugih držav iz
+                        sveta. Rusija je Slovenijo priznala 14. 2. 1992, ZDA 7. 4. 1992 in Kitajska
+                        27. 4. 1992. Dne 22. maja 1992 je bila nato Slovenija na zasedanju generalne
+                        skupščine v New Yorku sprejeta v OZN, s čimer je zaokrožila pot k
+                        mednarodnemu priznanju. V naslednjih letih je vstopila še v druge mednarodne
+                        in meddržavne organizacije, zveze in zavezništva: 24. 3. 1992 v OVSE, 14. 5.
+                        1993 v Svet Evrope, 29. 3. 2004 v NATO, 1. 5. 2004 v EU in 21. 7. 2010 v
+                        OECD. </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
