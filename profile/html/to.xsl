@@ -181,6 +181,15 @@
       <xsl:text>Gradivo</xsl:text>
    </xsl:template>
    
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc>Novo ime za priloge</desc>
+      <param name="thisLanguage"></param>
+   </doc>
+   <xsl:template name="nav-appendix-head">
+      <xsl:param name="thisLanguage"/>
+      <xsl:text>Razstava</xsl:text>
+   </xsl:template>
+   
    <xsldoc:doc xmlns:xsldoc="http://www.oxygenxml.com/ns/doc/xsl">
       <xsldoc:desc>K naslovni strani dam dodatno vsebino, ki ni procesirana iz TEI</xsldoc:desc>
    </xsldoc:doc>
@@ -195,13 +204,13 @@
       <br/>
       <figure>
          <img src="{tei:figure/tei:graphic/@url}" alt="naslovna slika"/>
-         <figcaption>Razglasitev nove ustave, 23. 12. 1991. (Tone Stojko/Muzej novejše zgodovine Slovenije)</figcaption>
+         <figcaption style="font-size: 70%;">Razglasitev Ustave Republike Slovenije, 23. 12. 1991. (Tone Stojko, Muzej novejše zgodovine Slovenije)</figcaption>
       </figure>
       <br/>
       
       <div class="row border-content">
          <div class="medium-6 columns border-content-inner">
-            <h4>Od Pudjuna do ustave:</h4>
+            <h4>Od Pudvina do ustave:</h4>
             <ul class="accordion" data-accordion="" data-allow-all-closed="true">
                <li class="accordion-item" data-accordion-item="">
                   <a href="#" class="accordion-title">Predlog, da se začne postopek za sprejem Ustave RS, 25. 6. 1990</a>
@@ -249,7 +258,7 @@
                   <xsl:call-template name="TOC-title-author-li"/>
                </xsl:for-each>
             </ul>
-            <div class="callout secondary" data-closable="">
+            <div class="callout secondary" data-closable="" style="font-size: 70%;">
                <p>Literatura, na kateri temeljijo to in ostala poglavja, je strnjeno navedena v
                   posebnem pregledu literature – glej: <a href="#">LINK</a>
                   Za razumevanje širšega zgodovinskega, političnega,
