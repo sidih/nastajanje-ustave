@@ -295,5 +295,16 @@
       
    </xsl:template>
    
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc></desc>
+   </doc>
+   <xsl:template match="tei:note[@type='accesability']">
+      <div class="callout alert">
+         <p>
+            <xsl:value-of select="."/>
+         </p>
+      </div>
+   </xsl:template>
+   
    
 </xsl:stylesheet>

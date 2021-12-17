@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2021-12-15</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2021-12-17T09:08:34Z</date><name/></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Kronologija</head>
+                <docAuthor>Miro Cerar</docAuthor>
+                <table>
+                    <row>
+                        <cell>18. februar 1987</cell>
+                        <cell>57. številka Nove revije</cell>
+                        <cell>Kot posebna številka Nove revije izidejo Prispevki za slovenski
+                            nacionalni program, v katerih avtorji izpostavijo potrebe po uresničitvi
+                            pravice slovenskega naroda do samoodločbe in državni suverenosti, po
+                            razvoju slovenske parlamentarne večstrankarske demokracije, po
+                            formiranju slovenske vojske, potrebo po drugačni ureditvi pravnega
+                            razmerja z Jugoslavijo itd.</cell>
+                    </row>
+                    <row>
+                        <cell>16. marec 1987</cell>
+                        <cell>Javna tribuna Društva Slovenskih pisateljev</cell>
+                        <cell>V Cankarjevem domu poteka javna tribuna Društva slovenskih pisateljev
+                            o amandmajih k zvezni ustavi. Tribuna spodbudi intelektualce in civilno
+                            družbo, da postanejo aktivni akterji procesa nastajanja nove ustave.
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>25. april 1988</cell>
+                        <cell>Gradivo za slovensko ustavo (t.i. 'Pisateljska ustava')</cell>
+                        <cell>Zasnova besedila nove ustave, oblikovana v okviru Društva slovenskih
+                            pisateljev in Slovenskega sociološkega društva, je pod naslovom Gradivo
+                            za slovensko ustavo objavljena v Časopisu za kritiko znanosti (v
+                            javnosti dobi ime 'Sociološko-pisateljska' ali 'Pisateljska
+                            ustava').</cell>
+                    </row>
+                    <row>
+                        <cell>27. september 1989</cell>
+                        <cell>Ustavni amandmaji IX do XC</cell>
+                        <cell>Sprejeti so amandmaji IX do XC k ustavi SR Slovenije, ki okrepijo
+                            položaj Slovenije znotraj SFR Jugoslavije. Med drugim zajamčijo varstvo
+                            človekovih pravic ter omogočijo tržno gospodarstvo in politični
+                            pluralizem ter z njim demokratizacijo slovenskega političnega
+                            prostora.</cell>
+                    </row>
+                    <row>
+                        <cell>16. december 1989</cell>
+                        <cell>Imenovanje Skupine za pripravo izhodišč za novo ustavo SR Slovenije in
+                            novo ustavo SFR Jugoslavije</cell>
+                        <cell>Predsedstvo Socialistične Republike Slovenije imenuje delovno skupino
+                            za pripravo izhodišč za novo republiško in zvezno ustavo. Skupina
+                            pripravi izhodišča na podlagi usmeritev, ki so jih določili ustavni
+                            amandmaji iz istega leta ter nekateri politični in strokovni dokumenti
+                            oziroma gradiva.</cell>
+                    </row>
+                    <row>
+                        <cell>7. marec 1990</cell>
+                        <cell>Ustavni amandmaji XCI do XCV</cell>
+                        <cell>Ustavni amandmaji iz poimenovanja republike Slovenije črtajo besedo
+                            'socialistična' ter natančneje določijo vlaganje kandidatur za aprilske
+                            demokratične volitve.</cell>
+                    </row>
+                    <row>
+                        <cell>29. marec 1990</cell>
+                        <cell>Zakon o himni Republike Slovenije </cell>
+                        <cell>Za novo slovensko himno je zakonsko določena 'Zdravljica'. Zakon
+                            določi njeno besedilo, melodijo, izvajanje in uporabo.</cell>
+                    </row>
+                    <row>
+                        <cell>10. april 1990</cell>
+                        <cell>Neformalni Delovni osnutek nove slovenske ustave (t.i. 'Demosova
+                            ustava')</cell>
+                        <cell>Na temelju Pisateljske ustave Zbor za ustavo v sodelovanju z Demosom
+                            in Zvezo socialistične mladine Slovenije sprejme Delovni osnutek nove
+                            ustave (v javnosti dobi ime 'Demosova ustava').</cell>
+                    </row>
+                    <row>
+                        <cell>8., 12. in 22. april 1990</cell>
+                        <cell>Prve demokratične volitve v Republiki Sloveniji</cell>
+                        <cell>Na demokratičnih (pluralnih) volitvah so izvoljeni nova republiška
+                            skupščina, predsedstvo republike in njegov predsednik. V skupščini dobi
+                            večino koalicija Demos.</cell>
+                    </row>
+                    <row>
+                        <cell>9. maj 1990</cell>
+                        <cell>Konstituiranje novoizvoljene Skupščine Republike Slovenije</cell>
+                        <cell>Na konstitutivni seji demokratično izvoljene skupščine je za njenega
+                            predsednika izvoljen dr. France Bučar. Skupščina 16. maja izvoli nov
+                            Izvršni svet Republike Slovenije na čelu z Lojzetom Peterletom (po
+                            sprejemu nove ustave 23. decembra 1991 izvršni svet nadaljuje svoje delo
+                            kot vlada).</cell>
+                    </row>
+                    <row>
+                        <cell>13. junij 1990</cell>
+                        <cell>Ustanovitev Ustavne komisije Skupščine Republike Slovenije</cell>
+                        <cell>Skupščina ustanovi svojo ustavno komisijo, katere prednostna naloga
+                            je, da pripravi predlog nove ustave Republike Slovenije in ga predloži
+                            vsem trem zborom skupščine v obravnavo in sprejem.</cell>
+                    </row>
+                    <row>
+                        <cell>25. junij 1990</cell>
+                        <cell>Predlog za začetek postopka za sprejetje nove slovenske ustave</cell>
+                        <cell>Novoizvoljeno Predsedstvo Republike Slovenije sprejme Predlog za
+                            začetek postopka za sprejetje nove slovenske ustave. Skupščina predlog
+                            potrdi 18. julija.</cell>
+                    </row>
+                    <row>
+                        <cell>2. julij 1990</cell>
+                        <cell>Deklaracija o suverenosti države Republike Slovenije</cell>
+                        <cell>Skupščina Republike Slovenije sprejme deklaracijo o suverenosti, ki
+                            politično okrepi prizadevanja za vzpostavitev Slovenije kot suverene
+                            države.</cell>
+                    </row>
+                    <row>
+                        <cell>18. julij 1990</cell>
+                        <cell>Sklep o začetku postopka za sprejem ustave Republike Slovenije</cell>
+                        <cell>Skupščina Republike Slovenije sprejme sklep o začetku postopka za
+                            sprejem nove ustave. </cell>
+                    </row>
+                    <row>
+                        <cell>20. – 25. avgust 1990</cell>
+                        <cell>Predlog osnutka nove slovenske ustave (t.i. 'Podvinska
+                            ustava').</cell>
+                        <cell>Strokovna skupina skupščinske ustavne komisije sestavi predlog osnutka
+                            nove slovenske ustave (v javnosti dobi ime 'Podvinska ustava').</cell>
+                    </row>
+                    <row>
+                        <cell>5. oktober 1990</cell>
+                        <cell>Ustavni amandmaji XCVI do XCVIII</cell>
+                        <cell>Ustavni amandmaji k slovenski ustavi določijo, da se v Sloveniji ne
+                            uporabljajo več določbe ustave SFR Jugoslavije, ki niso v skladu z
+                            ustavo Republike Slovenije.</cell>
+                    </row>
+                    <row>
+                        <cell>12. oktober 1990</cell>
+                        <cell>Osnutek Ustave Republike Slovenije</cell>
+                        <cell>Ustavna komisija na temelju predloga strokovne skupine določi osnutek
+                            ustave in ga s spremno razlago posreduje v javno razpravo.</cell>
+                    </row>
+                    <row>
+                        <cell>12. oktober 1990 – 30. november 1990</cell>
+                        <cell>Javna razprava o osnutku ustave</cell>
+                        <cell>Posamezniki, lokalne skupnosti, politične stranke, gospodarski
+                            subjekti, združenja, strokovne ter druge institucije in organizacije
+                            ustavni komisiji posredujejo pripombe in pobude glede osnutka ustave.
+                            Komisija prejema pripombe in pobude tudi po poteku javne razprave in jih
+                            upošteva v okviru ustavne razprave. </cell>
+                    </row>
+                    <row>
+                        <cell>23. december 1990</cell>
+                        <cell>Plebiscit</cell>
+                        <cell>Ker ustava še ni sprejeta in ni mogoče izvesti ustavnega referenduma o
+                            novi državni ureditvi, se slovensko politično vodstvo odloči za izvedbo
+                            plebistica. Le-tega se udeleži 1.359.901 volivcev od skupaj 1.459.752
+                            volilnih upravičencev (93,2%. udeležba), pri čemer 1.288.044 (88,2 %)
+                            volivcev glasuje ZA samostojno in neodvisno državo Slovenijo.</cell>
+                    </row>
+                    <row>
+                        <cell>22. februar 1991</cell>
+                        <cell><list style="list-style-type:none;">
+                            <item>Ustavni amandma XCIX</item>
+                            <item>Resolucija o predlogu za sporazumno razdružitev SFR
+                                Jugoslavije</item>
+                        </list></cell>
+                        <cell>Sprejeti ustavni amandma k slovenski ustavi določi podlago za suvereno
+                            urejanje slovenskih notranjih in zunanjih zadev. Hkrati določi, da
+                            dokler slovenska skupščina ne odloči drugače, Slovenija še vedno ureja
+                            odnose z drugimi republikami in zveznimi organi v SFR Jugoslaviji.
+                            Resolucija vzporedno z amandmajem ponudi konkretne predloge za
+                            razdružitev jugoslovanskih republik.</cell>
+                    </row>
+                    <row>
+                        <cell>24. junij 1991</cell>
+                        <cell>Ustavni amandma C</cell>
+                        <cell>Sprejet je ustavni amandma C, ki določi nov grb in novo zastavo
+                            Republike Slovenije.</cell>
+                    </row>
+                    <row>
+                        <cell>25. junij 1991</cell>
+                        <cell><list style="list-style-type:none;">
+                            <item>Temeljna ustavna listina o samostojnosti in neodvisnosti Republike
+                                Slovenije</item>
+                            <item>Ustavni zakon za izvedbo Temeljne ustavne listine o samostojnosti
+                                in neodvisnosti Republike Slovenije</item>
+                            <item>Deklaracija ob neodvisnosti</item>
+                        </list></cell>
+                        <cell>Skupščina Republike Slovenije sprejme tri osrednje osamosvojitvene
+                            dokumente. Prva dva sta ustavnopravna akta, deklaracija pa je politični
+                            dokument. Z razglasitvijo Temeljne ustavne listine Republika Slovenija
+                            postane suverena (samostojna in neodvisna) država.</cell>
+                    </row>
+                    <row>
+                        <cell>25. junij 1991</cell>
+                        <cell>Sveženj osamosvojitvenih zakonov</cell>
+                        <cell>Temeljna ustavna listina in ustavni zakon za njeno izvedbo omogočita
+                            in terjata obsežne spremembe slovenske zakonodaje. Najprej je sprejet
+                            sveženj novih zakonov, ki suvereno urejajo pomembne državotvorne prvine
+                            osamosvojene Slovenije (med njimi so npr. Zakon o državljanstvu
+                            Republike Slovenije, Zakon o tujcih, Zakon o potnih listinah državljanov
+                            Republike Slovenije in Zakon o nadzoru državne meje).</cell>
+                    </row>
+                    <row>
+                        <cell>4. december 1991</cell>
+                        <cell><list style="list-style-type:none;">
+                            <item>Predlog Ustave Republike Slovenije</item>
+                            <item>predlog Ustavnega zakona za izvedbo Ustave Republike
+                                Slovenije</item>
+                        </list></cell>
+                        <cell>Ustavna komisija določi predlog nove ustave in ustavnega zakona za
+                            njeno izvedbo. Oba sta posredovana v obravnavo in sprejem
+                            skupščini.</cell>
+                    </row>
+                    <row>
+                        <cell>23. december 1991</cell>
+                        <cell>Ustava Republike Slovenije</cell>
+                        <cell>Skupščina Republike Slovenije sprejme in na skupni seji vseh treh
+                            zborov razglasi novo slovensko ustavo. Ustava Republike Slovenije začne
+                            veljati z razglasitvijo in pomeni temelj nove, demokratične, pravne in
+                            socialne države, v kateri so zagotovljene človekove pravice in temeljne
+                            svoboščine.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>
