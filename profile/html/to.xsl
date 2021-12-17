@@ -92,6 +92,24 @@
       <!-- dodam projektno specifičen css, ki se nahaja v istem direktoriju kot ostali HTML dokumenti -->
       <link href="project.css" rel="stylesheet" type="text/css"/>
    </xsl:template>
+   <xsldoc:doc xmlns:xsldoc="http://www.oxygenxml.com/ns/doc/xsl">
+      <xsldoc:desc>[html] Hook where extra Javascript functions can be defined</xsldoc:desc>
+   </xsldoc:doc>
+   <xsl:template name="javascriptHook">
+      <script src="{concat($path-general,'themes/foundation/6/js/vendor/jquery.js')}"></script>
+      <!-- za highcharts -->
+      <xsl:if test="//tei:figure[@type = 'chart'][tei:graphic[@mimeType = 'application/javascript']]">
+         <xsl:variable name="jsfile" select="//tei:figure[@type = 'chart'][tei:graphic[@mimeType = 'application/javascript']][1]/tei:graphic[@mimeType = 'application/javascript']/@url"/>
+         <xsl:variable name="chart-jsfile" select="document($jsfile)/html/body/script[1]/@src"/>
+         <script src="{$chart-jsfile[1]}"></script>
+      </xsl:if>
+      <!-- za back-to-top in highcharts je drugače potrebno dati jquery, vendar sedaj ne rabim dodajati jquery kodo,
+         ker je že vsebovana zgoraj -->
+      <!-- dodan css jstree (mora biti za jquery.js -->
+      <link href="{concat($path-general,'themes/plugin/jstree/3.3.5/dist/themes/default/style.min.css')}" rel="stylesheet" type="text/css" />
+      <!-- dodan jstree -->
+      <script src="{concat($path-general,'themes/plugin/jstree/3.3.5/dist/jstree.min.js')}"></script>
+   </xsl:template>
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
       <desc></desc>
@@ -145,48 +163,28 @@
    </xsl:template>
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc>Novo ime za front front/div</desc>
+      <param name="thisLanguage"></param>
+   </doc>
+   <xsl:template name="nav-front-head">
+      <xsl:param name="thisLanguage"/>
+      <xsl:text>Prispevki</xsl:text>
+   </xsl:template>
+   
+   
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
       <desc>Novo ime za glavno vsebino (glavna navigacija)</desc>
       <param name="thisLanguage"></param>
    </doc>
    <xsl:template name="nav-body-head">
       <xsl:param name="thisLanguage"/>
-      <xsl:text>Dokumenti</xsl:text>
+      <xsl:text>Gradivo</xsl:text>
    </xsl:template>
    
    <xsldoc:doc xmlns:xsldoc="http://www.oxygenxml.com/ns/doc/xsl">
       <xsldoc:desc>K naslovni strani dam dodatno vsebino, ki ni procesirana iz TEI</xsldoc:desc>
    </xsldoc:doc>
    <xsl:template match="tei:titlePage">
-      <!-- avtor -->
-      <!--<p  class="naslovnicaAvtor">
-         <xsl:for-each select="tei:docAuthor">
-            <xsl:choose>
-               <xsl:when test="tei:forename or tei:surname">
-                  <xsl:for-each select="tei:forename">
-                     <xsl:value-of select="."/>
-                     <xsl:if test="position() ne last()">
-                        <xsl:text> </xsl:text>
-                     </xsl:if>
-                  </xsl:for-each>
-                  <xsl:if test="tei:surname">
-                     <xsl:text> </xsl:text>
-                  </xsl:if>
-                  <xsl:for-each select="tei:surname">
-                     <xsl:value-of select="."/>
-                     <xsl:if test="position() ne last()">
-                        <xsl:text> </xsl:text>
-                     </xsl:if>
-                  </xsl:for-each>
-               </xsl:when>
-               <xsl:otherwise>
-                  <xsl:apply-templates/>
-               </xsl:otherwise>
-            </xsl:choose>
-            <xsl:if test="position() ne last()">
-               <br/>
-            </xsl:if>
-         </xsl:for-each>
-      </p>-->
       <!-- naslov -->
       <xsl:for-each select="tei:docTitle/tei:titlePart[1]">
          <h1 class="text-center"><xsl:value-of select="."/></h1>
@@ -195,104 +193,102 @@
          </xsl:for-each>
       </xsl:for-each>
       <br/>
-      <xsl:if test="tei:figure">
-         <div class="text-center">
-            <p>
-               <img src="{tei:figure/tei:graphic/@url}" alt="naslovna slika"/>
-            </p>
-         </div>
-      </xsl:if>
-      <xsl:if test="tei:graphic">
-         <div class="text-center">
-            <p>
-               <img src="{tei:graphic/@url}" alt="naslovna slika"/>
-            </p>
-         </div>
-      </xsl:if>
+      <figure>
+         <img src="{tei:figure/tei:graphic/@url}" alt="naslovna slika"/>
+         <figcaption>Razglasitev nove ustave, 23. 12. 1991. (Tone Stojko/Muzej novejše zgodovine Slovenije)</figcaption>
+      </figure>
       <br/>
-      <!--<p class="text-center">
-         <!-\- založnik -\->
-         <xsl:for-each select="tei:docImprint/tei:publisher">
-            <xsl:value-of select="."/>
-            <br/>
-         </xsl:for-each>
-         <!-\- kraj izdaje -\->
-         <xsl:for-each select="tei:docImprint/tei:pubPlace">
-            <xsl:value-of select="."/>
-            <br/>
-         </xsl:for-each>
-         <!-\- leto izdaje -\->
-         <xsl:for-each select="tei:docImprint/tei:docDate">
-            <xsl:value-of select="."/>
-            <br/>
-         </xsl:for-each>
-      </p>-->
-      
-      <div class="row border-content">
-         <div class="small-12 columns border-content-inner">
-            <p>Pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo, pojasnilo.</p>
-         </div>
-      </div>
       
       <div class="row border-content">
          <div class="medium-6 columns border-content-inner">
+            <h4>Od Pudjuna do ustave:</h4>
             <ul class="accordion" data-accordion="" data-allow-all-closed="true">
                <li class="accordion-item" data-accordion-item="">
-                  <a href="#" class="accordion-title">Predlog, da se začne postopek za sprejem Ustave RS</a>
+                  <a href="#" class="accordion-title">Predlog, da se začne postopek za sprejem Ustave RS, 25. 6. 1990</a>
                   <div class="accordion-content" data-tab-content="">
-                     <p>25. 6. 1990 Predlog, da se začne postopek za sprejem Ustave RS</p>
                      <embed src="https://www.sistory.si/cdn/publikacije/36001-37000/36836/Porocevalec_1990-07-02_11.pdf#toolbar=0" type="application/pdf" height="600" width="100%"></embed>
                   </div>
                </li>
                <li class="accordion-item" data-accordion-item="">
-                  <a href="#" class="accordion-title">Delovni osnutek Ustave RS ("Podvinska ustava")</a>
+                  <a href="#" class="accordion-title">Delovni osnutek Ustave RS ("Podvinska ustava"), 31. 8. 1990</a>
                   <div class="accordion-content" data-tab-content="">
-                     <p>31. 8. 1990 Delovni osnutek Ustave RS ("Podvinska ustava")
-                        - ta v Poročevalcu ni bila objavljena, zato posredujemo sken iz arhiva Državnega zbora:</p>
                      <embed src="10.12.2021.0452_001.pdf" type="application/pdf" height="600" width="100%"></embed>
                   </div>
                </li>
                <li class="accordion-item" data-accordion-item="">
-                  <a href="#" class="accordion-title">Osnutek Ustave RS</a>
+                  <a href="#" class="accordion-title">Osnutek Ustave RS, 12. 10. 1990</a>
                   <div class="accordion-content" data-tab-content="">
-                     <p>12. 10. 1990 Osnutek Ustave RS</p>
                      <embed src="https://www.sistory.si/cdn/publikacije/36001-37000/36842/Porocevalec_1990-10-19_17.pdf#toolbar=0" type="application/pdf" height="600" width="100%"></embed>
                   </div>
                </li>
                <li class="accordion-item" data-accordion-item="">
-                  <a href="#" class="accordion-title">Predlog Ustave RS</a>
+                  <a href="#" class="accordion-title">Predlog Ustave RS, 12. 12. 1991</a>
                   <div class="accordion-content" data-tab-content="">
-                     <p>12. 12. 1991 Predlog Ustave RS</p>
                      <embed src="https://www.sistory.si/cdn/publikacije/36001-37000/36883/Porocevalec_1991-12-12_30.pdf#toolbar=0" type="application/pdf" height="600" width="100%"></embed>
                   </div>
                </li>
                <li class="accordion-item" data-accordion-item="">
-                  <a href="#" class="accordion-title">Predlog Ustave RS - dodatek</a>
+                  <a href="#" class="accordion-title">Predlog Ustave RS - dodatek, 19. 12. 1991</a>
                   <div class="accordion-content" data-tab-content="">
-                     <p>19. 12. 1991 Predlog Ustave RS - dodatek</p>
                      <embed src="https://www.sistory.si/cdn/publikacije/36001-37000/36885/Porocevalec_1992-01-17_01.pdf#toolbar=0" type="application/pdf" height="600" width="100%"></embed>
                   </div>
                </li>
                <li class="accordion-item" data-accordion-item="">
-                  <a href="#" class="accordion-title">Ustava RS je bila po sprejetju objavljena v Ur. l. 33/91 28.12. 1991</a>
+                  <a href="#" class="accordion-title">Ustava RS, 23. 12. 1991</a>
                   <div class="accordion-content" data-tab-content="">
-                     <p>23. 12. 1991 Ustava RS je bila po sprejetju objavljena v Ur. l. 33/91 28.12. 1991</p>
+                     <p>Ustava RS je bila po sprejetju objavljena v Ur. l. 33/91, 28.12. 1991</p>
                      <embed src="https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/1991-01-1409/ustava-republike-slovenije?h=ustava" type="application/pdf" height="600" width="100%"></embed>
                   </div>
                </li>
             </ul>
          </div>
          <div class="medium-6 columns border-content-inner">
-            <p>Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. Zgodovina. </p>
+            <h4>Prispevki:</h4>
+            <ul class="toc toc_front">
+               <xsl:for-each select="//tei:front/tei:div">
+                  <xsl:call-template name="TOC-title-author-li"/>
+               </xsl:for-each>
+            </ul>
+            <div class="callout secondary" data-closable="">
+               <p>Literatura, na kateri temeljijo to in ostala poglavja, je strnjeno navedena v
+                  posebnem pregledu literature – glej: <a href="#">LINK</a>
+                  Za razumevanje širšega zgodovinskega, političnega,
+                     pravnega in širšega družbenega konteksta nastajanja slovenske ustave, državnega
+                     osamosvajanja in demokratizacije Slovenije ter pomena, vsebine in funkcije
+                     slovenske ustave naj bralka in bralec posežeta po njej. <a href="#">LINK</a></p>
+               <button class="close-button" aria-label="Dismiss alert" type="button" data-close="" style="background-color: #ebebeb;">
+                  <span aria-hidden="true">X</span>
+               </button>
+            </div>
          </div>
       </div>
       
       <div class="row border-content">
          <div class="small-12 columns border-content-inner">
-            <p>Gradivlo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo, gradivo.</p>
+            <h4>Gradivo:</h4>
+            <div class="row" id="treeview-container">
+               <ul>
+                  <xsl:for-each select="//tei:body/tei:div[@type][@xml:id]">
+                     <xsl:call-template name="TOC-title-type-li"/>
+                  </xsl:for-each>
+               </ul>
+               <script type="text/javascript">
+                  $('#treeview-container').jstree().bind("select_node.jstree", function (e, data) {
+                  var href = data.node.a_attr.href;
+                  document.location.href = href;
+                  });
+               </script>
+               <br/>
+               <br/>
+               <br/>
+            </div>
          </div>
       </div>
-      
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
    </xsl:template>
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
@@ -304,6 +300,13 @@
             <xsl:value-of select="."/>
          </p>
       </div>
+   </xsl:template>
+   
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc></desc>
+   </doc>
+   <xsl:template match="tei:figure[@type='razstava-PDF']">
+      <embed src="{tei:graphic/@url}" type="application/pdf" height="1400" width="100%"></embed>
    </xsl:template>
    
    

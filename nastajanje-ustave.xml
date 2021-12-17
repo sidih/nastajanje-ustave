@@ -27,9 +27,6 @@
          <divGen type="cip" xml:id="cip">
             <head>Kolofon</head>
          </divGen>
-         <divGen type="toc" xml:id="toc">
-            <head>Kazalo vsebine</head>
-         </divGen>
          <divGen type="search" xml:id="search">
             <head>Iskalnik</head>
          </divGen>
@@ -187,11 +184,11 @@
                </row>
                <row>
                   <cell>22. februar 1991</cell>
-                  <cell><list style="list-style-type:none;">
-                     <item>Ustavni amandma XCIX</item>
-                     <item>Resolucija o predlogu za sporazumno razdružitev SFR
-                        Jugoslavije</item>
-                  </list></cell>
+                  <cell>
+                     <p>Ustavni amandma XCIX</p>
+                     <p>Resolucija o predlogu za sporazumno razdružitev SFR
+                        Jugoslavije</p>
+                  </cell>
                   <cell>Sprejeti ustavni amandma k slovenski ustavi določi podlago za suvereno
                      urejanje slovenskih notranjih in zunanjih zadev. Hkrati določi, da
                      dokler slovenska skupščina ne odloči drugače, Slovenija še vedno ureja
@@ -207,13 +204,13 @@
                </row>
                <row>
                   <cell>25. junij 1991</cell>
-                  <cell><list style="list-style-type:none;">
-                     <item>Temeljna ustavna listina o samostojnosti in neodvisnosti Republike
-                        Slovenije</item>
-                     <item>Ustavni zakon za izvedbo Temeljne ustavne listine o samostojnosti
-                        in neodvisnosti Republike Slovenije</item>
-                     <item>Deklaracija ob neodvisnosti</item>
-                  </list></cell>
+                  <cell>
+                     <p>Temeljna ustavna listina o samostojnosti in neodvisnosti Republike
+                        Slovenije</p>
+                     <p>Ustavni zakon za izvedbo Temeljne ustavne listine o samostojnosti
+                        in neodvisnosti Republike Slovenije</p>
+                     <p>Deklaracija ob neodvisnosti</p>
+                  </cell>
                   <cell>Skupščina Republike Slovenije sprejme tri osrednje osamosvojitvene
                      dokumente. Prva dva sta ustavnopravna akta, deklaracija pa je politični
                      dokument. Z razglasitvijo Temeljne ustavne listine Republika Slovenija
@@ -231,11 +228,11 @@
                </row>
                <row>
                   <cell>4. december 1991</cell>
-                  <cell><list style="list-style-type:none;">
-                     <item>Predlog Ustave Republike Slovenije</item>
-                     <item>Predlog Ustavnega zakona za izvedbo Ustave Republike
-                        Slovenije</item>
-                  </list></cell>
+                  <cell>
+                     <p>Predlog Ustave Republike Slovenije</p>
+                     <p>Predlog Ustavnega zakona za izvedbo Ustave Republike
+                        Slovenije</p>
+                  </cell>
                   <cell>Ustavna komisija določi predlog nove ustave in ustavnega zakona za
                      njeno izvedbo. Oba sta posredovana v obravnavo in sprejem
                      skupščini.</cell>
@@ -252,13 +249,7 @@
             </table>
          </div>
          <div type="preface" xml:id="preface.1">
-            <head>Pojem ustave in obči razvoj ustavnosti<note place="foot" xml:id="ftn1" n="1"
-                  >*Literatura, na kateri temeljijo to in ostala poglavja, je strnjeno navedena v
-                  posebnem pregledu literature – <hi rend="underline color(FF0000)">glej: LINK</hi>
-                  <hi rend="color(FF0000)">Za razumevanje širšega zgodovinskega, političnega,
-                     pravnega in širšega družbenega konteksta nastajanja slovenske ustave, državnega
-                     osamosvajanja in demokratizacije Slovenije ter pomena, vsebine in funkcije
-                     slovenske ustave naj bralka in bralec posežeta po njej. LINK</hi></note></head>
+            <head>Pojem ustave in obči razvoj ustavnosti</head>
             <docAuthor>Miro Cerar</docAuthor>
             <div type="subchapter" xml:id="preface.1.1" rend="nosplit">
                <head>Uvodna predelitev pojma ustave </head>
@@ -641,7 +632,7 @@
             </div>
          </div>
          <div type="preface" xml:id="preface.2">
-            <head>Zgodovivnski razvoj ustavnosti na Slovenskem 1848–1991</head>
+            <head>Zgodovinski razvoj ustavnosti na Slovenskem 1848–1991</head>
             <docAuthor>Jure Gašparič</docAuthor>
             <div type="subchapter" xml:id="preface.2.1" rend="nosplit">
                <head>Kaj sploh je »konstitucija« (1848)?</head>
@@ -4940,5 +4931,13 @@
             </div>
          </div>
       </body>
+      <back>
+         <div type="appendix" xml:id="appendix.1">
+            <head>Razstava</head>
+            <figure type="razstava-PDF">
+               <graphic url="PLAKAT-30_let_USTAVE_osnutek_7b.pdf"/>
+            </figure>
+         </div>
+      </back>
    </text>
 </TEI>
