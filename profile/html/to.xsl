@@ -210,7 +210,7 @@
       
       <div class="row border-content">
          <div class="medium-6 columns border-content-inner">
-            <h4>Od Pudvina do ustave:</h4>
+            <h4>Od Podvina do ustave:</h4>
             <ul class="accordion" data-accordion="" data-allow-all-closed="true">
                <li class="accordion-item" data-accordion-item="">
                   <a href="#" class="accordion-title">Predlog, da se začne postopek za sprejem Ustave RS, 25. 6. 1990</a>
@@ -259,14 +259,14 @@
                </xsl:for-each>
             </ul>
             <div class="callout secondary" data-closable="" style="font-size: 70%;">
-               <p>Literatura, na kateri temeljijo to in ostala poglavja, je strnjeno navedena v
+               <p>Literatura, na kateri temeljijo ti prispevki, je strnjeno navedena v
                   posebnem pregledu literature – glej: <a href="#">LINK</a>
                   Za razumevanje širšega zgodovinskega, političnega,
                      pravnega in širšega družbenega konteksta nastajanja slovenske ustave, državnega
                      osamosvajanja in demokratizacije Slovenije ter pomena, vsebine in funkcije
                      slovenske ustave naj bralka in bralec posežeta po njej. <a href="#">LINK</a></p>
-               <button class="close-button" aria-label="Dismiss alert" type="button" data-close="" style="background-color: #ebebeb;">
-                  <span aria-hidden="true">X</span>
+               <button class="close-button" aria-label="Dismiss alert" type="button" data-close="" style="background-color: inherit;">
+                  <span aria-hidden="true">&#xD7;</span>
                </button>
             </div>
          </div>
