@@ -75,9 +75,9 @@
    <xsl:param name="numberTables"></xsl:param>
    
    <!-- V html/head izpisani metapodatki -->
-   <xsl:param name="description"></xsl:param>
-   <xsl:param name="keywords"></xsl:param>
-   <xsl:param name="title"></xsl:param>
+   <xsl:param name="description">Digitalizirana kronološka zbirka gradiv</xsl:param>
+   <xsl:param name="keywords">ustava, Republika Slovenija, Državni zbor, osamosvojitev, 1990-1991, Constitution, Republic of Slovenia, National Assembly, Independence, 1990-1991</xsl:param>
+   <xsl:param name="title">Nastajanje Ustave Republike Slovenije 1990–1991</xsl:param>
    
    <xsldoc:doc xmlns:xsldoc="http://www.oxygenxml.com/ns/doc/xsl">
       <xsldoc:desc/>
@@ -287,7 +287,7 @@
                   <xsl:call-template name="TOC-title-author-li"/>
                </xsl:for-each>
             </ul>
-            <div class="callout secondary" data-closable="" style="font-size: 70%;">
+            <!--<div class="callout secondary" data-closable="" style="font-size: 70%;">
                <p>Literatura, na kateri temeljijo ti prispevki, je strnjeno navedena v
                   posebnem pregledu literature – glej: <a href="#">LINK</a>
                   Za razumevanje širšega zgodovinskega, političnega,
@@ -297,7 +297,7 @@
                <button class="close-button" aria-label="Dismiss alert" type="button" data-close="" style="background-color: inherit;">
                   <span aria-hidden="true">&#xD7;</span>
                </button>
-            </div>
+            </div>-->
          </div>
       </div>
       
@@ -510,6 +510,68 @@
       <br/>
       <br/>
       <br/>
+   </xsl:template>
+   
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc></desc>
+      <param name="tei-id"></param>
+      <param name="sistoryAbsolutePath"></param>
+   </doc>
+   <xsl:template name="tipuesearch_content">
+      <xsl:param name="tei-id"/>
+      <xsl:param name="sistoryAbsolutePath"/>
+      <xsl:variable name="datoteka-js" select="concat($outputDir,'tipuesearch_content.js')"/>
+      <xsl:result-document href="{$datoteka-js}" method="text" encoding="UTF-8">
+         <!-- ZAČETEK JavaScript dokumenta -->
+         <xsl:text>var tipuesearch = {"pages": [
+                                    </xsl:text>
+         <!-- Shrani celotno besedilo v indeks za:
+                     - vse child elemente od div, ki imajo @xml:id;
+                     - vse child elemente od izbranih list elementov:
+                         - list element ne sme imeti @xml:id,
+                         - child element mora imeti @xml:id
+                -->
+         <xsl:for-each select="//node()[ancestor::tei:TEI/@xml:id = $tei-id][@xml:id][ancestor::tei:text][parent::tei:div][not(self::tei:div)] |
+            //tei:listPerson[ancestor::tei:TEI/@xml:id = $tei-id][not(@xml:id)][ancestor::tei:text][parent::tei:div]/node()[@xml:id] |
+            //tei:listPlace[ancestor::tei:TEI/@xml:id = $tei-id][not(@xml:id)][ancestor::tei:text][parent::tei:div]/node()[@xml:id] |
+            //tei:listOrg[ancestor::tei:TEI/@xml:id = $tei-id][not(@xml:id)][ancestor::tei:text][parent::tei:div]/node()[@xml:id] |
+            //tei:listEvent[ancestor::tei:TEI/@xml:id = $tei-id][not(@xml:id)][ancestor::tei:text][parent::tei:div]/node()[@xml:id] |
+            //tei:listBibl[ancestor::tei:TEI/@xml:id = $tei-id][not(@xml:id)][ancestor::tei:text][parent::tei:div]/node()[@xml:id] |
+            //tei:list[ancestor::tei:TEI/@xml:id = $tei-id][not(@xml:id)][ancestor::tei:text][parent::tei:div]/node()[@xml:id]">
+            <!--<xsl:variable name="ancestorChapter-id" select="ancestor::tei:div[@xml:id][parent::tei:front | parent::tei:body | parent::tei:back]/@xml:id"/>-->
+            <xsl:variable name="generatedLink">
+               <!--<xsl:apply-templates mode="generateLink" select="."/>-->
+               <!-- Drugače procesiram: upoštevam div[@rend='nosplit'] -->
+               <xsl:value-of select="concat(ancestor::tei:div[@xml:id][not(@rend='nosplit')][1]/@xml:id,'.html#',@xml:id)"/>
+            </xsl:variable>
+            <xsl:variable name="besedilo">
+               <xsl:apply-templates mode="besedilo"/>
+            </xsl:variable>
+            <xsl:variable name="title-first">
+               <xsl:apply-templates select="parent::tei:div/tei:head[1]" mode="chapters-head"/>
+            </xsl:variable>
+            
+            <xsl:text>{ "title": "</xsl:text>
+            <xsl:value-of select="normalize-space(translate(translate($title-first,'&#xA;',' '),'&quot;',''))"/>
+            <!--<xsl:value-of select="normalize-space(translate(translate(ancestor::tei:div[@xml:id][parent::tei:front | parent::tei:body | parent::tei:back]/tei:head[1],'&#xA;',' '),'&quot;',''))"/>-->
+            <xsl:text>", "text": "</xsl:text>
+            <xsl:value-of select="normalize-space(translate($besedilo,'&#xA;&quot;&#92;','&#x20;'))"/>
+            <xsl:text>", "tags": "</xsl:text>
+            <xsl:text>", "url": "</xsl:text>
+            <xsl:value-of select="concat($sistoryAbsolutePath,$generatedLink)"/>
+            <!--<xsl:value-of select="concat($ancestorChapter-id,'.html#',@xml:id)"/>-->
+            <xsl:text>" }</xsl:text>
+            <xsl:if test="position() != last()">
+               <xsl:text>,</xsl:text>
+            </xsl:if>
+            <xsl:text>&#xA;</xsl:text>
+         </xsl:for-each>
+         
+         <!-- KONEC JavaScript dokumenta -->
+         <xsl:text>
+                     ]};
+                </xsl:text>
+      </xsl:result-document>
    </xsl:template>
    
    
