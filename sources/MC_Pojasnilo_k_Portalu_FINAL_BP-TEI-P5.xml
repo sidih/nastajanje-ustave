@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Microsoft Office User</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2021-12-21</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2021-12-21T17:07:01Z</date><name>Microsoft Office User</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Ustava Republike Slovenije, razglašena 23. decembra 1991, je eden najpomembnejših
+                dokumentov v zgodovini slovenskega naroda. Po eni strani pomeni utrditev slovenske
+                državne suverenosti, ki jo je 25. junija 1991 vzpostavila Temeljna ustavna listina o
+                samostojnosti in neodvisnosti Republike Slovenije. Po drugi strani daje slovenski
+                državi temeljno politično in pravno vsebino, saj zagotavlja demokratični politični
+                sistem, varstvo človekovih pravic in svoboščin, pravno in socialno državo, lokalno
+                samoupravo ter druge demokratične vrednote in institucije. Kot vrhovni pravni akt
+                ustava državljankam in državljanom jamči osebno svobodo in človeško dostojanstvo,
+                družbi kot celoti pa nudi vrednostno sidro, ki tudi v spreminjajočih se družbenih
+                razmerah zagotavlja kontinuiteto ter vsaj relativno in okvirno stabilnost slovenske
+                pravne ureditve.</p>
+            <p>Spletna stran www.nastajanje-ustave.si obeležuje 30. obletnico obstoja Ustave
+                Republike Slovenije. Na njej so objavljena prvič zbrana in sistematično urejena vsa
+                dostopna gradiva Skupščine Republike Slovenije in njene Komisije za ustavna
+                vprašanja, ki pričajo o času slovenskega osamosvajanja in izgradnje nove ustavne
+                ureditve v letih 1990 in 1991. Objavljena gradiva razkrivajo polemično ozračje ter
+                raznolikost idej in predlogov v ustavni razpravi, hkrati pa tudi privrženost
+                skupnemu cilju, to je suvereni in demokratični Republiki Sloveniji.</p>
+        </body>
+    </text>
+</TEI>

@@ -208,6 +208,35 @@
       </figure>
       <br/>
       
+      <div class="row">
+         <div class="small-12 columns">
+            <div class="callout secondary" data-closable="">
+               <p>Ustava Republike Slovenije, razglašena 23. decembra 1991, je eden najpomembnejših
+                  dokumentov v zgodovini slovenskega naroda. Po eni strani pomeni utrditev slovenske
+                  državne suverenosti, ki jo je 25. junija 1991 vzpostavila Temeljna ustavna listina o
+                  samostojnosti in neodvisnosti Republike Slovenije. Po drugi strani daje slovenski
+                  državi temeljno politično in pravno vsebino, saj zagotavlja demokratični politični
+                  sistem, varstvo človekovih pravic in svoboščin, pravno in socialno državo, lokalno
+                  samoupravo ter druge demokratične vrednote in institucije. Kot vrhovni pravni akt
+                  ustava državljankam in državljanom jamči osebno svobodo in človeško dostojanstvo,
+                  družbi kot celoti pa nudi vrednostno sidro, ki tudi v spreminjajočih se družbenih
+                  razmerah zagotavlja kontinuiteto ter vsaj relativno in okvirno stabilnost slovenske
+                  pravne ureditve.</p>
+               <p>Spletna stran <a href="https://nastajanje-ustave.si">https://nastajanje-ustave.si</a> obeležuje 30. obletnico obstoja Ustave
+                  Republike Slovenije. Na njej so objavljena prvič zbrana in sistematično urejena vsa
+                  dostopna gradiva Skupščine Republike Slovenije in njene Komisije za ustavna
+                  vprašanja, ki pričajo o času slovenskega osamosvajanja in izgradnje nove ustavne
+                  ureditve v letih 1990 in 1991. Objavljena gradiva razkrivajo polemično ozračje ter
+                  raznolikost idej in predlogov v ustavni razpravi, hkrati pa tudi privrženost
+                  skupnemu cilju, to je suvereni in demokratični Republiki Sloveniji.</p>
+               <button class="close-button" aria-label="Dismiss alert" type="button" data-close="" style="background-color: inherit;">
+                  <span aria-hidden="true">&#xD7;</span>
+               </button>
+            </div>
+         </div>
+      </div>
+      
+      
       <div class="row border-content">
          <div class="medium-6 columns border-content-inner">
             <h4>Od Podvina do ustave:</h4>
@@ -316,6 +345,171 @@
    </doc>
    <xsl:template match="tei:figure[@type='razstava-PDF']">
       <embed src="{tei:graphic/@url}" type="application/pdf" height="1400" width="100%"></embed>
+   </xsl:template>
+   
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc>Povozim privzeto procesiranje kolofona iz teiHeader</desc>
+   </doc>
+   <xsl:template match="tei:TEI/tei:teiHeader/tei:fileDesc | tei:teiCorpus/tei:teiHeader/tei:fileDesc" mode="kolofon">
+      <h3>Nastajanje Ustave Republike Slovenije 1990–1991 <br/>Digitalizirana kronološka zbirka gradiv <br/>https://nastajanje-ustave.si</h3>
+      <p>Ob 30. obletnici razglasitve ustave Republike Slovenije (23. 12. 1991–23. 12. 2021)
+         je spletno stran www.nastajanje-ustave.si z digitalizirano kronološko zbirko gradiv:
+         Nastajanje Ustave Republike Slovenije 1990–1991 zasnoval in pripravil uredniški
+         odbor: dr. Miro Cerar (Pravna fakulteta Univerze v Ljubljani), Gordana Černe
+         (Državni zbor), dr. Jure Gašparič (Inštitut za novejšo zgodovino), Urška Mohar
+         (Državni zbor), dr. Andrej Pančur (Inštitut za novejšo zgodovino), mag. Borut
+         Peršolja (Državni zbor) in dr. Jure Spruk.</p>
+      <p>Vodji projekta: dr. Miro Cerar, mag. Borut Peršolja</p>
+      <p>Odgovorna oseba: mag. Borut Peršolja</p>
+      <p>Avtorji besedil: dr. Miro Cerar (Kronologija, Ustavna diskontinuiteta, skupščinski
+         sistem, mejniki v procesu nastajanja ustave in priznanje Slovenije, Nastajanje
+         ustave Republike Slovenije, Pojem ustave in obči razvoj ustavnosti, Temeljna
+         izhodišča, viri in cilji ustavne ureditve Republike Slovenije, Ustavna razprava,
+         Ustava Republike Slovenije: preambula in splošne določbe, Ustava Republike
+         Slovenije: človekove pravice in temeljne svoboščine, Ustava Republike Slovenije:
+         gospodarska in socialna razmerja in Ustava Republike Slovenije: državna ureditev in
+         lokalna samouprava) in dr. Jure Gašparič (Ustavna diskontinuiteta, skupščinski
+         sistem, mejniki v procesu nastajanja ustave in priznanje Slovenije, Razvoj
+         ustavnosti na Slovenskem 1848–1991). Pri nastajanju dveh besedil je sodelovala Tjaša
+         Konovšek.</p>
+      <p>Uporabljeno arhivsko gradivo Državnega zbora:</p>
+      <p>Fond Skupščina Republike Slovenije, Zbirka kopij gradiva predanega Državnemu zboru s
+         strani dr. Miroslava Cerarja za namen digitalizacije gradiva povezanega z
+         nastajanjem Ustave Republike Slovenije, Projekt: Nastajanje Ustave Republike
+         Slovenije 1990–1991:</p>
+      <ul>
+         <li>Fond Skupščina Republike Slovenije: Seje Komisije za ustavna vprašanja Skupščine
+         Republike Slovenije, številka zadeve 0610-12/ 90-1 do 0610-12/90-51.</li>
+         <li>Fond Skupščina Republike Slovenije: Seje Koordinacijske skupine Komisije Skupščine
+         Republike Slovenije za ustavna vprašanja, številka zadeve 0610-120/90.</li>
+         <li>Fond Skupščina Republike Slovenije: Seje Skupine za preambulo in splošne določbe
+         Komisije za ustavna vprašanja, številka zadeve 0610-12/90-0.</li>
+         <li>Fond Skupščina Republike Slovenije: Seje podskupine za simbole Komisije za ustavna
+         vprašanja Skupščine Republike Slovenije, številka zadeve 0610-12/90-7.</li>
+         <li>Fond Skupščina Republike Slovenije: Seje skupine za ekonomska in socialna razmerja
+         Komisije za ustavna vprašanja, številka zadeve 0610-12/90-1.</li>
+         <li>Fond Skupščina Republike Slovenije: Seje skupine za lokalno in drugo samoupravo
+         komisije za ustavna vprašanja, številka zadeve 0610-12/90-2.</li>
+         <li>Fond Skupščina Republike Slovenije: Seje Skupine za upravo, vojsko, sodstvo, javno
+         tožilstvo, odvetništvo in notariat komisije za ustavna vprašanja, številka zadeve
+         0610-12/90-4.</li>
+         <li>Fond Skupščina Republike Slovenije: Seje skupine za državno ureditev Komisije za
+         ustavna vprašanja, številka zadeve 0610-12/90-5.</li>
+         <li>Fond Skupščina Republike Slovenije: Seje Skupine za pravice, svoboščine in
+         dolžnosti človeka in državljana komisije za ustavna vprašanja, številka zadeve
+         0610-12/90-3.</li>
+         <li>Fond Skupščina Republike Slovenije: Seje skupine za ustavnost, zakonitost, ustavno
+         sodišče in ustavno revizijski postopek Komisije za ustavna vprašanja, številka
+         zadeve 0610-12/90-6.</li>
+         <li>Fond Skupščina Republike Slovenije: Pobude, predlogi v javni razpravi k osnutku
+         nove ustave RS, številka zadeve: 001-01/89-2, škatla 11 in 12.</li>
+         <li>Fond Skupščina Republike Slovenije: Gradivo javnega natečaja za oblikovanje grba in
+         idejnih aplikacij grba RS, številka zadeve: 001-01/89-2, škatla 13.</li>
+         <li>Fond Skupščina Republike Slovenije: Gradivo povezano s Predlogom Predsedstva RS za
+         začetek postopka za sprejem nove Ustave RS, številka zadeve: 001-02/89-2, 10. in 14.
+         mapa.</li>
+         <li>Fond Skupščina Republike Slovenije: Deklaracija ob neodvisnosti, Zbirka sprejeti
+         zakoni in akti, škatla 42 , številka zadeve: 001-02/91-12/3.</li>
+         <li>Fond Skupščina Republike Slovenije: Temeljna ustavna listina o samostojnosti in
+         neodvisnosti RS, Zbirka sprejeti zakoni in akti, škatla 42 , številka zadeve:
+         001-02/81-12/2.</li>
+         <li>Fond Skupščina Republike Slovenije: Ustavni zakon za izvedbo temeljne ustavne
+         listine o samostojnosti in neodvisnosti RS, Zbirka sprejeti zakoni in akti, škatla
+         42 001-02/91-12.</li>
+         <li>Fond Skupščina Republike Slovenije: Nova Ustava RS in ustavni zakon za izvedbo
+         ustave RS, Zbirka sprejeti zakoni in akti, škatla 43 , številka zadeve:
+         001-02/89-2/75 in 001-02/91-12/1.</li>
+         <li>Sklep o sprejemu predloga Izvršnega sveta Skupščine, da se začne postopek za
+         spremembo ustave RS, Zbirka sprejeti zakoni in akti, škatla 39 , številka zadeve:
+         001-02/90-2.</li>
+         <li>Fond Skupščina Republike Slovenije: Sklep o javni razpravi o osnutku nove slovenske
+         ustave, Zbirka sprejeti zakoni in akti, škatla 39 , številka zadeve:
+         001-02/90-2.</li>
+         <li>Fond Skupščina Republike Slovenije: Deklaracija o suverenosti RS, Skupščina RS,
+         Zbirka sprejeti zakoni in akti, škatla 39 , številka zadeve: 000-01/90-3.</li>
+         <li>Fond Skupščina Republike Slovenije: : Skupna Brionska Deklaracija, Zbirka sprejeti
+         zakoni in akti, škatla 43 , številka zadeve: 000-01/90-5/43.</li>
+      </ul>
+      <p>Spletna zasnova in tehnična izvedba: dr. Andrej Pančur</p>
+      <p>Avtorstvo in vir slikovnega gradiva: Tone Stojko/Muzej novejše zgodovine
+         Slovenije</p>
+      <p>Zbirko gradiv sta v letih 2007–2008 zbrala in uredila dr. Miro Cerar in Mojca
+         Stropnik. Pri zbiranju gradiv so sodelovali Nataša Mlinarič, Gordana Vrabec in Boris
+         Vrišer (vsi Državni zbor).</p>
+      <p>Pregled in dodatno urejanje zbirke gradiv so v letu 2021 opravili dr. Miro Cerar,
+         Gordana Černe (Državni zbor), Tjaša Konovšek, Karin Konda, Marko Kupljen (vsi
+         Inštitut za novejšo zgodovino), Urška Mohar (Državni zbor), dr. Andrej Pančur
+         (Inštitut za novejšo zgodovino) in dr. Jure Spruk.</p>
+      
+      <hr/>
+      
+      <p><b>Državnost, utemeljena na lastni ustavi <br/>Razstava in spletna razstava</b></p>
+      <p>Besedilo: mag. Borut Peršolja (Raziskovalno-dokumentacijski sektor)</p>
+      <p>Pregled besedila: dr. Miro Cerar (Pravna fakulteta Univerze v Ljubljani), dr. Jure
+         Gašparič (Inštitut za novejšo zgodovino)</p>
+      <p>Pregled in izbor dokumentov Arhiva Državnega zbora: Urška Mohar (Oddelek za delo z
+         gradivi in pošto)</p>
+      <p>Uporabljeno arhivsko gradivo: Arhiv Državnega zbora RS, fond Skupščina Slovenije,
+         Zbirka Sprejeti Zakoni in akti, škatla 10, številka zadeve: 011-29/74, škatla 39,
+         številka zadeve: 001-02/90-2, škatla 42, številka zadeve: 001-02/91-12/2; Zbirka
+         Čestitke, zahvale, podpore in protestna pisma ob sprejemu amandmajev k Ustavi SRS,
+         škatla. 8, številka zadeve: 001-02/89-2; Zbirka Osnutki ustave, škatla 10, številka
+         zadeve: 001-02/89-2; Zbirka Javna razprava o osnutku Ustave RS, škatla 12 in 13,
+         številka zadeve: 001-01/89-2.</p>
+      <p>Pregled in izbor dokumentacije časnika Delo: Jurij Šinkovec
+         (Dokumentacijsko-knjižnični oddelek)</p>
+      <p>Avtorstvo in viri slikovnega gradiva: Arhiv Državnega zbora, Matej Grah/Državni zbor,
+         Igor Modic/Delo, Borut Peršolja/Državni zbor, Tone Stojko/Muzej novejše zgodovine
+         Slovenije in Matija Sušnik/Državni zbor</p>
+      <p>Lektoriranje: Tanja Obreza, Tanja Sernec (Dokumentacijsko-knjižnični oddelek)</p>
+      <p>Oblikovanje: Barbara Žejavac (Oddelek tiskarna)</p>
+      <p>Izdal: Državni zbor</p>
+      <p>23. december 2021</p>
+      
+      <hr/>
+      
+      <p>Posebna zahvala: mag. Lovro Lončar, Mojca Prelesnik, Uršula Zore Tavčar in Karmen
+         Uglešić (Državni zbor), Nataša Strlič (Muzej novejše zgodovine Slovenije) in Janja
+         Papež (Novinarska dokumentacija Delo).</p>
+      
+      <hr/>
+      
+      <p>Izvedbo sta financirala Državni zbor in Inštitut za novejšo zgodovino (iz programa
+         Raziskovalna infrastruktura slovenskega zgodovinopisja I0-0013, ki ga financira
+         Agencija za raziskovalno dejavnost Republike Slovenije).</p>
+      <p>Kontakt: rds@dz-rs.si</p>
+      <p>Ljubljana, 23. december 2021</p>
+      <p>Copyright (c) 2021 Državni zbor in Inštitut za novejšo zgodovino</p>
+      
+      <hr/>
+      
+      <p>Splošni pogoji uporabe</p>
+      <p>Ste na spletni strani www.nastajanje-ustave.si. Vaš dostop do te spletne strani in
+         njegovo uporabo urejajo ta splošna pravila kot zakoni. Prosimo, da splošne pogoje
+         pazljivo preberete. Z vstopom na spletno stran potrjujete, da ste s temi splošnimi
+         pogoji seznanjeni, da z njimi soglašate ter da vas določbe teh splošnih pogojev
+         zavezujejo.</p>
+      <p>Ti pogoji uporabe veljajo za celotno spletno stran www.nastajanje-ustave.si.</p>
+      <p>1. Splošno</p>
+      <p>Vsebina Splošnih pogojev o uporabi spletne strani www.nastajanje-ustave.si se nanaša
+         na pogoje uporabe spletnih vsebin na spletni strani ter predstavlja pravno veljaven
+         in zavezujoč sporazum med ponudnikom ter uporabniki spletne strani.</p>
+      <p>2. Avtorske in sorodne pravice</p>
+      <p>Vse pravice na objavljenih vsebinah spletne strani www.nastajanje-ustave.si, ki so
+         varovane z avtorsko in sorodnimi pravicami, so pridržane, kar pomeni, da jih je brez
+         predhodnega pisnega soglasja imetnika pravic prepovedano uporabljati in izkoriščati,
+         kar velja tako za komercialne kot za nekomercialne namene uporabe, pri čemer pa te
+         omejitve ne posegajo v dovoljene oblike uporabe avtorsko varovanih vsebin, kot jih
+         določa Zakon o avtorski in sorodnih pravicah. Omejitve prav tako ne veljajo za dela
+         v javni domeni, na katerih so avtorske pravice že potekle.</p>
+      <p>Prepovedano je spreminjanje, kopiranje, distribucija, oddajanje, prikazovanje,
+         izvajanje, razmnoževanje, objavljanje, licenciranje, ustvarjanje izpeljank,
+         prenašanje ali prodajanje katerih koli podatkov, programske opreme, izdelkov ali
+         storitev, ki so del spletne strani www.nastajanje-ustave.si, razen v primeru izrecne
+         navedbe v teh pogojih uporabe.</p>
+      <br/>
+      <br/>
+      <br/>
    </xsl:template>
    
    

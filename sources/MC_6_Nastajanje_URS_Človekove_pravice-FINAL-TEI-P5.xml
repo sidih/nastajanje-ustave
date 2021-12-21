@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Microsoft Office User</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2021-12-19</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2021-12-21T16:08:26Z</date><name>Microsoft Office User</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Ustava Republike Slovenije: človekove pravice in temeljne svoboščine</head>
+                <docAuthor>Miro Cerar</docAuthor>
+                <div>
+                    <head>Narava človekovih pravic in temeljnih svoboščin</head>
+                    <p>Pravica je pravno zavarovano upravičenje pravnega subjekta do določenega
+                        aktivnega ali pasivnega ravnanja. V primeru posega v svoje upravičenje ima
+                        nosilec pravice s strani države zagotovljeno pravno varstvo. Tudi za
+                        človekove pravice, kot pravice najvišjega ranga, ki varujejo najpomembnejše
+                        človekove dobrine, je značilno, da so kot kategorija mednarodnega in
+                        notranjega (državnega) prava konstituirane v <hi rend="italic">pravni</hi>
+                        obliki, tako da zagotavljajo njihovim nosilcem pravno varstvo.</p>
+                    <p>V filozofski, politični in pravni doktrini človekovih pravic, ki se je
+                        razvila v obdobju evropskega razsvetljenstva (začetki te doktrine segajo v
+                        čas 17. in 18. stol.), se zatrjuje, da so človekove pravice univerzalne,
+                        absolutne ter dane človeku že zgolj z njegovo (človeško) naravo. Gre za
+                        ugotovitve različnih mislecev, ki so prišli do spoznanj, da obstajajo neke
+                        temeljne, vsem ljudem skupne in po naravi vsakemu posamezniku dane vrednote
+                        oziroma dobrine, ki jim je treba v obliki temeljnih oziroma človekovih
+                        pravic pred oblastno prisilo zagotoviti celovito in učinkovito varstvo.
+                        Vendar pa nam, kljub tehtnim filozofsko-humanističnim izhodiščem in
+                        argumentom navedene doktrine, po kateri naj bi bile vsem ljudem človekove
+                        pravice dane že po naravi, mednarodna ureditev in posamezne državne ureditve
+                        človekovih pravic ter še posebej njihovo (ne)udejanjanje v praksi
+                        dokazujejo, da so človekove pravice v družbi realno priznane in varovane le
+                        toliko, kolikor jih oblast in posamezniki v resnici spoštujejo in
+                        uresničujejo ter kolikor jih uspejo državni organi v resnici zagotavljati
+                        posameznikom, katerim so bile kršene. V tem družbeno realnem pogledu je zato
+                        bistveno, da so te pravice opredeljene že z ustavo ter da je na zakonski
+                        ravni in pri konkretnem uresničevanju prava zagotovljeno njihovo učinkovito
+                        varstvo.</p>
+                    <p>Ustava uporablja besedno zvezo <hi rend="italic">človekove pravice in
+                            temeljne svoboščine</hi>, pri čemer je mogoče oboje združiti v enotni
+                        pojem človekovih (temeljnih) pravic v širšem smislu. Za navedena pojma je
+                        značilno, da ima svoboščina predvsem filozofski izvor, pravica pa je
+                        primarno pravna kategorija. Svoboščina je po izvoru moralna vrednota oziroma
+                        etična kategorija v smislu zagotavljanja prostosti in neomejevanja človeške
+                        svobode, pravica pa se prvenstveno kaže kot pravno zavarovano upravičenje
+                        njenih nosilcev do določenega aktivnega ali pasivnega ravnanja. V ustavnem
+                        kontekstu je razlikovanje med pravicami in svoboščinami predvsem odraz
+                        povzemanja tradicionalnih nazivov, zaradi česar je treba naravo vsake
+                        posamezne pravice oziroma svoboščine presojati glede ne njeno konkretno
+                        vsebino. Vsekakor pa je mogoče tako človekove pravice kot temeljne
+                        svoboščine označiti tudi s skupnim nazivom: človekove pravice (v tem širšem
+                        pomenu je izraz človekove pravice večkrat uporabljen tudi v
+                        nadaljevanju).</p>
+                    <p>Opozoriti je treba, da države v svojih ustavah določene <hi rend="italic"
+                            >človekove</hi> pravice zagotavljajo samo <hi rend="italic"
+                            >državljanom</hi>. Tako je v Sloveniji za državljane praviloma pridržana
+                        volilna pravica (43. člen URS), le državljani imajo v okviru Slovenije
+                        pravico do vlaganja peticij in do drugih pobud splošnega pomena (45. člen),
+                        državljani imajo tudi ustavno zagotovljeno pravico do socialne varnosti (50.
+                        člen) itd. Tudi v teh in podobnih primerih gre za človekove pravice, tj.
+                        pravice, ki varujejo najvišje človekove dobrine in jih je treba zagotavljati
+                        vsem ljudem kot takšnim, pri čemer pa so navedene pravice take narave, da
+                        jih mora vsaka država zagotoviti predvsem svojim državljanom. Povsem
+                        nerealno bi bilo namreč pričakovati, da bi npr. posamezne države politične
+                        in socialne pravice v celoti zagotavljale tudi tujcem.</p>
+                </div>
+                <div>
+                    <head>Ustavna ureditev človekovih pravic in temeljnih svoboščin</head>
+                    <p>V ustavnih členih od 14 do 16 so vsebovane izhodiščne oziroma splošne določbe
+                        glede človekovih pravic. V 14. členu je določeno, da so v Sloveniji vsakomur
+                        zagotovljene enake človekove pravice in temeljne svoboščine, ne glede na
+                        narodnost, raso, spol, jezik, vero, politično ali drugo prepričanje, gmotno
+                        stanje, rojstvo, izobrazbo, družbeni položaj, invalidnost ali katerokoli
+                        drugo osebno okoliščino <hi rend="italic">(načelo nediskriminacije)</hi>.
+                        Posebej je tudi določeno, da so vsi pravni naslovljenci pred zakonom enaki,
+                        s čimer je zagotovljeno <hi rend="italic">načelo pravne
+                        enakosti</hi><hi rend="bold" xml:space="preserve">. </hi>To pomeni predvsem,
+                        da je treba z zakoni enake oziroma podobne primere urejati na enak ali
+                        podoben način <hi rend="italic">(enakost v zakonu)</hi> ter da je treba
+                        zakone na prav takšen način tudi razlagati in izvrševati <hi rend="italic"
+                            >(enakost pred zakonom)</hi>.</p>
+                    <p>V prvem in drugem odstavku 15. člena ustave je določeno, da se človekove
+                        pravice in temeljne svoboščine uresničujejo neposredno na podlagi ustave. Z
+                        zakonom je mogoče predpisati le način njihovega uresničevanja, če tako
+                        določa ustava ali če je to nujno zaradi narave posamezne pravice ali
+                        svoboščine. Tu je treba reči, da ustavne določbe glede podrobnejšega
+                        urejanja človekovih pravic v številnih primerih izrecno napotujejo na
+                        zakonsko ureditev, kar pomeni, da je pravno ureditev človekovih pravic
+                        mogoče v celoti razumeti in udejanjati le v povezavi med ustavnimi normami
+                        in zakonskimi normami, ki ustavo razčlenjujejo in dopolnjujejo. Ob tem
+                        velja, da lahko poleg ustave le zakon določa oziroma opredeljuje temeljne in
+                        druge pravice ter dolžnosti pravnih subjektov, kar pomeni, da podzakonski
+                        akti ne smejo izvirno urejati, spreminjati, bistveno omejevati ali ukinjati
+                        pravic državljanov ter drugih oseb (glej 87. člen URS). Podzakonski akti
+                        lahko zgolj razčlenjujejo in izpeljujejo v ustavi in zakonih že opredeljene
+                        pravice in dolžnosti.</p>
+                    <p>V tretjem odstavku 15. člena ustave je zapisano, da so človekove pravice in
+                        temeljne svoboščine omejene samo s pravicami drugih in v primerih, ki jih
+                        določa ustava. V naslednjem odstavku tega člena je določeno, da sta
+                        zagotovljena sodno varstvo človekovih pravic in temeljnih svoboščin ter
+                        pravica do odprave posledic njihove kršitve. Peti odstavek istega člena pa
+                        določa, da nobene človekove pravice ali temeljne svoboščine, urejene v
+                        pravnih aktih, ki veljajo v Sloveniji, ni dopustno omejevati z izgovorom, da
+                        je ustava ne priznava ali da jo priznava v manjši meri.</p>
+                    <p>V 16. členu ustava izjemoma dopušča začasno razveljavitev ali omejitev
+                        človekovih pravic in temeljnih svoboščin, vendar le v vojnem ali izrednem
+                        stanju. Človekove pravice se smejo v takšnih primerih razveljaviti le za čas
+                        trajanja vojnega ali izrednega stanja in to le v obsegu, ki ga tako stanje
+                        zahteva ter tako, da sprejeti ukrepi ne povzročajo neenakopravnosti, ki bi
+                        temeljila le na rasi, narodni pripadnosti, spolu, jeziku, veri, političnem
+                        ali drugem prepričanju, gmotnem stanju, rojstvu, izobrazbi, družbenem
+                        položaju ali katerikoli drugi osebni okoliščini. Ob tem je nekaterim
+                        najpomembnejšim pravicam zagotovljeno <hi rend="italic">absolutno
+                            varstvo</hi>, kar pomeni, da jih niti začasno ni dopustno razveljaviti
+                        ali omejiti. Gre za pravice, ki jih zagotavljajo naslednji členi:</p>
+                    <list rend="unordered">
+                        <item>17. člen (nedotakljivost človekovega življenja; prepoved smrtne
+                            kazni), </item>
+                        <item>18. člen (prepoved mučenja), </item>
+                        <item>21. člen (varstvo človekove osebnosti in dostojanstva v pravnih
+                            postopkih, med odvzemom prostosti in izvrševanjem kazni), </item>
+                        <item>27. člen (domneva nedolžnosti), </item>
+                        <item>28. člen (načelo zakonitosti v kazenskem pravu), </item>
+                        <item>29. člen (pravna jamstva v kazenskem postopku), </item>
+                        <item>41. člen (svoboda vesti).</item>
+                    </list>
+                    <p>Ustava v II. poglavju od 17. do 65. člena ureja posamezne človekove pravice.
+                        Te je mogoče strnjeno in pregledno razvrstiti v naslednje skupine oziroma
+                        kategorije:</p>
+                    <list rend="ordered:a">
+                        <item>
+                            <p><hi rend="italic">Osebne pravice in svoboščine:</hi> nedotakljivost
+                                človekovega življenja (17. člen URS), prepoved mučenja (18. člen),
+                                pravica do osebne svobode (19. člen), svoboda gibanja (32. člen),
+                                pravica do zasebne lastnine in dedovanja (33. člen), pravica do
+                                osebnega dostojanstva in varnosti (34. člen), varstvo pravic
+                                zasebnosti in osebnostnih pravic (35. člen), nedotakljivost
+                                stanovanja (36. člen), varstvo tajnosti pisem in drugih občil (37.
+                                člen), varstvo osebnih podatkov (38. člen), svoboda izražanja in
+                                obveščanja (39. člen), pravica do popravka in odgovora (40. člen),
+                                svoboda vesti (41. člen), pravica do ugovora vesti v skladu z
+                                zakonom (46. člen).</p>
+                            <p><hi rend="italic">Osebne pravice in svoboščine, namenjene pravnemu
+                                    varstvu posameznika v kazenskem in drugih pravnih
+                                postopkih</hi>, so: pravica do osebne svobode (19. člen URS),
+                                omejenost odreditve in trajanja pripora (20. člen), varstvo
+                                človekove osebnosti in dostojanstva v kazenskem in v vseh drugih
+                                pravnih postopkih (21. člen), enako varstvo pravic v pravnih
+                                postopkih (22. člen), pravica do sodnega varstva (23. člen), javnost
+                                sojenja (24. člen), pravica do pritožbe ali drugega pravnega
+                                sredstva (25. člen), pravica do povračila škode (26. člen), domneva
+                                nedolžnosti (27. člen), načelo zakonitosti v kazenskem pravu (28.
+                                člen), pravna jamstva v kazenskem postopku (29. člen), pravica do
+                                rehabilitacije in odškodnine (30. člen), prepoved ponovnega sojenja
+                                o isti stvari (31. člen).</p>
+                        </item>
+                        <item><hi rend="italic">Politične pravice in svoboščine:</hi> pravica do
+                            zbiranja in združevanja (42. člen URS), volilna pravica (43. člen),
+                            pravica do sodelovanja pri upravljanju javnih zadev (44. člen), pravica
+                            do peticije in do drugih pobud splošnega pomena (45. člen), prepoved
+                            izročanja in predaje slovenskih državljanov (47. člen), pravica do
+                            pribežališča (azila) (48. člen). </item>
+                        <item><hi rend="italic">Socialne in ekonomske pravice in svoboščine:</hi>
+                            svoboda dela (49. člen URS), pravica do socialne varnosti (50. člen),
+                            pravica do zdravstvenega varstva (51. člen), pravice invalidov in
+                            drugače huje prizadetih oseb (52. člen), varstvo zakonske zveze in
+                            družine (53. člen), pravice in dolžnosti staršev do svojih otrok (54.
+                            člen), svobodno odločanje o rojstvih otrok (55. člen), pravice otrok
+                            (56. člen). </item>
+                        <item><hi rend="italic">Kulturne pravice in pravice, ki izvirajo iz
+                                ustvarjalnih dejavnosti:</hi> svoboda izobraževanja (57. člen URS),
+                            avtonomnost državnih univerz in drugih visokih šol (58. člen), svoboda
+                            znanstvenega in umetniškega ustvarjanja (59. člen), pravice iz
+                            ustvarjalnosti (60. člen), pravica pripadnikov različnih narodov ali
+                            narodnih skupnosti do ohranjanja svoje kulture, jezika in pisave (61.
+                            člen), pravica do uporabe svojega jezika in pisave v postopkih pred
+                            državnimi in drugimi organi (62. člen), znakovni jezik in jezik
+                            gluhoslepih (62.a člen).</item>
+                        <item>
+                            <p><hi rend="italic">Pravice narodnih oziroma etničnih skupnosti:</hi>
+                                pravica do izražanja narodne pripadnosti (61. člen URS), posebne
+                                pravice italijanske in madžarske narodne skupnosti (64. člen),
+                                posebne pravice romske skupnosti (65. člen).</p>
+                            <p>Italijanska in madžarska narodna skupnost imata pravico, da na
+                                območjih, kjer živita, svobodno uporabljata svoje narodne simbole,
+                                da za ohranjanje svoje narodne identitete ustanavljata organizacije,
+                                razvijata gospodarske, kulturne, znanstveno-raziskovalne dejavnosti
+                                ter dejavnosti na področju javnega obveščanja in založništva,
+                                oblikujeta in razvijata vzgojo in izobraževanje v svojem jeziku ter
+                                da gojita odnose s svojima matičnima narodoma in njunima državama
+                                (64. člen).</p>
+                            <p>Urejanje položaja in posebnih pravic romske skupnosti, ki živi v
+                                Sloveniji, ustava v celoti prepušča zakonskemu urejanju (65.
+                                člen).</p>
+                        </item>
+                    </list>
+                    <p>V 63. členu ustava določa splošno prepoved spodbujanja k neenakopravnosti in
+                        nestrpnosti ter prepoved spodbujanja k nasilju in vojni. Tako je
+                        protiustavno vsakršno spodbujanje k narodni, rasni, verski ali drugi
+                        neenakopravnosti ter razpihovanje narodnega, rasnega, verskega ali drugega
+                        sovraštva in nestrpnosti. Prav tako je, kot rečeno, protiustavno tudi
+                        vsakršno spodbujanje k nasilju in vojni. Določba iz predzadnje alineje
+                        prvega odstavka 160. člena ustave kaže, da imajo protiustavna dejanja iz 63.
+                        člena ter seveda tudi druga protiustavna dejanja še posebno težo, če jih
+                        storijo politične stranke, kajti v takšnem primeru je za konkretno odločitev
+                        o protiustavnosti pristojno kar ustavno sodišče (torej ne redno sodišče ali
+                        upravni organ).</p>
+                </div>
+                <div>
+                    <head>Ustavno varstvo človekovih pravic in temeljnih svoboščin</head>
+                    <p>Z vidika učinkovitosti varstva človekovih pravic je treba poudariti, da v
+                        skladu s sodobnim dinamičnim razumevanjem prava ustava ni le sklop
+                        materialnopravnih določb, to je tistih določb, ki opredeljujejo varstvo
+                        posameznih pravic in svoboščin, temveč je hkrati tudi mreža povezanih
+                        pravnih in političnih (organizacijskih, postopkovnih, nadzornih itd.)
+                        mehanizmov, ki v medsebojni prepletenosti zagotavljajo varstvo pravic. Ob
+                        tem, ko so človekove pravice in prepovedi njihovih kršitev kot takšne
+                        materialnopravno opredeljene v posameznih ustavnih členih, ustava zagotavlja
+                        varstvo teh pravic tudi in predvsem na naslednje načine:</p>
+                    <list rend="numbered">
+                        <item>Ustavno vzpostavljen <hi rend="italic">sistem zavor in ravnovesij</hi>
+                            (predvsem med zakonodajno, izvršilno in sodno vejo državne oblasti)
+                            onemogoča monopolizacijo oziroma zlorabo politične moči, s čimer so
+                            posredno, vendar dobro varovane tudi človekove pravice in svoboščine.
+                            Ohranjanje in uspešno delovanje demokratičnih institucij je namreč
+                            temeljna predpostavka za zagotavljanje človekovih pravic. Ob tem so za
+                            preprečevanje oblastnih uzurpacij in zlorab, oziroma za demokratično
+                            izvrševanje državne oblasti izjemno pomembni <hi rend="italic">svoboda
+                                informiranja</hi> ter <hi rend="italic">svobodna civilna
+                            družba</hi>, ki z državljani soustvarjata kritično <hi rend="italic"
+                                >javno mnenje</hi>, ter aktivna in demokratična <hi rend="italic"
+                                >parlamentarna in širša politična opozicija</hi>, kot dodatna
+                            kritična instanca v sistemu zavor in ravnovesij.</item>
+                        <item>Z uveljavitvijo trajnosti sodniške funkcije (129. člen URS) se
+                            dejansko krepi <hi rend="italic">neodvisnost sodstva</hi> (125. člen),
+                            kar praviloma pomeni tudi učinkovitejšo sodno zaščito posameznika pred
+                            morebitnimi nedopustnimi posegi drugih vej oblasti ali drugih subjektov
+                            v človekove pravice. V tem okviru prispeva k varstvu človekovih pravic
+                            tudi to, da ustava prepoveduje ustanavljanje izrednih, v mirnem času pa
+                            tudi vojaških sodišč (126/2 URS), kajti takšna sodišča lahko zaradi
+                            posebnosti svojega delovanja znižujejo procesne oziroma postopkovne in
+                            druge standarde varstva človekovih pravic.</item>
+                        <item>Na temelju 159. člena ustave je z zakonom ustanovljen <hi
+                                rend="italic">varuh človekovih pravic</hi> (po zgledu švedskega
+                            ombudsmana), ki kot poseben organ opozarja na kršitve človekovih pravic.
+                            Ustava in zakon mu sicer ne podeljujeta močnejših formalnih
+                            pristojnosti, tako da ne more oblastno odločati o posameznih zadevah,
+                            vendar lahko z javnim delovanjem in drugimi dejanji iz okvira svojih
+                            pristojnosti močno pripomore k spoštovanju človekovih pravic v državi.
+                            Varuh, ki ga izvoli državni zbor na predlog predsednika republike, je
+                            pri svojem delu neodvisen in samostojen. Državni organi, organi lokalnih
+                            skupnosti in nosilci javnih pooblastil mu morajo na njegovo zahtevo
+                            zagotoviti vse podatke in informacije iz njihove pristojnosti ne glede
+                            na stopnjo zaupnosti in mu omogočiti izvedbo preiskave. Varuh lahko
+                            naslavlja na državne organe različne predloge, mnenja, kritike ali
+                            priporočila, ki so jih ti organi dolžni obravnavati in nanje odgovoriti
+                            v roku, ki ga določi varuh. Postopek pri varuhu je zaupen, s čimer se
+                            varujejo posamezniki, ki so se nanj obrnili. O svojih ugotovitvah in
+                            ukrepih varuh obvešča državni zbor, kateremu tudi poroča o svojem delu z
+                            rednimi letnimi ali posebnimi poročili.</item>
+                        <item>Poseben vidika varstva človekovih pravic je tudi pristojnost ustavnega
+                            sodišča, da odloča o <hi rend="italic">ustavnih pritožbah zaradi kršitev
+                                človekovih pravic</hi> (160/1, 6. alineja URS; glej tudi 160/3,
+                            161/2 in 162/3 URS). To pomeni, da ustavno sodišče obravnava tudi
+                            posamične akte, ki (domnevno) kršijo človekove pravice, če je poprej
+                            izčrpano drugo pravno varstvo. To je dodatno jamstvo za varstvo
+                            posameznikovih človekovih pravic, čeprav velja poudariti, da gre za
+                            izjemno možnost, saj mora biti tovrstno pravno varstvo v demokratični
+                            oziroma pravni državi praviloma zagotovljeno že v okviru večstopenjskega
+                            rednega sodstva.</item>
+                        <item>Posebno jamstvo za varstvo človekovih pravic pomeni nenazadnje tudi
+                            ustavna določba 8. člena ustave o <hi rend="italic">neposredni uporabi
+                                ratificiranih in objavljenih mednarodnih pogodb</hi>, ki širi
+                            področje tovrstnega pravnega varstva, saj Slovenijo zavezuje tudi z
+                            vidika spoštovanja mednarodnega prava človekovih pravic. To je z vidika
+                            človekovih pravic še posebej pomembno zato, ker je Slovenija podpisnica
+                            vseh najpomembnejših mednarodnih konvencij o človekovih pravicah, med
+                            katerimi ima največji praktičen pomen leta 1994 ratificirana Evropska
+                            konvencija o človekovih pravicah z več dopolnilnimi protokoli. Določbe
+                            te konvencije se v Sloveniji uporabljajo neposredno, kar se kaže tudi v
+                            praksi slovenskega sodstva in ustavnega sodišča. Poleg tega konvencija
+                            posameznikom, ki so izčrpali možnosti pravnega varstva svojih temeljnih
+                            oziroma človekovih pravic v Sloveniji, omogoča, da se lahko pod
+                            določenimi pogoji pritožijo na Evropsko sodišče za človekove pravice, s
+                            sedežem v Strasbourgu.</item>
+                    </list>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

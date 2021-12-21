@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:METS="http://www.loc.gov/METS/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ustava">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -3274,6 +3273,902 @@
                      območjih občin, v katerih živita italijanska ali madžarska narodna skupnost, pa
                      sta uradna jezika tudi italijanščina ali madžarščina (11. člen URS).</p>
                </div>
+            </div>
+         </div>
+         <div type="preface" xml:id="preface.7">
+            <head>Ustava Republike Slovenije: človekove pravice in temeljne svoboščine</head>
+            <docAuthor>Miro Cerar</docAuthor>
+            <div type="subchapter" xml:id="preface.7.1" rend="nosplit">
+               <head>Narava človekovih pravic in temeljnih svoboščin</head>
+               <p>Pravica je pravno zavarovano upravičenje pravnega subjekta do določenega aktivnega
+                  ali pasivnega ravnanja. V primeru posega v svoje upravičenje ima nosilec pravice s
+                  strani države zagotovljeno pravno varstvo. Tudi za človekove pravice, kot pravice
+                  najvišjega ranga, ki varujejo najpomembnejše človekove dobrine, je značilno, da so
+                  kot kategorija mednarodnega in notranjega (državnega) prava konstituirane v <hi
+                     rend="italic">pravni</hi> obliki, tako da zagotavljajo njihovim nosilcem pravno
+                  varstvo.</p>
+               <p>V filozofski, politični in pravni doktrini človekovih pravic, ki se je razvila v
+                  obdobju evropskega razsvetljenstva (začetki te doktrine segajo v čas 17. in 18.
+                  stol.), se zatrjuje, da so človekove pravice univerzalne, absolutne ter dane
+                  človeku že zgolj z njegovo (človeško) naravo. Gre za ugotovitve različnih
+                  mislecev, ki so prišli do spoznanj, da obstajajo neke temeljne, vsem ljudem skupne
+                  in po naravi vsakemu posamezniku dane vrednote oziroma dobrine, ki jim je treba v
+                  obliki temeljnih oziroma človekovih pravic pred oblastno prisilo zagotoviti
+                  celovito in učinkovito varstvo. Vendar pa nam, kljub tehtnim
+                  filozofsko-humanističnim izhodiščem in argumentom navedene doktrine, po kateri naj
+                  bi bile vsem ljudem človekove pravice dane že po naravi, mednarodna ureditev in
+                  posamezne državne ureditve človekovih pravic ter še posebej njihovo
+                  (ne)udejanjanje v praksi dokazujejo, da so človekove pravice v družbi realno
+                  priznane in varovane le toliko, kolikor jih oblast in posamezniki v resnici
+                  spoštujejo in uresničujejo ter kolikor jih uspejo državni organi v resnici
+                  zagotavljati posameznikom, katerim so bile kršene. V tem družbeno realnem pogledu
+                  je zato bistveno, da so te pravice opredeljene že z ustavo ter da je na zakonski
+                  ravni in pri konkretnem uresničevanju prava zagotovljeno njihovo učinkovito
+                  varstvo.</p>
+               <p>Ustava uporablja besedno zvezo <hi rend="italic">človekove pravice in temeljne
+                     svoboščine</hi>, pri čemer je mogoče oboje združiti v enotni pojem človekovih
+                  (temeljnih) pravic v širšem smislu. Za navedena pojma je značilno, da ima
+                  svoboščina predvsem filozofski izvor, pravica pa je primarno pravna kategorija.
+                  Svoboščina je po izvoru moralna vrednota oziroma etična kategorija v smislu
+                  zagotavljanja prostosti in neomejevanja človeške svobode, pravica pa se
+                  prvenstveno kaže kot pravno zavarovano upravičenje njenih nosilcev do določenega
+                  aktivnega ali pasivnega ravnanja. V ustavnem kontekstu je razlikovanje med
+                  pravicami in svoboščinami predvsem odraz povzemanja tradicionalnih nazivov, zaradi
+                  česar je treba naravo vsake posamezne pravice oziroma svoboščine presojati glede
+                  ne njeno konkretno vsebino. Vsekakor pa je mogoče tako človekove pravice kot
+                  temeljne svoboščine označiti tudi s skupnim nazivom: človekove pravice (v tem
+                  širšem pomenu je izraz človekove pravice večkrat uporabljen tudi v
+                  nadaljevanju).</p>
+               <p>Opozoriti je treba, da države v svojih ustavah določene <hi rend="italic"
+                     >človekove</hi> pravice zagotavljajo samo <hi rend="italic">državljanom</hi>.
+                  Tako je v Sloveniji za državljane praviloma pridržana volilna pravica (43. člen
+                  URS), le državljani imajo v okviru Slovenije pravico do vlaganja peticij in do
+                  drugih pobud splošnega pomena (45. člen), državljani imajo tudi ustavno
+                  zagotovljeno pravico do socialne varnosti (50. člen) itd. Tudi v teh in podobnih
+                  primerih gre za človekove pravice, tj. pravice, ki varujejo najvišje človekove
+                  dobrine in jih je treba zagotavljati vsem ljudem kot takšnim, pri čemer pa so
+                  navedene pravice take narave, da jih mora vsaka država zagotoviti predvsem svojim
+                  državljanom. Povsem nerealno bi bilo namreč pričakovati, da bi npr. posamezne
+                  države politične in socialne pravice v celoti zagotavljale tudi tujcem.</p>
+            </div>
+            <div type="subchapter" xml:id="preface.7.2" rend="nosplit">
+               <head>Ustavna ureditev človekovih pravic in temeljnih svoboščin</head>
+               <p>V ustavnih členih od 14 do 16 so vsebovane izhodiščne oziroma splošne določbe
+                  glede človekovih pravic. V 14. členu je določeno, da so v Sloveniji vsakomur
+                  zagotovljene enake človekove pravice in temeljne svoboščine, ne glede na
+                  narodnost, raso, spol, jezik, vero, politično ali drugo prepričanje, gmotno
+                  stanje, rojstvo, izobrazbo, družbeni položaj, invalidnost ali katerokoli drugo
+                  osebno okoliščino <hi rend="italic">(načelo nediskriminacije)</hi>. Posebej je
+                  tudi določeno, da so vsi pravni naslovljenci pred zakonom enaki, s čimer je
+                  zagotovljeno <hi rend="italic">načelo pravne
+                  enakosti</hi><hi rend="bold" xml:space="preserve">. </hi>To pomeni predvsem, da je
+                  treba z zakoni enake oziroma podobne primere urejati na enak ali podoben način <hi
+                     rend="italic">(enakost v zakonu)</hi> ter da je treba zakone na prav takšen
+                  način tudi razlagati in izvrševati <hi rend="italic">(enakost pred
+                  zakonom)</hi>.</p>
+               <p>V prvem in drugem odstavku 15. člena ustave je določeno, da se človekove pravice
+                  in temeljne svoboščine uresničujejo neposredno na podlagi ustave. Z zakonom je
+                  mogoče predpisati le način njihovega uresničevanja, če tako določa ustava ali če
+                  je to nujno zaradi narave posamezne pravice ali svoboščine. Tu je treba reči, da
+                  ustavne določbe glede podrobnejšega urejanja človekovih pravic v številnih
+                  primerih izrecno napotujejo na zakonsko ureditev, kar pomeni, da je pravno
+                  ureditev človekovih pravic mogoče v celoti razumeti in udejanjati le v povezavi
+                  med ustavnimi normami in zakonskimi normami, ki ustavo razčlenjujejo in
+                  dopolnjujejo. Ob tem velja, da lahko poleg ustave le zakon določa oziroma
+                  opredeljuje temeljne in druge pravice ter dolžnosti pravnih subjektov, kar pomeni,
+                  da podzakonski akti ne smejo izvirno urejati, spreminjati, bistveno omejevati ali
+                  ukinjati pravic državljanov ter drugih oseb (glej 87. člen URS). Podzakonski akti
+                  lahko zgolj razčlenjujejo in izpeljujejo v ustavi in zakonih že opredeljene
+                  pravice in dolžnosti.</p>
+               <p>V tretjem odstavku 15. člena ustave je zapisano, da so človekove pravice in
+                  temeljne svoboščine omejene samo s pravicami drugih in v primerih, ki jih določa
+                  ustava. V naslednjem odstavku tega člena je določeno, da sta zagotovljena sodno
+                  varstvo človekovih pravic in temeljnih svoboščin ter pravica do odprave posledic
+                  njihove kršitve. Peti odstavek istega člena pa določa, da nobene človekove pravice
+                  ali temeljne svoboščine, urejene v pravnih aktih, ki veljajo v Sloveniji, ni
+                  dopustno omejevati z izgovorom, da je ustava ne priznava ali da jo priznava v
+                  manjši meri.</p>
+               <p>V 16. členu ustava izjemoma dopušča začasno razveljavitev ali omejitev človekovih
+                  pravic in temeljnih svoboščin, vendar le v vojnem ali izrednem stanju. Človekove
+                  pravice se smejo v takšnih primerih razveljaviti le za čas trajanja vojnega ali
+                  izrednega stanja in to le v obsegu, ki ga tako stanje zahteva ter tako, da
+                  sprejeti ukrepi ne povzročajo neenakopravnosti, ki bi temeljila le na rasi,
+                  narodni pripadnosti, spolu, jeziku, veri, političnem ali drugem prepričanju,
+                  gmotnem stanju, rojstvu, izobrazbi, družbenem položaju ali katerikoli drugi osebni
+                  okoliščini. Ob tem je nekaterim najpomembnejšim pravicam zagotovljeno <hi
+                     rend="italic">absolutno varstvo</hi>, kar pomeni, da jih niti začasno ni
+                  dopustno razveljaviti ali omejiti. Gre za pravice, ki jih zagotavljajo naslednji
+                  členi:</p>
+               <list rend="unordered">
+                  <item>17. člen (nedotakljivost človekovega življenja; prepoved smrtne kazni), </item>
+                  <item>18. člen (prepoved mučenja), </item>
+                  <item>21. člen (varstvo človekove osebnosti in dostojanstva v pravnih postopkih,
+                     med odvzemom prostosti in izvrševanjem kazni), </item>
+                  <item>27. člen (domneva nedolžnosti), </item>
+                  <item>28. člen (načelo zakonitosti v kazenskem pravu), </item>
+                  <item>29. člen (pravna jamstva v kazenskem postopku), </item>
+                  <item>41. člen (svoboda vesti).</item>
+               </list>
+               <p>Ustava v II. poglavju od 17. do 65. člena ureja posamezne človekove pravice. Te je
+                  mogoče strnjeno in pregledno razvrstiti v naslednje skupine oziroma
+                  kategorije:</p>
+               <list rend="ordered:a">
+                  <item>
+                     <p><hi rend="italic">Osebne pravice in svoboščine:</hi> nedotakljivost
+                        človekovega življenja (17. člen URS), prepoved mučenja (18. člen), pravica
+                        do osebne svobode (19. člen), svoboda gibanja (32. člen), pravica do zasebne
+                        lastnine in dedovanja (33. člen), pravica do osebnega dostojanstva in
+                        varnosti (34. člen), varstvo pravic zasebnosti in osebnostnih pravic (35.
+                        člen), nedotakljivost stanovanja (36. člen), varstvo tajnosti pisem in
+                        drugih občil (37. člen), varstvo osebnih podatkov (38. člen), svoboda
+                        izražanja in obveščanja (39. člen), pravica do popravka in odgovora (40.
+                        člen), svoboda vesti (41. člen), pravica do ugovora vesti v skladu z zakonom
+                        (46. člen).</p>
+                     <p><hi rend="italic">Osebne pravice in svoboščine, namenjene pravnemu varstvu
+                           posameznika v kazenskem in drugih pravnih postopkih</hi>, so: pravica do
+                        osebne svobode (19. člen URS), omejenost odreditve in trajanja pripora (20.
+                        člen), varstvo človekove osebnosti in dostojanstva v kazenskem in v vseh
+                        drugih pravnih postopkih (21. člen), enako varstvo pravic v pravnih
+                        postopkih (22. člen), pravica do sodnega varstva (23. člen), javnost sojenja
+                        (24. člen), pravica do pritožbe ali drugega pravnega sredstva (25. člen),
+                        pravica do povračila škode (26. člen), domneva nedolžnosti (27. člen),
+                        načelo zakonitosti v kazenskem pravu (28. člen), pravna jamstva v kazenskem
+                        postopku (29. člen), pravica do rehabilitacije in odškodnine (30. člen),
+                        prepoved ponovnega sojenja o isti stvari (31. člen).</p>
+                  </item>
+                  <item><hi rend="italic">Politične pravice in svoboščine:</hi> pravica do zbiranja
+                     in združevanja (42. člen URS), volilna pravica (43. člen), pravica do
+                     sodelovanja pri upravljanju javnih zadev (44. člen), pravica do peticije in do
+                     drugih pobud splošnega pomena (45. člen), prepoved izročanja in predaje
+                     slovenskih državljanov (47. člen), pravica do pribežališča (azila) (48. člen). </item>
+                  <item><hi rend="italic">Socialne in ekonomske pravice in svoboščine:</hi> svoboda
+                     dela (49. člen URS), pravica do socialne varnosti (50. člen), pravica do
+                     zdravstvenega varstva (51. člen), pravice invalidov in drugače huje prizadetih
+                     oseb (52. člen), varstvo zakonske zveze in družine (53. člen), pravice in
+                     dolžnosti staršev do svojih otrok (54. člen), svobodno odločanje o rojstvih
+                     otrok (55. člen), pravice otrok (56. člen). </item>
+                  <item><hi rend="italic">Kulturne pravice in pravice, ki izvirajo iz ustvarjalnih
+                        dejavnosti:</hi> svoboda izobraževanja (57. člen URS), avtonomnost državnih
+                     univerz in drugih visokih šol (58. člen), svoboda znanstvenega in umetniškega
+                     ustvarjanja (59. člen), pravice iz ustvarjalnosti (60. člen), pravica
+                     pripadnikov različnih narodov ali narodnih skupnosti do ohranjanja svoje
+                     kulture, jezika in pisave (61. člen), pravica do uporabe svojega jezika in
+                     pisave v postopkih pred državnimi in drugimi organi (62. člen), znakovni jezik
+                     in jezik gluhoslepih (62.a člen).</item>
+                  <item>
+                     <p><hi rend="italic">Pravice narodnih oziroma etničnih skupnosti:</hi> pravica
+                        do izražanja narodne pripadnosti (61. člen URS), posebne pravice italijanske
+                        in madžarske narodne skupnosti (64. člen), posebne pravice romske skupnosti
+                        (65. člen).</p>
+                     <p>Italijanska in madžarska narodna skupnost imata pravico, da na območjih,
+                        kjer živita, svobodno uporabljata svoje narodne simbole, da za ohranjanje
+                        svoje narodne identitete ustanavljata organizacije, razvijata gospodarske,
+                        kulturne, znanstveno-raziskovalne dejavnosti ter dejavnosti na področju
+                        javnega obveščanja in založništva, oblikujeta in razvijata vzgojo in
+                        izobraževanje v svojem jeziku ter da gojita odnose s svojima matičnima
+                        narodoma in njunima državama (64. člen).</p>
+                     <p>Urejanje položaja in posebnih pravic romske skupnosti, ki živi v Sloveniji,
+                        ustava v celoti prepušča zakonskemu urejanju (65. člen).</p>
+                  </item>
+               </list>
+               <p>V 63. členu ustava določa splošno prepoved spodbujanja k neenakopravnosti in
+                  nestrpnosti ter prepoved spodbujanja k nasilju in vojni. Tako je protiustavno
+                  vsakršno spodbujanje k narodni, rasni, verski ali drugi neenakopravnosti ter
+                  razpihovanje narodnega, rasnega, verskega ali drugega sovraštva in nestrpnosti.
+                  Prav tako je, kot rečeno, protiustavno tudi vsakršno spodbujanje k nasilju in
+                  vojni. Določba iz predzadnje alineje prvega odstavka 160. člena ustave kaže, da
+                  imajo protiustavna dejanja iz 63. člena ter seveda tudi druga protiustavna dejanja
+                  še posebno težo, če jih storijo politične stranke, kajti v takšnem primeru je za
+                  konkretno odločitev o protiustavnosti pristojno kar ustavno sodišče (torej ne
+                  redno sodišče ali upravni organ).</p>
+            </div>
+            <div type="subchapter" xml:id="preface.7.3" rend="nosplit">
+               <head>Ustavno varstvo človekovih pravic in temeljnih svoboščin</head>
+               <p>Z vidika učinkovitosti varstva človekovih pravic je treba poudariti, da v skladu s
+                  sodobnim dinamičnim razumevanjem prava ustava ni le sklop materialnopravnih
+                  določb, to je tistih določb, ki opredeljujejo varstvo posameznih pravic in
+                  svoboščin, temveč je hkrati tudi mreža povezanih pravnih in političnih
+                  (organizacijskih, postopkovnih, nadzornih itd.) mehanizmov, ki v medsebojni
+                  prepletenosti zagotavljajo varstvo pravic. Ob tem, ko so človekove pravice in
+                  prepovedi njihovih kršitev kot takšne materialnopravno opredeljene v posameznih
+                  ustavnih členih, ustava zagotavlja varstvo teh pravic tudi in predvsem na
+                  naslednje načine:</p>
+               <list rend="numbered">
+                  <item>Ustavno vzpostavljen <hi rend="italic">sistem zavor in ravnovesij</hi>
+                     (predvsem med zakonodajno, izvršilno in sodno vejo državne oblasti) onemogoča
+                     monopolizacijo oziroma zlorabo politične moči, s čimer so posredno, vendar
+                     dobro varovane tudi človekove pravice in svoboščine. Ohranjanje in uspešno
+                     delovanje demokratičnih institucij je namreč temeljna predpostavka za
+                     zagotavljanje človekovih pravic. Ob tem so za preprečevanje oblastnih uzurpacij
+                     in zlorab, oziroma za demokratično izvrševanje državne oblasti izjemno pomembni
+                        <hi rend="italic">svoboda informiranja</hi> ter <hi rend="italic">svobodna
+                        civilna družba</hi>, ki z državljani soustvarjata kritično <hi rend="italic"
+                        >javno mnenje</hi>, ter aktivna in demokratična <hi rend="italic"
+                        >parlamentarna in širša politična opozicija</hi>, kot dodatna kritična
+                     instanca v sistemu zavor in ravnovesij.</item>
+                  <item>Z uveljavitvijo trajnosti sodniške funkcije (129. člen URS) se dejansko
+                     krepi <hi rend="italic">neodvisnost sodstva</hi> (125. člen), kar praviloma
+                     pomeni tudi učinkovitejšo sodno zaščito posameznika pred morebitnimi
+                     nedopustnimi posegi drugih vej oblasti ali drugih subjektov v človekove
+                     pravice. V tem okviru prispeva k varstvu človekovih pravic tudi to, da ustava
+                     prepoveduje ustanavljanje izrednih, v mirnem času pa tudi vojaških sodišč
+                     (126/2 URS), kajti takšna sodišča lahko zaradi posebnosti svojega delovanja
+                     znižujejo procesne oziroma postopkovne in druge standarde varstva človekovih
+                     pravic.</item>
+                  <item>Na temelju 159. člena ustave je z zakonom ustanovljen <hi rend="italic"
+                        >varuh človekovih pravic</hi> (po zgledu švedskega ombudsmana), ki kot
+                     poseben organ opozarja na kršitve človekovih pravic. Ustava in zakon mu sicer
+                     ne podeljujeta močnejših formalnih pristojnosti, tako da ne more oblastno
+                     odločati o posameznih zadevah, vendar lahko z javnim delovanjem in drugimi
+                     dejanji iz okvira svojih pristojnosti močno pripomore k spoštovanju človekovih
+                     pravic v državi. Varuh, ki ga izvoli državni zbor na predlog predsednika
+                     republike, je pri svojem delu neodvisen in samostojen. Državni organi, organi
+                     lokalnih skupnosti in nosilci javnih pooblastil mu morajo na njegovo zahtevo
+                     zagotoviti vse podatke in informacije iz njihove pristojnosti ne glede na
+                     stopnjo zaupnosti in mu omogočiti izvedbo preiskave. Varuh lahko naslavlja na
+                     državne organe različne predloge, mnenja, kritike ali priporočila, ki so jih ti
+                     organi dolžni obravnavati in nanje odgovoriti v roku, ki ga določi varuh.
+                     Postopek pri varuhu je zaupen, s čimer se varujejo posamezniki, ki so se nanj
+                     obrnili. O svojih ugotovitvah in ukrepih varuh obvešča državni zbor, kateremu
+                     tudi poroča o svojem delu z rednimi letnimi ali posebnimi poročili.</item>
+                  <item>Poseben vidika varstva človekovih pravic je tudi pristojnost ustavnega
+                     sodišča, da odloča o <hi rend="italic">ustavnih pritožbah zaradi kršitev
+                        človekovih pravic</hi> (160/1, 6. alineja URS; glej tudi 160/3, 161/2 in
+                     162/3 URS). To pomeni, da ustavno sodišče obravnava tudi posamične akte, ki
+                     (domnevno) kršijo človekove pravice, če je poprej izčrpano drugo pravno
+                     varstvo. To je dodatno jamstvo za varstvo posameznikovih človekovih pravic,
+                     čeprav velja poudariti, da gre za izjemno možnost, saj mora biti tovrstno
+                     pravno varstvo v demokratični oziroma pravni državi praviloma zagotovljeno že v
+                     okviru večstopenjskega rednega sodstva.</item>
+                  <item>Posebno jamstvo za varstvo človekovih pravic pomeni nenazadnje tudi ustavna
+                     določba 8. člena ustave o <hi rend="italic">neposredni uporabi ratificiranih in
+                        objavljenih mednarodnih pogodb</hi>, ki širi področje tovrstnega pravnega
+                     varstva, saj Slovenijo zavezuje tudi z vidika spoštovanja mednarodnega prava
+                     človekovih pravic. To je z vidika človekovih pravic še posebej pomembno zato,
+                     ker je Slovenija podpisnica vseh najpomembnejših mednarodnih konvencij o
+                     človekovih pravicah, med katerimi ima največji praktičen pomen leta 1994
+                     ratificirana Evropska konvencija o človekovih pravicah z več dopolnilnimi
+                     protokoli. Določbe te konvencije se v Sloveniji uporabljajo neposredno, kar se
+                     kaže tudi v praksi slovenskega sodstva in ustavnega sodišča. Poleg tega
+                     konvencija posameznikom, ki so izčrpali možnosti pravnega varstva svojih
+                     temeljnih oziroma človekovih pravic v Sloveniji, omogoča, da se lahko pod
+                     določenimi pogoji pritožijo na Evropsko sodišče za človekove pravice, s sedežem
+                     v Strasbourgu.</item>
+               </list>
+            </div>
+         </div>
+         <div type="preface" xml:id="preface.8">
+            <head>Ustava Republike Slovenije: gospodarska in socialna razmerja</head>
+            <docAuthor>Miro Cerar</docAuthor>
+            <div type="subchapter" xml:id="preface.8.1" rend="nosplit">
+               <head>Splošne značilnosti ustavne ureditve gospodarskih in socialnih razmerij</head>
+               <p>V času nastajanja ustave je bilo sprejeto stališče, da naj ustava ureja tudi
+                  nekatere temeljne vidike gospodarskih in socialnih razmerij, pri tem pa naj se
+                  ustavodajalec v čim večji meri izogne programskim normam ter preveč podrobnemu
+                  urejanju teh področij, da bi ustava ne postavila preveč togih okvirov za prihodnjo
+                  prakso. Tem zahtevam je ustavodajalec večinoma ugodil, ni pa se mogel povsem
+                  izogniti nekaterim programskim določbam, ki jih je vključil v ustavo zaradi
+                  njihovega širšega družbenega pomena ter zato, ker odražajo sodobne napredne
+                  civilizacijske standarde in visoko stopnjo družbenega soglasja v Sloveniji. V
+                  poglavju o gospodarskih in socialnih razmerjih so takšne programske norme npr.
+                  določba o funkciji države, da ustvarja možnosti za zaposlovanje in delo (66. člen
+                  URS), določba o skrbi države za gospodarski, kulturni in socialni napredek
+                  prebivalstva na gorskih in hribovitih območjih (71. člen), določba o skrbi države
+                  za zdravo življenjsko okolje (72. člen), določba o skrbi države in lokalnih
+                  skupnosti za ohranjanje naravne in kulturne dediščine (73. člen) ter določba o
+                  nalogi države, da ustvarja možnosti, da si državljani lahko pridobijo primerno
+                  stanovanje (78. člen).</p>
+               <p>Nekatere določbe iz poglavja o gospodarskih in socialnih razmerjih bi bilo mogoče
+                  uvrstiti tudi v poglavje o človekovih pravicah in svoboščinah, druge pa v poglavje
+                  o državi in njenih funkcijah. Kljub temu pa predstavlja večina določb tega
+                  poglavja zaokroženo celoto, kar upravičuje takšno ustavno razvrstitev. To poglavje
+                  zagotavlja veliko takšnih pravic, katerih uresničevanje bistveno soopredeljuje
+                  zakon (npr. pravica do zdravega življenjskega okolja, pravica do soodločanja
+                  delavcev pri upravljanju, pravica do stavke ter pravice v Sloveniji zaposlenih
+                  tujcev in njihovih družin).</p>
+               <p>Ena od ključnih dilem pri oblikovanju ustave je bila, ali naj ustava ureja tudi
+                  takšne pravice, ki jih v določeni meri priznavajo tisti mednarodnopravni
+                  dokumenti, ki jih je naša država ratificirala, vendar pa jim v Sloveniji še nekaj
+                  časa ne bo mogoče v vseh primerih zagotoviti zares učinkovitega pravnega (sodnega)
+                  varstva. Kot takšne so bile v ustavni razpravi prepoznane npr. pravica do dela,
+                  pravica do zdravja in pravica do stanovanja. Ustavodajalec se je odločil, da teh
+                  pravic kot takšnih izrecno ne uvrsti v ustavo, vendar pa je po drugi strani s
+                  programskimi ustavnimi določbami državi naložil obveznost, da vzpostavi možnosti
+                  za uveljavljanje teh pravic oziroma dobrin, ki jih te pravice varujejo.</p>
+               <p>Tu velja spomniti, da iz 8. in 153. člena ustave izhaja, da morajo biti zakoni in
+                  drugi predpisi Republike Slovenije v skladu s splošno veljavnimi načeli
+                  mednarodnega prava in z ratificiranimi mednarodnimi pogodbami, pri čemer se
+                  ratificirane in objavljene mednarodne pogodbe uporabljajo neposredno. V tem obsegu
+                  velja torej prvenstvo (primat) mednarodnega prava pred notranjim (slovenskim)
+                  pravom, kar pomeni, da zakonodajalca obvezuje tudi vsebina vseh ratificiranih
+                  mednarodnih paktov in konvencij s področja človekovih pravic, če seveda ne
+                  nasprotuje ustavi. Pri tem pa so tudi v mednarodnih paktih in konvencijah socialne
+                  pravice pogosto opredeljene v bolj ali manj programski obliki, zaradi česar je
+                  njihovo uresničevanje praviloma odvisno od ekonomskih, političnih in drugih
+                  okoliščin ter možnosti v posameznih državah.</p>
+            </div>
+            <div type="subchapter" xml:id="preface.8.2" rend="nosplit">
+               <head>Delo in z njim povezane pravice</head>
+               <p>V 66. členu ustave je opredeljeno <hi rend="italic">varstvo
+                  dela</hi><hi rend="bold" xml:space="preserve">. </hi>Določeno je, da država
+                  ustvarja možnosti za zaposlovanje in delo, kar je predvsem napotilo državnemu
+                  zboru in vladi, da v tej smeri usmerjata ekonomsko in socialno politiko v državi.
+                  Poleg tega je v navedenem členu določeno tudi, da mora država zagotavljati
+                  zakonsko varstvo zaposlovanja in dela.</p>
+               <p>V 75. členu ustave je določeno, da <hi rend="italic">delavci sodelujejo pri
+                     upravljanju</hi> v gospodarskih organizacijah in zavodih na način in pod
+                  pogoji, ki jih določa zakon. Tako npr. zakon o sodelovanju delavcev pri
+                  upravljanju določa načine in pogoje sodelovanja delavcev pri upravljanju
+                  gospodarskih družb (če ni s posebnim zakonom določeno drugače), bank, zavarovalnic
+                  in zavodov, pa tudi podjetij, ki opravljajo gospodarske javne službe. Sodelovanje
+                  delavcev pri upravljanju se v teh primerih uresničuje s pravico do pobude oziroma
+                  odgovora na pobudo, s pravico do obveščenosti, s pravico dajanja mnenj in
+                  predlogov (vključno s pravico do odgovora nanje), z možnostjo ali obveznostjo
+                  skupnih posvetovanj z delodajalcem, s pravico soodločanja, s pravico zadržanja
+                  odločitve delodajalca ter z drugimi načini sodelovanja, ki se določijo z dogovorom
+                  med delodajalcem in svetom delavcev. Te pravice uresničujejo delavci posamezno ali
+                  pa kolektivno (npr. preko sveta ali zbora delavcev).</p>
+               <p>Ustava izrecno opredeljuje tudi <hi rend="italic">sindikalno
+                  svobodo</hi><hi rend="bold" xml:space="preserve">. </hi>Gre za obliko svobodnega
+                  združevanja, ki ga sicer omogoča že 42. člen ustave (splošna opredelitev temeljne
+                  pravice do svobodnega združevanja), vendar pa je ustavodajalec s posebno določbo o
+                  sindikalnem združevanju še posebej poudaril to možnost uresničevanja delavskih
+                  pravic. V 76. členu ustave je tako določeno, da je ustanavljanje in delovanje
+                  sindikatov ter včlanjevanje vanje svobodno. S tem je delojemalcem posebej
+                  zagotovljena tako aktivna sindikalna svoboda (pravica delavca oziroma zaposlenega,
+                  da se po svoji izbiri včlani v sindikat) kot tudi negativna sindikalna svoboda
+                  (četudi posameznik izpolnjuje pogoje za včlanjenje v sindikat, ga v to nihče ne
+                  sme (pri)siliti).</p>
+               <p>V prvem odstavku 77. člena ustave je določeno, da imajo delavci <hi rend="italic"
+                     >pravico do stavke</hi><hi rend="bold" xml:space="preserve">. </hi>To je ena
+                  izmed temeljnih delavskih oziroma sindikalnih pravic, ki predstavlja posebno
+                  obliko varstva interesov delavcev. Stavke praviloma potekajo pod vodstvom
+                  sindikatov, njihovi organizacija in izvedba pa morata biti napovedani vnaprej.
+                  Tudi sicer mora potekati stavka v ustavnih in zakonskih okvirih, kar predvsem
+                  pomeni, da se z njo ne smejo nedopustno omejevati ali kršiti pravice drugih.
+                  Ustava v tem pogledu še posebej določa, da se lahko, če to zahteva javna korist
+                  (npr. če bi se s stavko lahko ogrožalo zdravje, življenje ali varnost ljudi),
+                  pravica do stavke upoštevajoč vrsto in naravo dejavnosti z zakonom omeji (77/2
+                  URS) – kar je npr. še posebej značilno za stavke policistov, carinikov ali
+                  zdravnikov.</p>
+            </div>
+            <div type="subchapter" xml:id="preface.8.3" rend="nosplit">
+               <head>Določbe o lastnini</head>
+               <p>Ustava v okviru II. poglavja, ki ureja človekove pravice in temeljne svoboščine,
+                  posebej zagotavlja pravico do zasebne lastnine (33 URS). Dopolnitev te ureditve
+                  vsebuje poglavje o gospodarskih in socialnih razmerjih, ki v več določbah
+                  podrobneje opredeljuje pridobivanje in uživanje lastnine. Gre za sodobni pravni
+                  pristop, ki v lastninski pravici oziroma lastnini ne vidi zgolj liberalne
+                  kategorije, ki bi lastniku dajala neomejene možnosti uporabe in razpolaganja z
+                  dobrinami v njegovi lasti, pač pa lastninsko pravico omejuje v različnih pogledih,
+                  ki zagotavljajo tudi njeno družbenokoristno udejanjanje.</p>
+               <p>V 67. členu ustave je zapisano, da zakon določa <hi rend="italic">način
+                     pridobivanja in uživanja lastnine</hi>, tako da je zagotovljena njena
+                  gospodarska, socialna in ekološka funkcija. Navedene funkcije je težko na splošno
+                  določno opredeliti, kajti upoštevati je treba vso raznolikost lastninskih oblik in
+                  družbene okoliščine, ki determinirajo te funkcije. Z gospodarsko funkcijo je
+                  predvsem mišljeno, da mora lastnina za zagotavljanje splošne in javne koristi
+                  omogočati uspešno podjetništvo in gospodarjenje, ustvarjanje dohodka in dobička,
+                  čim večjo zaposlenost prebivalstva itd. Za socialno funkcijo lastnine velja, da jo
+                  je treba na eni strani razumeti kot njeno občo družbeno komponento, na drugi
+                  strani pa jo je treba povezati tudi s pojmom socialne države. V prvem pogledu se
+                  lastnine ne sme uporabljati ali zlorabljati na škodo drugih in na račun
+                  kohezivnosti družbe, v ožjem socialnem pogledu pa mora lastnina prispevati k
+                  zagotavljanju ustreznega življenjskega standarda državljanov ter k zadovoljevanju
+                  njihovih potreb na področju zdravstva, sociale, šolstva, kulture itd. V okvir
+                  ekološke funkcije lastnine sodijo nekatere izrecne ustavne opredelitve (npr. skrb
+                  za zdravo življenjsko okolje – 72 URS, varovanje naravne dediščine – 73 URS),
+                  poleg tega pa opredeljujejo omejitve lastnine s ciljem varovanja narave oziroma
+                  okolja tudi zakoni, ki določajo nekatere posebne pogoje uporabe nepremičnin (npr.
+                  gozdnih zemljišč) in premičnin (npr. motoriziranih prevoznih sredstev), posebne
+                  ukrepe za varovanje posebej ogroženih dobrin (npr. nekaterih območij, živalskih in
+                  rastlinskih vrst) ter pogoje in način opravljanja gospodarskih dejavnosti, ki naj
+                  bi v čim manjši meri onesnaževale okolje.</p>
+               <p>V 68. členu ustave je urejena <hi rend="italic">lastninska pravica tujcev na
+                     nepremičninah</hi>. V tem členu je bilo prvotno, tj. ob sprejemu ustave,
+                  določeno, da lahko tujci pridobivajo lastninsko pravico na nepremičninah pod
+                  pogoji, ki jih določa zakon. Isti člen je tujcem na zemljiščih prepovedal
+                  pridobivanje lastninske pravice, razen z dedovanjem ob pogoju vzajemnosti
+                  (vzajemnost pomeni, da naša država priznava tujcu pravico do dedovanja zemljišča,
+                  če enako pravico priznava našemu državljanu tudi država, iz katere je ta tujec).
+                  Takšna prvotna ustavna ureditev glede pridobivanja lastnine na nepremičninah v
+                  Sloveniji je bila za tujce restriktivna, oziroma kar zadeva zemljišča skoraj
+                  povsem izključujoča. Ustavodajalca je pri pisanju teh določb vodila skrb pred
+                  možnostjo prevlade ozkogledih in lukrativnih individualnih ali partikularnih
+                  interesov, kar bi vodilo v situacijo, ko bi lahko tuje fizične in pravne osebe, ki
+                  razpolagajo z velikimi količinami kapitala, v relativno velikem obsegu pokupile
+                  slovenska zemljišča in druge nepremičnine.</p>
+               <p>V prvi polovici leta 1997 je Slovenija ratificirala t. i. pridružitveni sporazum z
+                  Evropsko unijo, na podlagi katerega je naša država vstopila v krog držav, ki so
+                  kandidirale za članstvo v Evropski uniji. Dotedanja oziroma prvotna določba 68.
+                  člena ustave se je v luči tega sporazuma izkazala za neustrezno oziroma pretirano
+                  omejevalno glede ureditve pridobivanja lastninske pravice na zemljiščih s strani
+                  tujcev, zaradi česar se je državni zbor odločil drugače urediti to ustavno
+                  materijo. Tako je še pred ratifikacijo navedenega pridružitvenega sporazuma
+                  sprejel Ustavni zakon o spremembi 68. člena ustave Republike Slovenije (Ur. l. RS,
+                  št. 42/97), s katerim je bilo celotno besedilo 68. člena nadomeščeno z novim
+                  besedilom, ki je določilo, da lahko tujci pridobijo lastninsko pravico na
+                  nepremičninah pod pogoji, ki jih določa zakon, ali če tako določa mednarodna
+                  pogodba, ki jo ratificira državni zbor, ob pogoju vzajemnosti. Kot obvezni pogoj
+                  za sprejetje tega zakona in mednarodne pogodbe je bila ustavno določena
+                  dvotretjinska večina glasov vseh poslancev državnega zbora. S takšno rešitvijo je
+                  državni zbor na ustavni ravni načelno in s tem tudi za tujce liberaliziral promet
+                  z nepremičninami, pri čemer pa je podrobnejše rešitve prenesel na bodočo zakonsko
+                  oziroma morebitno konvencijsko ureditev.</p>
+               <p>Dne 7. 3. 2003 je bila z Ustavnim zakon o spremembah I. poglavja ter 47. in 68.
+                  člena Ustave Republike Slovenije določba 68. člena ustave ponovno spremenjena, in
+                  sicer v smeri nadaljnje liberalizacije slovenskega trga nepremičnin. Ta še vedno
+                  veljavna določba 68. člena odpravlja dva dotedenja pogoja, ki sta veljala za
+                  pridobivanje lastninske pravice na nepremičninah s strani tujcev, tj. pogoj
+                  vzajemnosti in pogoj dvotretjinske večine pri sprejemanju zakona in ratifikaciji
+                  mednarodne pogodbe, s katerima so določajo pogoji za navedeno pridobivanje
+                  lastninske pravice. V 68. členu ustave je sedaj določeno, da lahko tujci pridobijo
+                  lastninsko pravico na nepremičninah pod pogoji, ki jih določa zakon ali mednarodna
+                  pogodba, ki jo ratificira državni zbor. Takšna ustavna rešitev sledi slovenski
+                  zavezanosti načelom prostega pretoka dobrin in prostega gibanja oseb v svetovnem
+                  merilu ter še posebej v okviru EU, na katero je Slovenija prenesla v izvrševanje
+                  del svojih suverenih pravic in znotraj katere so uveljavljene t.i. štiri
+                  svoboščine: prosti pretok blaga, oseb, storitev in kapitala. Pri odločitvi za
+                  takšno spremembo ustave je bila odločilna predhodna politična obljuba s strani
+                  Slovenije, da se bo v tem pogledu še pred dokončno vključitvijo v EU dodatno
+                  uskladila s standardi članic EU, pri čemer je pri preučevanju ureditve
+                  pridobivanja lastninske pravice s strani tujcev ustavodajalec prvenstveno
+                  upošteval tudi primerjalni pogled, ki je pokazal, da v okviru EU na tem področju
+                  razen redkih in omejenih izjem ni uveljavljeno načelo vzajemnosti. K temu je treba
+                  dodati, da je (bila) takšna nova oziroma sedanja določba 68. člena ustave še vedno
+                  nujna predvsem zaradi obravnave tistih tujcev, ki niso državljani držav članic EU
+                  in katerim je zaradi določenih razlogov treba pogojevati oziroma omejiti pravico
+                  do pridobivanja lastninske pravice na nepremičninah v Sloveniji.</p>
+               <p>V 69. členu ustave je določeno, da se lahko lastninska pravica na nepremičnini v
+                  javno korist odvzame ali omeji proti nadomestilu v naravi ali proti odškodnini pod
+                  pogoji, ki jih določa zakon. Ta določba torej ureja <hi rend="italic"
+                     >razlastitev</hi><hi rend="bold" xml:space="preserve">, </hi>ki pride v poštev
+                  takrat, kadar javna korist prevlada nad koristjo lastnika (npr. zaradi gradnje
+                  državne ceste se proti odškodnini razlasti lastnik zemljišča, čez katerega bo
+                  tekla cesta).</p>
+               <p>V 70. členu ustave je določeno, da se na <hi rend="italic">javnem dobru</hi> lahko
+                  pridobi posebna pravica uporabe pod pogoji, ki jih določa zakon. Kot javno dobro
+                  je mogoče opredeliti takšne stvari, ki so namenjene rabi vseh in ne morejo biti v
+                  pravnem prometu (t. i. stvari oziroma dobrine v splošni rabi – javne ceste, ulice,
+                  parki, reke, jezera, zračni prostor, morska obala, obalno morje in podobno),
+                  vendar pa je mogoče v ta pojem uvrstiti tudi stvari, ki so lahko v pravnem
+                  prometu, vendar le z določenimi omejitvami (npr. zemljišča, zgradbe, ter
+                  premičnine in nepremičnine, ki so opredeljene kot kulturni spomeniki).</p>
+               <p>V 70. členu je zapisano tudi, da zakon določa pogoje, pod katerimi se smejo
+                  izkoriščati <hi rend="italic">naravna bogastva</hi> (70/2 URS), med katera sodijo
+                  npr. rudna bogastva, živalski in rastlinski svet, v ekonomskem smislu pa tudi
+                  zemljišča, gozdovi, vode itd. Zakon lahko določi, da smejo naravna bogastva
+                  izkoriščati tudi tuje osebe, pri čemer zakon v takšnem primeru določi tudi pogoje
+                  za izkoriščanje (70/3 URS).</p>
+               <p>Dne 30. 11. 2016 je bil sprejet Ustavni zakon o dopolnitvi III. poglavja Ustave
+                  Republike Slovenije – UZ70a (Ur. l. RS, št. 75/16), s katerim je bil v ustavo
+                  zapisan nov 70.a člen, ki ureja <hi rend="italic">pravico do pitne vode in pravno
+                     naravo vodnih virov</hi>. Gre za ustavno spremembo, ki se ustrezno in
+                  pravočasno odziva na družbene, okoljske in podnebne razmere v Sloveniji in v
+                  svetu, kjer po eni strani voda postaja vedno pomembnejša strateška dobrina, po
+                  drugi strani pa je lahko zaradi navedenih razmer in drugih razlogov preskrba
+                  prebivalcev s pitno vodo v prihajajočih časih tudi ogrožena. V 70.a členu je zato
+                  določeno, da ima vsakdo pravico do pitne vode ter da so vodni viri javno dobro v
+                  upravljanju države (70.a/1,2 URS). Vodni viri služijo prednostno in trajnostno
+                  oskrbi prebivalstva s pitno vodo in z vodo za oskrbo gospodinjstev in v tem delu
+                  niso tržno blago (70.a/3 URS). Oskrbo prebivalstva s pitno vodo in z vodo za
+                  oskrbo gospodinjstev zagotavlja država preko samoupravnih lokalnih skupnosti
+                  neposredno in neprofitno (70.a/4 URS). <anchor xml:id="Toc130884657"/></p>
+            </div>
+            <div type="subchapter" xml:id="preface.8.4" rend="nosplit">
+               <head>Določbe o varstvu zemljišč, naravne in kulturne dediščine in o zdravem
+                  življenjskem okolju</head>
+               <p>V 71. členu ustave je opredeljeno <hi rend="italic">varstvo
+                  zemljišč</hi><hi rend="bold" xml:space="preserve">. </hi>Ustava pravi, da zakon
+                  določa zaradi smotrnega izkoriščanja posebne pogoje za uporabo zemljišč, poleg
+                  tega pa določa tudi posebno varstvo kmetijskih zemljišč (70/1,2 URS). To so sicer
+                  pomembne določbe, ki pa same po sebi pomenijo le ustavno obvezo zakonodajalca, da
+                  podrobneje uredi to materijo. Ob tem je v navedenem členu še dodatno določeno, da
+                  država skrbi za gospodarski, kulturni in socialni napredek prebivalstva na gorskih
+                  in hribovitih območjih (70/3 URS). Ta načelna oziroma programska norma je podlaga
+                  za uresničevanje skrbstvene funkcije države, ki jo je mogoče udejanjati z davčnimi
+                  olajšavami, subvencijami in drugimi oblikami denarne pomoči prebivalcem na gorskih
+                  in hribovitih območjih, z zagotavljanjem posebnih sredstev lokalnim skupnostim na
+                  teh območjih, z določanjem ugodnejših pogojev za razvijanje posameznih dejavnosti
+                  itd.</p>
+               <p>V prvem odstavku 72. člena ustave je določeno, da ima vsakdo v skladu z zakonom
+                     <hi rend="italic">pravico do zdravega življenjskega okolja</hi>. Država mora
+                  skrbeti za zdravo življenjsko okolje. V ta namen mora zakon določiti pogoje in
+                  načine za opravljanje gospodarskih in drugih dejavnosti. Zakon tudi določa, pod
+                  katerimi pogoji in v kakšnem obsegu je povzročitelj škode v življenjskem okolju
+                  dolžan poravnati škodo (72/2,3 URS). Ta sklop določb o varstvu zdravega
+                  življenjskega okolja predstavlja v pravni obliki izražen odziv na dandanašnje vse
+                  bolj pereče probleme onesnaževanja okolja, pri čemer se težišče urejanja te
+                  materije prenaša na zakon in na ustrezno skrb države.</p>
+               <p>Za slovenski narod, ki je številčno relativno majhen in biva v ozemeljsko majhni
+                  državi, je še posebej pomembno, da varuje in razvija svojo <hi rend="italic"
+                     >naravno in kulturno dediščino</hi>. 73. člen ustave v tem pogledu določa, da
+                  je vsakdo dolžan v skladu z zakonom varovati naravne znamenitosti in redkosti ter
+                  kulturne spomenike. Država in lokalne skupnosti pa so dolžne skrbeti za ohranjanje
+                  naravne in kulturne dediščine.</p>
+            </div>
+            <div type="subchapter" xml:id="preface.8.5" rend="nosplit">
+               <head>Druge določbe iz poglavja o gospodarskih in socialnih razmerjih</head>
+               <p>Poglavje o gospodarskih in socialnih razmerjih vsebuje tudi nekaj določb, ki jih
+                  ni mogoče uvrstiti v zgornje sklope, zaradi česar jih velja strnjeno predstaviti
+                  posebej.</p>
+               <p>V 74. členu ustava določa, da je <hi rend="italic">gospodarska pobuda
+                     svobodna</hi>. Zakon določa pogoje za ustanavljanje gospodarskih organizacij.
+                  Gospodarska dejavnost se ne sme izvajati v nasprotju z javno koristjo. Poleg tega
+                  so izrecno prepovedana tudi dejanja nelojalne konkurence in dejanja, ki v
+                  nasprotju z zakonom omejujejo konkurenco (npr. nedovoljeni monopoli).</p>
+               <p>V 78. členu ustave je določeno, da država ustvarja možnosti, da si državljani
+                  lahko pridobijo <hi rend="italic">primerno stanovanje.</hi> V tem primeru, tako
+                  kot v nekaterih drugih, je ustavodajalec v ustavni razpravi ocenil, da bi bila
+                  ustavna zagotovitev pravice do stanovanja nerealna oziroma pravno neučinkovita,
+                  zaradi česar je na tem področju opredelil le obveznost države, da v prihodnje z
+                  ustrezno zakonodajo in z drugimi ukrepi zagotovi državljanom čim ugodnejše
+                  možnosti za pridobitev primernih stanovanj.</p>
+               <p>V četrtem odstavku 72. člena ustave je določeno, da <hi rend="italic">varstvo
+                     živali pred mučenjem ureja zakon</hi>. Ta določba sicer po vsebini ne sodi
+                  povsem na to mesto (navedeni člen obravnava zdravo življenjsko okolje) oziroma v
+                  ustavno poglavje o gospodarskih in socialnih razmerjih, vendar pa bi jo bilo težko
+                  uvrstiti tudi v katerikoli drug sklop ustavnih določb, zato jo je ustavodajalec
+                  umestil v člen, ki se mu po vsebini še najbolj približuje. Gre za pomembno ustavno
+                  normo, ki napotuje na zakonsko urejanje, v okviru katerega je seveda nadvse
+                  primerno živalim kot čutečim bitjem nameniti tudi druge oblike pravnega varstva in
+                  zagotavljanja ustreznih življenjskih pogojev.</p>
+            </div>
+         </div>
+         <div type="preface" xml:id="preface.9">
+            <head>Ustava Republike Slovenije: državna ureditev in lokalna samouprava</head>
+            <docAuthor>Miro Cerar</docAuthor>
+            <div type="subchapter" xml:id="preface.9.1" rend="nosplit">
+               <head>Državna ureditev</head>
+               <p>Ustavno poglavje o državni ureditvi (IV. poglavje) je relativno obsežno in
+                  notranje zelo razčlenjeno. Ustava največji del tega poglavja namenja državnemu
+                  zboru, državnemu svetu, predsedniku republike, vladi, sodstvu in ustavnemu
+                  sodišču. To poglavje vsebuje med drugim tudi nekaj načelnih določb o upravi,
+                  obrambi države, državnemu tožilstvu ter odvetništvu in notariatu. Če se ob vsem
+                  tem omejimo le na nekatere temeljne značilnosti in razmerja med glavnimi nosilci
+                  državne oblasti, vidimo, da je tu najpomembnejši odnos med zakonodajno, izvršilno
+                  (izvršilnoupravno) in sodno vejo oblasti, poleg tega pa ima poseben sistemski
+                  pomen tudi vloga ustavnega sodišča. V nadaljevanju se predstavitev strnjeno
+                  osredotoča predvsem na nekatere ključne vidike razmerij med najvišjimi državnimi
+                  organi.</p>
+               <p>Nosilec ustavodajne in zakonodajne oblasti je <hi rend="italic">državni zbor</hi>,
+                  ki je predstavniško telo slovenskih državljanov. Sestavlja ga 90 poslancev, ki so
+                  izvoljeni v skladu s proporcionalnim volilnim sistemom, praviloma na listah
+                  političnih strank. Ker je za vstop v državni zbor predviden 4% volilni prag (člen
+                  80/5 URS), posamezni neodvisni kandidati za poslance praktično nimajo nobene
+                  možnosti, da bi bili izvoljeni v državni zbor, kajti na državni ravni zgolj
+                  posamezni kandidat dejansko ne more zbrati toliko glasov.</p>
+               <p>Državni zbor se voli praviloma za štiri leta (člen 81 URS). Poslanci imajo
+                  reprezentativen in svoboden mandat, kar pomeni, da so po ustavi (tj. v
+                  ustavnopravnem pogledu) predstavniki vsega ljudstva in niso vezani na kakršnakoli
+                  navodila (seveda pa so vezani na ustavo, zakone in druge pravne akte). Poslanci
+                  imajo torej načelno svobodo pri presojanju, koliko bodo sledili stališčem
+                  političnih strank ali stališčem interesnih skupin in drugih družbenih akterjev.
+                  Vendar pa se v praksi državnega zbora, podobno kot to velja za parlamente v drugih
+                  demokratičnih državah, poslanci v pretežni meri podrejajo stališčem svojih strank
+                  oziroma njihovih vrhov, pri čemer je to po eni strani logična posledica njihove
+                  privrženosti programskim ciljem in politikam njihovih strank, po drugi strani pa
+                  je takšno podrejanje delno tudi odraz t.i. partitokracije, ki je značilna za vse
+                  države, v katerih sta uveljavljena politični pluralizem in predstavniški sistem.
+                  Tu velja še dodati, da poslanci uživajo poslansko imuniteto, ki se nanaša na
+                  izvzem od njihove kazenske odgovornosti, ne pa tudi na izvzem od odgovornosti za
+                  civilnopravne in druge kršitve zakonov (glej člen 83 URS).</p>
+               <p>Ustavodajalec v ustavi ni v celoti (taksativno) določil pristojnosti državnega
+                  zbora, saj je v času sprejemanja ustave menil, da se bosta celoten obseg in
+                  vsebina teh pristojnosti postopno dograjevala na podlagi parlamentarne prakse,
+                  seveda v skladu z ustavo. Toda najpomembnejše pristojnosti državnega zbora določa
+                  že ustava, ki pa teh pristojnosti ne navaja pregledno na enem mestu, marveč v
+                  različnih določbah v povezavi z različnimi ustavnimi institucijami. Med
+                  najpomembnejšimi pristojnostmi državnega zbora, <hi rend="italic">ki jih določa že
+                     ustava</hi>, so predvsem naslednje:</p>
+               <list rend="unordered">
+                  <item>spreminjanje ustave (168. in 169. člen URS), </item>
+                  <item>sprejemanje zakonov (86., 87. in 89 člen),</item>
+                  <item>ratificiranje mednarodnih pogodb (86. in 153. člen),</item>
+                  <item>razpis zakonodajnega in ustavodajnega referenduma (90. in 170. člen),</item>
+                  <item>razglasitev izrednega ali vojnega stanja in odločanje o uporabi obrambnih
+                     sil (92. člen),</item>
+                  <item>volitve predsednika vlade (111. člen), </item>
+                  <item>imenovanje ministrov (112. člen),</item>
+                  <item>odločanje o nezaupnici vladi (116. člen),</item>
+                  <item>odločanje o zaupnici vladi (117. člen),</item>
+                  <item>odločanje o interpelaciji o delu vlade ali posameznega ministra (118.
+                     člen),</item>
+                  <item>vložitev obtožbe (t.i. <hi rend="italic">impeachment</hi>) zoper predsednika
+                     države, predsednika vlade ali ministre pred ustavnim sodiščem (109. in 119.
+                     člen),</item>
+                  <item>uvedba parlamentarne preiskave o zadevah javnega pomena (93. člen),</item>
+                  <item>pristojnost zahtevati mnenje od predsednika republike o posameznem vprašanju
+                     (107. člen),</item>
+                  <item>pristojnost zahtevati mnenje od državnega sveta o posamezni zadevi (97.
+                     člen),</item>
+                  <item>volitve sodnikov (130. člen),</item>
+                  <item>volitve petih članov sodnega sveta (131. člen), </item>
+                  <item>imenovanje članov računskega sodišča (151. člen),</item>
+                  <item>volitve ustavnih sodnikov (163. člen),</item>
+                  <item>odločanje o imuniteti poslancev, sodnikov in sodnikov ustavnega sodišča
+                     (83., 134. in 167. člen),</item>
+                  <item>imenovanje guvernerja centralne banke Slovenije (152. člen). </item>
+               </list>
+               <p>K navedenemu je treba dodati, da sodi v pristojnost državnega zbora tudi
+                  sprejemanje državnega proračuna. Čeprav to v ustavi ni izrecno določeno, ta
+                  pristojnost logično in samoumevno izhaja iz konteksta ustavnih določb o proračunu
+                  (148. člen) ter iz ustavno opredeljenega položaja državnega zbora v sistemu
+                  delitve oblasti (pristojnost državnega zbora za sprejemanje državnega proračuna je
+                  izrecno določena v poslovniku državnega zbora).</p>
+               <p>Nekatere dodatne pristojnosti državnega zbora so urejene še v različnih zakonih in
+                  v poslovniku državnega zbora (pristojnosti za postavljanje poslanskih vprašanj
+                  vladi, za sprejemanje nacionalnih programov, deklaracij in resolucij, za volitve
+                  in imenovanja nekaterih nosilcev javnih funkcij itd.).</p>
+               <p>Državni zbor sklepa, če je na njegovi seji navzoča večina poslancev. Zakone in
+                  druge odločitve sprejema državni zbor z večino opredeljenih glasov navzočih
+                  poslancev, kadar ni z ustavo ali z zakonom določena drugačna večina (86. člen
+                  URS). Ustava predvideva posebno kvalificirano večino za sprejem petih pomembnejših
+                  aktov. Z <hi rend="italic">dvotretjinsko večino glasov vseh poslancev</hi> (kar je
+                  tudi zahtevana kvalificirana večina za spremembo ustave) se sprejemata zakona, ki
+                  urejata volitve v državni zbor in v državni svet (80. in 98. člen URS), medtem ko
+                  se zakon o referendumu, poslovnik državnega zbora in zakon, ki ureja obrambo
+                  države sprejemajo z
+                  <hi rend="italic" xml:space="preserve">dvotretjinsko večino glasov navzočih poslancev </hi>(90.,
+                  94. in 124. člen URS). Po oceni ustavodajalca gre prav v teh primerih za izjemno
+                  pomembne pravne akte, katerih sprejem terja višjo stopnjo parlamentarnega
+                  konsenza. Z absolutno večino (<hi rend="italic">večina glasov vseh poslancev</hi>)
+                  pa mora npr. državni zbor sprejeti zakon, o katerem ponovno odloča po vloženem
+                  vetu s strani državnega sveta (člen 91/2 URS).</p>
+               <p>Po ustavi sta za oblikovanje večine pomembnejših političnih odločitev pristojna
+                  državni zbor in vlada. <hi rend="italic">Predsednik republike</hi>, ki je za dobo
+                  petih let voljen na neposrednih volitvah (ista oseba je lahko izvoljena največ
+                  dvakrat zaporedoma – 103. člen URS), ima poleg položaja vrhovnega poveljnika
+                  obrambnih sil z ustavo določene predvsem reprezentativne in protokolarne
+                  pristojnosti (glej 107. člen URS), ki jih zakonodaja širi tudi z nekaterimi
+                  iniciativnimi oziroma predlagalnimi pristojnostmi (npr. predlaganje kandidatov za
+                  ustavne sodnike, za varuha človekovih pravic ali za guvernerja centralne banke).
+                  Predsednik države torej v
+                  <hi rend="italic" xml:space="preserve">formalnem </hi>pogledu nima takšnih
+                  pristojnosti, s katerimi bi lahko neposredno in odločilno vplival na oblikovanje
+                  politike in zakonodaje, zato je od konkretne osebe predsednika republike odvisno,
+                  v kolikšni meri uspe s svojo dejansko moralno in politično avtoriteto ter preko
+                  neformalnih poti vplivati na politične odločitve zakonodajne in izvršilne
+                  oblasti.</p>
+               <p>Nekatere pristojnosti predsednika republike sicer dajejo vtis, da predsednik lahko
+                  tudi formalno močneje posega v nekatera politična dogajanja, kar pa drži le deloma
+                  oziroma v manjši meri. Tako npr. predsednik republike državnemu zboru po
+                  parlamentarnih volitvah ali po padcu vlade predlaga v izvolitev novega kandidata
+                  za predsednika vlade (mandatarja za sestavo vlade). Vendar pa državni zbor na
+                  njegov predlog ni absolutno vezan, kajti poslanci lahko sami predlagajo in
+                  izvolijo tudi druge kandidate (glej 111. člen URS). Podobno je s predsednikovo
+                  izključno pristojnostjo za razpust državnega zbora. Čeprav je takšna njegova
+                  pristojnost navidez močna, pa jo lahko izvaja le v dveh situacijah, katerih
+                  nastanek je v celoti odvisen od odločitev državnega zbora in vlade. Za prvo
+                  situacijo gre, ko po parlamentarnih volitvah državni zbor ne uspe izvoliti
+                  mandatarja za sestavo vlade (111. člen URS), za drugi primer pa gre, ko vlada v
+                  državnem zboru ne dobi zaupnice, državni zbor pa ne uspe izvoliti novega
+                  mandatarja (117. člen URS). V teh primerih predsednik republike ne more samostojno
+                  presojati, ali je primerno razpustiti državni zbor, pač pa mora predsednik državni
+                  zbor (avtomatično) razpustiti, če pride do ene od obeh navedenih situacij.</p>
+               <p><hi rend="italic">Vlada</hi> je temeljni nosilec izvršilne veje oblasti in upravne
+                  dejavnosti, pri čemer sestavo in delovanje vlade ter število, pristojnosti in
+                  organizacijo ministrstev ureja zakon. Predsednik vlade skrbi za enotnost politične
+                  in upravne usmeritve vlade ter usklajuje delo ministrov. Ustava vzpostavlja
+                  kolektivno odgovornost ministrov za delo vlade ter individualno odgovornost
+                  ministra za delo svojega resorja (tj. ministrstva ter upravnih organov in
+                  organizacij v njegovi sestavi) (114. člen URS). Ustava je glede uveljavljanja
+                  politične odgovornosti vlade po nemškem vzoru vzpostavila sistem t.i. <hi
+                     rend="italic">konstruktivne nezaupnice</hi>. To pomeni, da lahko državni zbor
+                  vladi izglasuje nezaupnico le tako, da hkrati z večino glasov vseh poslancev
+                  izvoli novega predsednika vlade (116. člen URS). Ustavodajalec je sprejel ureditev
+                  konstruktivne nezaupnice zato, da bi se izognil daljšim vladnim krizam v smislu
+                  situacij, ko je vlada razrešena in ne more v celoti opravljati svojih funkcij,
+                  državni zbor pa ne uspe kmalu izvoliti nove vlade. K takšni rešitvi je
+                  ustavodajalca vodilo prepričanje, da je stabilnost vlade pomembna vrednota, saj
+                  lahko močno prispeva k zagotovitvi kontinuiranega delovanja družbenih
+                  (pod)sistemov.</p>
+               <p>Povsem specifičen državni organ je <hi rend="italic">državni svet</hi>, ki je
+                  zastopstvo nosilcev socialnih, gospodarskih, poklicnih in lokalnih interesov (96.
+                  člen URS). Državni svet, ki ga je ustavodajalec oblikoval v veliki meri po zgledu
+                  na (nekdanji) Bavarski senat, ima 40 članov. Le-te volijo v skladu z zakonom
+                  lokalne skupnosti (skupine občin) in različne interesne organizacije (gospodarske
+                  zbornice, reprezentativni sindikati, poklicne organizacije kmetov, obrtnikov in
+                  drugih samostojnih poklicev, univerze, poklicne organizacije raziskovalcev,
+                  kulturnih in športnih delavcev itd.). Državni svet torej ni voljen na splošnih in
+                  neposrednih volitvah, prav tako pa se od državnega zbora bistveno razlikuje po
+                  tem, da ni sestavljen po strankarskem principu (čeprav so v praksi vplivi
+                  političnih strank prisotni tudi v delovanju državnega sveta).</p>
+               <p>Državni svet ima zakonodajno funkcijo, saj lahko državnemu zboru predlaga sprejem
+                  zakonov, lahko mu daje mnenja v vseh fazah sprejemanja zakonov, pred razglasitvijo
+                  zakona pa lahko zahteva, da državni zbor o zakonu še enkrat odloča (odložilni
+                  veto) (97. člen URS). Vendar pa državni svet ni zakonodajalec, kajti ta funkcija
+                  pripada izključno državnemu zboru. Kljub temu, da lahko državni svet, poleg že
+                  omenjenih zadev, od državnega zbora zahteva tudi uvedbo parlamentarne preiskave o
+                  zadevah javnega pomena ter sprejema mnenja o vseh zadevah iz pristojnosti
+                  državnega zbora, državni svet o nobeni od teh zadev z državnim zborom neposredno
+                  ne soodloča.</p>
+               <p>Takšna relativno šibka vloga državnega sveta slabi njegov položaj drugega doma
+                  slovenskega parlamenta. Šibkost vloge državnega sveta je predvsem v tem, da nima
+                  nikakršne iniciativne ali nadzorne vloge nad vlado in upravo ter da ni neposredno
+                  vključen v odločanje v ustavodajnih, volilnih in drugih postopkih iz pristojnosti
+                  državnega zbora, seveda z delno izjemo zakonodajnega postopka, kjer ima državni
+                  svet iniciativno in korektivno funkcijo. Kljub tako omejeni vlogi ter specifični
+                  sestavi državnega sveta, je doslej v teoriji in praksi prevladalo mnenje, da je
+                  državni svet treba šteti za drugi dom parlamenta, seveda z zelo omejeno funkcijo
+                  (t.i. nepopolna dvodomnost).</p>
+               <p>Državni svet je bil z ustavo ustanovljen kot kompromisna rešitev med zagovorniki
+                  enodomnosti in dvodomnosti slovenskega parlamenta. K njegovi ustavni določitvi je
+                  pripomogla zamisel o koristnosti vključevanja predstavnikov različnih družbenih
+                  interesov v sfero zakonodajnega odločanja, kar je bil v določeni meri tudi odraz
+                  slovenske socialistične in samoupravne ustavne tradicije iz prejšnjega sistema. Že
+                  v 50-ih letih prejšnjega stoletja je namreč imela slovenska (republiška) skupščina
+                  dvodomno sestavo, ki sta jo tvorila republiški zbor in zbor proizvajalcev (slednji
+                  je bil voljen posredno, v različnih gospodarskih panogah). Po ustavi iz leta 1963
+                  je imela slovenska skupščina najprej celo pet zborov, po sprejetju ustavnih
+                  amandmajev leta 1969 pa le še štiri (republiški, gospodarski, prosvetno-kulturni
+                  in socialno-zdravstveni zbor). Po ustavi iz leta 1974 in vse do sprejema nove
+                  ustave leta 1991 so slovensko skupščino sestavljali trije zbori:
+                  družbeno-politični zbor, zbor občin in zbor združenega dela. V slednjega so bili
+                  poleg manjšega števila predstavnikov državnih organov in enega predstavnika vojske
+                  vključeni delegati iz interesnih področij gospodarstva, prosvete in kulture,
+                  sociale in zdravstva ter kmetijstva in obrti.</p>
+               <p>Specifična sestava državnega sveta naj bi po prvotni zamisli iz ustavne razprave
+                  tudi omejevala parlamentarno partitokracijo, saj naj bi interesne skupine preko
+                  svojih predstavnikov v državnem svetu le-temu omogočile pridobiti neposreden vpliv
+                  na zakonodajno delo državnega zbora. Ta vpliv je v praksi manjši od takšnih
+                  pričakovanj, pri čemer pa se kot rečeno, ravno nasprotno prvotni zamisli, pri delu
+                  in odločanju v okviru državnega sveta pogosto opaža tudi vpliv političnih
+                  strank.</p>
+               <p>Glede <hi rend="italic">sodne veje oblasti</hi> ustava poudarja tiste vidike, ki
+                  omogočajo neodvisnost sodniške funkcije. Čeprav je izvolitev sodnikov neposredno
+                  odvisna od politike, saj sodnike voli državni zbor (130. člen URS) (tudi tu gre za
+                  specifičen ostanek socialistične tradicije), pa je sodniška funkcija opredeljena
+                  kot trajna (129. člen URS), pri čemer je njen odvzem mogoč le v izjemnih primerih,
+                  ki jih določata ustava ali zakon (132. člen URS). Trajnost sodniške funkcije
+                  omogoča sodnikom, da so bistveno bolj neodvisni od morebitnih političnih
+                  pritiskov, kot je to veljalo v prejšnjem socialističnem sistemu, kjer so bili
+                  sodniki zaradi sistema večkratne reelekcije s strani političnih organov ter
+                  monopolne družbeno-politične vloge vladajoče partije bistveno manj odporni na
+                  takšne pritiske. Sodniki so po ustavi vezani le na ustavo in zakon (125. člen
+                  URS), seveda pa je za resnično neodvisnost sodnikov in sodne veje oblasti v praksi
+                  pomembno, da so za sodnike izvoljeni strokovno in moralno primerni kandidati, ter
+                  da so hkrati zagotovljeni tudi ustrezni materialni pogoji za delo sodnikov in
+                  sodišč.</p>
+               <p>Posebej pomembno vlogo v novem ustavnem sistemu ima <hi rend="italic">ustavno
+                     sodišče</hi>. Ustavno sodišče je bilo v Sloveniji (in v SFR Jugoslaviji) prvič
+                  konstituirano že z ustavo iz leta 1963, kar je bilo, glede na naravo tedanjega
+                  političnega sistema, takrat veliko presenečenje in je v tujini doživelo tudi
+                  priznanja, saj v drugih komunističnih sistemih do ustanovitve te vrste sodstva
+                  takrat še ni prišlo. Vendar je to sodišče v svojem delovanju še vedno ostajalo v
+                  okvirih tedanje socialistične ustavne ureditve in uradne partijske ideologije.
+                  Poleg tega takratne pristojnosti ustavnega sodišča le-temu praviloma niso
+                  omogočale, da bi lahko neposredno posegalo v vsebino zakonov in drugih predpisov
+                  (npr. z razveljavitvijo posameznih zakonskih določb). Pristojnosti ustavnega
+                  sodišča po novi ustavi so bistveno močnejše, kar daje temu sodišču izjemen pomen
+                  tako na področju varstva ustavnosti in zakonitosti, kot tudi na področju varstva
+                  človekovih pravic.</p>
+               <p>Večino pristojnosti slovenskega ustavnega sodišča določa že neposredno ustava, ki
+                  ob tem dopušča, da se z zakonom določijo tudi druge (dodatne) pristojnosti tega
+                  organa. Pristojnosti ustavnega sodišča je mogoče razčleniti v naslednje tri
+                  temeljne skupine:</p>
+               <list rend="unordered">
+                  <item><hi rend="italic">Preventivna kontrola ustavnosti</hi>. Vpliv francoskega
+                     modela preventivne ustavnosodne kontrole se izraža (le) v pristojnosti
+                     ustavnega sodišča, da na predlog predsednika republike, vlade ali najmanj
+                     tretjine poslancev v državnem zboru v postopku ratifikacije mednarodnih pogodb
+                     izreka mnenja o skladnosti teh pogodb z ustavo. Državni zbor je vezan na takšno
+                     mnenje ustavnega sodišča (člen 160/2 URS).</item>
+                  <item><hi rend="italic">Naknadna kontrola ustavnosti</hi>. Ta vrsta kontrole
+                     obsega abstraktno in konkretno kontrolo ustavnosti. Za ponazoritev velja
+                     navesti, da izvaja ustavno sodišče <hi rend="italic">konkretno kontrolo</hi>,
+                     če npr. to zahteva redno sodišče glede vprašanja ustavnosti in zakonitosti, ki
+                     se mu zastavlja v zvezi s konkretnim postopkom, ki ga vodi. Težišče delovanja
+                     ustavnega sodišča pa je dejansko na njegovi <hi rend="italic">abstraktni
+                        kontroli</hi> ustavnosti in zakonitosti, ki obsega, na splošno rečeno,
+                     presojo skladnosti predpisov nižjega hierarhičnega nivoja s predpisi višjega
+                     nivoja, predvsem z ustavo, ratificiranimi mednarodnimi pogodbami in zakoni
+                     (glej 160. člen URS). Če ustavno sodišče ugotovi protiustavnost zakona ali
+                     drugega predpisa oziroma splošnega akta, lahko takšen predpis odpravi ali
+                     razveljavi (glej 161. člen URS).</item>
+                  <item><hi rend="italic">Druge ustavno določene pristojnosti </hi>ustavnega sodišče
+                     zajemajo predvsem že omenjeno odločanje o ustavnih pritožbah zaradi kršitev
+                     človekovih pravic posamičnimi akti, odločanje o različnih sporih o pristojnosti
+                     (npr. med državo in lokalnimi skupnostmi ali med najvišjimi državnimi organi),
+                     odločanje o protiustavnosti aktov in delovanja političnih strank (160. člen
+                     URS) ter odločanje o obtožbi zoper predsednika republike, predsednika vlade in
+                     ministre (109. in 119. člen URS).</item>
+               </list>
+            </div>
+            <div type="subchapter" xml:id="preface.9.2" rend="nosplit">
+               <head>Referendum</head>
+               <p>Ustava namenja posebno pozornost referendumskemu odločanju, kot eni
+                  najpomembnejših oblik <hi rend="italic">neposredne demokracije</hi>. Državna
+                  ureditev temelji seveda v pretežni meri na
+                  <hi rend="italic" xml:space="preserve">posredni </hi>demokraciji, kar pomeni, da z
+                  volitvami državljani opravljanje oblastnih funkcij prenesejo na splošni
+                  predstavniški organ, tj. državni zbor. Toda v povezavi s temeljno pravico
+                  državljanov, da v skladu z zakonom tudi neposredno sodelujejo pri upravljanju
+                  javnih zadev (44. člen URS), je ustavodajalec prvotno predvidel zelo široke
+                  možnosti predlaganja in izvajanja <hi rend="italic">zakonodajnega
+                  referenduma</hi>. V prvotnem besedilu 90. člena ustave je bilo določeno, da mora
+                  državni zbor na pobudo najmanj tretjine poslancev, državnega sveta ali 40.000
+                  volivcev razpisati referendum o kateremkoli vprašanju, ki se ureja z zakonom. Na
+                  podlagi tega člena ustave je nato zakon predvidel možnost predhodnega
+                  zakonodajnega referenduma, ki se je lahko nanašal na posamezno vprašanje iz
+                  predlaganega zakona, ter možnost naknadnega zakonodajnega referenduma, na katerem
+                  se je odločalo o že sprejetem, vendar še neuveljavljenem zakonu kot celoti.</p>
+               <p>Leta 2013 je bil sprejet Ustavni zakon o spremembah 90. 97. in 99. člena Ustave
+                  Republike Slovenije (UZ90,97,99, Ur. l. RS, št. 47/13, z dne 31. 5. 2013), ki je
+                  zakonodajni referendum opredelil le kot razveljavitveni referendum, pri čemer je
+                  krog predlagateljev referenduma skrčil le na enega, tj. na volivce, ter hkrati
+                  upoštevaje primerjalne ureditve in izkušnje iz drugih demokratičnih držav uvedel
+                  nekatere omejitve referendumskega odločanja.</p>
+               <p>Ustava sedaj ohranja le še institut <hi rend="italic">naknadnega
+                     (razveljavitvenega) zakonodajnega referenduma</hi>. Državni zbor mora razpisati
+                  referendum o uveljavitvi zakona, ki ga je sprejel, če to zahteva najmanj 40.000
+                  volivcev (člen 90/1 URS). Ker imajo volivci v tem primeru interes, da se zakon ne
+                  uveljavi, lahko rečemo, da gre za razveljavitveni referendum. Pri tem pa ustava
+                  določa, da takšnega referenduma ni dopustno razpisati: a) o zakonih o nujnih
+                  ukrepih za zagotovitev obrambe države, varnosti ali odprave posledic naravnih
+                  nesreč; b) o zakonih o davkih, carinah in drugih obveznih dajatvah ter o zakonu,
+                  ki se sprejema za izvrševanje državnega proračuna; c) o zakonih o ratifikacijah
+                  mednarodnih pogodb; d) o zakonih, ki odpravljajo protiustavnost na področju
+                  človekovih pravic in temeljnih svoboščin ali drugo protiustavnost (člen 90/2
+                  URS).</p>
+               <p>Pravico glasovanja na referendumu imajo vsi državljani, ki imajo volilno pravico.
+                  Zakon je na referendumu zavrnjen, če proti njemu glasuje večina volivcev, ki so
+                  veljavno glasovali, pod pogojem, da proti zakonu glasuje najmanj petina vseh
+                  volivcev (člen 90/3, 4 URS). Podrobneje se referendum ureja z zakonom, ki ga
+                  državni zbor sprejme z dvotretjinsko večino glasov navzočih poslancev (člen 90/5
+                  URS).</p>
+               <p>Ustava omogoča tudi <hi rend="italic">potrditveni ustavni referendum</hi> (170.
+                  člen URS). Referendum o spremembi ustave je mogoče razpisati na zahtevo najmanj
+                  tretjine poslancev, in sicer potem, ko je državni zbor že sprejel določeno
+                  spremembo ustave, vendar pa je še ni razglasil (uveljavil). Državljani in drugi
+                  subjekti torej ne morejo zahtevati ustavnega referenduma, kar pomeni, da imajo
+                  poslanci tu veliko odgovornost glede presoje, ali je pri določeni ustavni
+                  spremembi v potrditev njene legitimnosti treba izvesti še referendum. Sprememba
+                  ustave je na referendumu sprejeta, če zanjo glasuje večina volivcev, ki so
+                  glasovali, pod pogojem, da se glasovanja udeleži večina vseh volivcev. Takšna
+                  ustavna zahteva po visoki volilni udeležbi ustreza pomenu, ki ga ima institut
+                  ustavnega referenduma, pri čemer pa seveda terja visoko stopnjo mobilizacije
+                  volivcev.</p>
+            </div>
+            <div type="subchapter" xml:id="preface.9.3" rend="nosplit">
+               <head>Lokalna samouprava</head>
+               <p>Ustavno načelo lokalne samouprave (9. člen URS) je v temeljnih vidikih izpeljano v
+                  V. poglavju ustave, podrobneje pa je prepuščeno zakonskemu urejanju. Ustava
+                  določa, da je osnovna enota lokalne samouprave občina, ki se ustanovi z zakonom,
+                  po prej opravljenem referendumu, s katerim se ugotovi volja prebivalcev na
+                  določenem območju (139. člen URS). Ustava določa, da lahko zakon poseben status
+                  nameni mestnim občinam (141. člen URS), posebej pa določa možnost, da država z
+                  zakonom prenese na občine opravljanje posameznih nalog iz državne pristojnosti, če
+                  za to zagotovi tudi potrebna sredstva. V tako prenesenih zadevah na organe
+                  lokalnih skupnosti, opravljajo državni organi tudi nadzor nad primernostjo in
+                  strokovnostjo njihovega dela (140. člen URS).</p>
+               <p>Prvotno je ustava le dopuščala povezovanje dveh ali več občin v širše samoupravne
+                  skupnosti. Do takšnega širšega institucionalnega povezovanja (npr. v obliki
+                  pokrajin) v praksi ni prišlo, kajti ustavna ureditev iz leta 1991 ni zagotovila
+                  zadostnih političnih, finančnih in drugih spodbud za ustanavljanje širših
+                  samoupravnih lokalnih skupnosti, poleg tega pa tudi ni zagotovila sistemskih
+                  podlag za enotno oziroma teritorialno celovito ustanavljanje takšnih skupnosti.
+                  Slednje pomeni, da na podlagi ustavne ureditve iz leta 1991 ni bilo mogoče
+                  zagotoviti, da bi se pokrajine usklajeno ustanovile po celem ozemlju Slovenije,
+                  kajti njihova ustanovitev je bila predvidena le za primere, ko bi za to obstajale
+                  iniciative in soglasja posameznih skupin občin. To bi lahko vodilo v situacijo, ko
+                  bi bilo v Sloveniji npr. ustanovljeno nekaj pokrajin (s poljubno velikostjo,
+                  odvisno pač predvsem od soglasja občin), preostali del Slovenije pa ne bi bil
+                  samoupravno organiziran po pokrajinskem principu.</p>
+               <p>Junija 2006 je je državni zbor z Ustavnim zakonom o spremembah 121., 140. in 143.
+                  člena Ustave Republike Slovenije (UZ121, 140, 143, Ur. l. RS, št.68/2006, z dne
+                  30. 6. 2006) zagotovil sistemsko ureditev pokrajin kot širših oblik samoupravnih
+                  lokalnih skupnosti, pri čemer je večji del te ureditve prenesel v (obvezno)
+                  zakonsko urejanje. Spremenjene določbe ustave zdaj določajo, da zakonodajalec mora
+                  (na področju celotne Slovenije) ustanoviti pokrajine kot samoupravne lokalne
+                  skupnosti, ki opravljajo lokalne zadeve širšega pomena in z zakonom določene
+                  zadeve regionalnega pomena. Pokrajine se ustanovijo z zakonom, s katerim se določi
+                  tudi njihovo območje, sedež in ime. Ta zakon sprejme državni zbor z dvotretjinsko
+                  večino glasov navzočih poslancev, pri čemer mora biti v postopku za sprejem zakona
+                  zagotovljeno sodelovanje občin. Država na pokrajine z zakonom prenese opravljanje
+                  posameznih nalog iz državne pristojnosti, mora pa jim za to zagotoviti potrebna
+                  sredstva (143. člen URS). Do zdaj zakon, ki bi ustanovil pokrajine, še ni bil
+                  sprejet, tako da ostaja ta del ustave v praksi neuresničen.</p>
             </div>
          </div>
       </front>

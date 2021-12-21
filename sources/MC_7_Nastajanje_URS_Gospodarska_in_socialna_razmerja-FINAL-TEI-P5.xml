@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Microsoft Office User</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2021-12-20</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2021-12-21T16:18:53Z</date><name>Microsoft Office User</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Ustava Republike Slovenije: gospodarska in socialna razmerja</head>
+                <docAuthor>Miro Cerar</docAuthor>
+                <div>
+                    <head>Splošne značilnosti ustavne ureditve gospodarskih in socialnih
+                        razmerij</head>
+                    <p>V času nastajanja ustave je bilo sprejeto stališče, da naj ustava ureja tudi
+                        nekatere temeljne vidike gospodarskih in socialnih razmerij, pri tem pa naj
+                        se ustavodajalec v čim večji meri izogne programskim normam ter preveč
+                        podrobnemu urejanju teh področij, da bi ustava ne postavila preveč togih
+                        okvirov za prihodnjo prakso. Tem zahtevam je ustavodajalec večinoma ugodil,
+                        ni pa se mogel povsem izogniti nekaterim programskim določbam, ki jih je
+                        vključil v ustavo zaradi njihovega širšega družbenega pomena ter zato, ker
+                        odražajo sodobne napredne civilizacijske standarde in visoko stopnjo
+                        družbenega soglasja v Sloveniji. V poglavju o gospodarskih in socialnih
+                        razmerjih so takšne programske norme npr. določba o funkciji države, da
+                        ustvarja možnosti za zaposlovanje in delo (66. člen URS), določba o skrbi
+                        države za gospodarski, kulturni in socialni napredek prebivalstva na gorskih
+                        in hribovitih območjih (71. člen), določba o skrbi države za zdravo
+                        življenjsko okolje (72. člen), določba o skrbi države in lokalnih skupnosti
+                        za ohranjanje naravne in kulturne dediščine (73. člen) ter določba o nalogi
+                        države, da ustvarja možnosti, da si državljani lahko pridobijo primerno
+                        stanovanje (78. člen).</p>
+                    <p>Nekatere določbe iz poglavja o gospodarskih in socialnih razmerjih bi bilo
+                        mogoče uvrstiti tudi v poglavje o človekovih pravicah in svoboščinah, druge
+                        pa v poglavje o državi in njenih funkcijah. Kljub temu pa predstavlja večina
+                        določb tega poglavja zaokroženo celoto, kar upravičuje takšno ustavno
+                        razvrstitev. To poglavje zagotavlja veliko takšnih pravic, katerih
+                        uresničevanje bistveno soopredeljuje zakon (npr. pravica do zdravega
+                        življenjskega okolja, pravica do soodločanja delavcev pri upravljanju,
+                        pravica do stavke ter pravice v Sloveniji zaposlenih tujcev in njihovih
+                        družin).</p>
+                    <p>Ena od ključnih dilem pri oblikovanju ustave je bila, ali naj ustava ureja
+                        tudi takšne pravice, ki jih v določeni meri priznavajo tisti
+                        mednarodnopravni dokumenti, ki jih je naša država ratificirala, vendar pa
+                        jim v Sloveniji še nekaj časa ne bo mogoče v vseh primerih zagotoviti zares
+                        učinkovitega pravnega (sodnega) varstva. Kot takšne so bile v ustavni
+                        razpravi prepoznane npr. pravica do dela, pravica do zdravja in pravica do
+                        stanovanja. Ustavodajalec se je odločil, da teh pravic kot takšnih izrecno
+                        ne uvrsti v ustavo, vendar pa je po drugi strani s programskimi ustavnimi
+                        določbami državi naložil obveznost, da vzpostavi možnosti za uveljavljanje
+                        teh pravic oziroma dobrin, ki jih te pravice varujejo.</p>
+                    <p>Tu velja spomniti, da iz 8. in 153. člena ustave izhaja, da morajo biti
+                        zakoni in drugi predpisi Republike Slovenije v skladu s splošno veljavnimi
+                        načeli mednarodnega prava in z ratificiranimi mednarodnimi pogodbami, pri
+                        čemer se ratificirane in objavljene mednarodne pogodbe uporabljajo
+                        neposredno. V tem obsegu velja torej prvenstvo (primat) mednarodnega prava
+                        pred notranjim (slovenskim) pravom, kar pomeni, da zakonodajalca obvezuje
+                        tudi vsebina vseh ratificiranih mednarodnih paktov in konvencij s področja
+                        človekovih pravic, če seveda ne nasprotuje ustavi. Pri tem pa so tudi v
+                        mednarodnih paktih in konvencijah socialne pravice pogosto opredeljene v
+                        bolj ali manj programski obliki, zaradi česar je njihovo uresničevanje
+                        praviloma odvisno od ekonomskih, političnih in drugih okoliščin ter možnosti
+                        v posameznih državah.</p>
+                </div>
+                <div>
+                    <head>Delo in z njim povezane pravice</head>
+                    <p>V 66. členu ustave je opredeljeno <hi rend="italic">varstvo
+                        dela</hi><hi rend="bold" xml:space="preserve">. </hi>Določeno je, da država
+                        ustvarja možnosti za zaposlovanje in delo, kar je predvsem napotilo
+                        državnemu zboru in vladi, da v tej smeri usmerjata ekonomsko in socialno
+                        politiko v državi. Poleg tega je v navedenem členu določeno tudi, da mora
+                        država zagotavljati zakonsko varstvo zaposlovanja in dela.</p>
+                    <p>V 75. členu ustave je določeno, da <hi rend="italic">delavci sodelujejo pri
+                            upravljanju</hi> v gospodarskih organizacijah in zavodih na način in pod
+                        pogoji, ki jih določa zakon. Tako npr. zakon o sodelovanju delavcev pri
+                        upravljanju določa načine in pogoje sodelovanja delavcev pri upravljanju
+                        gospodarskih družb (če ni s posebnim zakonom določeno drugače), bank,
+                        zavarovalnic in zavodov, pa tudi podjetij, ki opravljajo gospodarske javne
+                        službe. Sodelovanje delavcev pri upravljanju se v teh primerih uresničuje s
+                        pravico do pobude oziroma odgovora na pobudo, s pravico do obveščenosti, s
+                        pravico dajanja mnenj in predlogov (vključno s pravico do odgovora nanje), z
+                        možnostjo ali obveznostjo skupnih posvetovanj z delodajalcem, s pravico
+                        soodločanja, s pravico zadržanja odločitve delodajalca ter z drugimi načini
+                        sodelovanja, ki se določijo z dogovorom med delodajalcem in svetom delavcev.
+                        Te pravice uresničujejo delavci posamezno ali pa kolektivno (npr. preko
+                        sveta ali zbora delavcev).</p>
+                    <p>Ustava izrecno opredeljuje tudi <hi rend="italic">sindikalno
+                        svobodo</hi><hi rend="bold" xml:space="preserve">. </hi>Gre za obliko
+                        svobodnega združevanja, ki ga sicer omogoča že 42. člen ustave (splošna
+                        opredelitev temeljne pravice do svobodnega združevanja), vendar pa je
+                        ustavodajalec s posebno določbo o sindikalnem združevanju še posebej
+                        poudaril to možnost uresničevanja delavskih pravic. V 76. členu ustave je
+                        tako določeno, da je ustanavljanje in delovanje sindikatov ter včlanjevanje
+                        vanje svobodno. S tem je delojemalcem posebej zagotovljena tako aktivna
+                        sindikalna svoboda (pravica delavca oziroma zaposlenega, da se po svoji
+                        izbiri včlani v sindikat) kot tudi negativna sindikalna svoboda (četudi
+                        posameznik izpolnjuje pogoje za včlanjenje v sindikat, ga v to nihče ne sme
+                        (pri)siliti).</p>
+                    <p>V prvem odstavku 77. člena ustave je določeno, da imajo delavci <hi
+                            rend="italic">pravico do
+                        stavke</hi><hi rend="bold" xml:space="preserve">. </hi>To je ena izmed
+                        temeljnih delavskih oziroma sindikalnih pravic, ki predstavlja posebno
+                        obliko varstva interesov delavcev. Stavke praviloma potekajo pod vodstvom
+                        sindikatov, njihovi organizacija in izvedba pa morata biti napovedani
+                        vnaprej. Tudi sicer mora potekati stavka v ustavnih in zakonskih okvirih,
+                        kar predvsem pomeni, da se z njo ne smejo nedopustno omejevati ali kršiti
+                        pravice drugih. Ustava v tem pogledu še posebej določa, da se lahko, če to
+                        zahteva javna korist (npr. če bi se s stavko lahko ogrožalo zdravje,
+                        življenje ali varnost ljudi), pravica do stavke upoštevajoč vrsto in naravo
+                        dejavnosti z zakonom omeji (77/2 URS) – kar je npr. še posebej značilno za
+                        stavke policistov, carinikov ali zdravnikov.</p>
+                </div>
+                <div>
+                    <head>Določbe o lastnini</head>
+                    <p>Ustava v okviru II. poglavja, ki ureja človekove pravice in temeljne
+                        svoboščine, posebej zagotavlja pravico do zasebne lastnine (33 URS).
+                        Dopolnitev te ureditve vsebuje poglavje o gospodarskih in socialnih
+                        razmerjih, ki v več določbah podrobneje opredeljuje pridobivanje in uživanje
+                        lastnine. Gre za sodobni pravni pristop, ki v lastninski pravici oziroma
+                        lastnini ne vidi zgolj liberalne kategorije, ki bi lastniku dajala neomejene
+                        možnosti uporabe in razpolaganja z dobrinami v njegovi lasti, pač pa
+                        lastninsko pravico omejuje v različnih pogledih, ki zagotavljajo tudi njeno
+                        družbenokoristno udejanjanje.</p>
+                    <p>V 67. členu ustave je zapisano, da zakon določa <hi rend="italic">način
+                            pridobivanja in uživanja lastnine</hi>, tako da je zagotovljena njena
+                        gospodarska, socialna in ekološka funkcija. Navedene funkcije je težko na
+                        splošno določno opredeliti, kajti upoštevati je treba vso raznolikost
+                        lastninskih oblik in družbene okoliščine, ki determinirajo te funkcije. Z
+                        gospodarsko funkcijo je predvsem mišljeno, da mora lastnina za zagotavljanje
+                        splošne in javne koristi omogočati uspešno podjetništvo in gospodarjenje,
+                        ustvarjanje dohodka in dobička, čim večjo zaposlenost prebivalstva itd. Za
+                        socialno funkcijo lastnine velja, da jo je treba na eni strani razumeti kot
+                        njeno občo družbeno komponento, na drugi strani pa jo je treba povezati tudi
+                        s pojmom socialne države. V prvem pogledu se lastnine ne sme uporabljati ali
+                        zlorabljati na škodo drugih in na račun kohezivnosti družbe, v ožjem
+                        socialnem pogledu pa mora lastnina prispevati k zagotavljanju ustreznega
+                        življenjskega standarda državljanov ter k zadovoljevanju njihovih potreb na
+                        področju zdravstva, sociale, šolstva, kulture itd. V okvir ekološke funkcije
+                        lastnine sodijo nekatere izrecne ustavne opredelitve (npr. skrb za zdravo
+                        življenjsko okolje – 72 URS, varovanje naravne dediščine – 73 URS), poleg
+                        tega pa opredeljujejo omejitve lastnine s ciljem varovanja narave oziroma
+                        okolja tudi zakoni, ki določajo nekatere posebne pogoje uporabe nepremičnin
+                        (npr. gozdnih zemljišč) in premičnin (npr. motoriziranih prevoznih
+                        sredstev), posebne ukrepe za varovanje posebej ogroženih dobrin (npr.
+                        nekaterih območij, živalskih in rastlinskih vrst) ter pogoje in način
+                        opravljanja gospodarskih dejavnosti, ki naj bi v čim manjši meri
+                        onesnaževale okolje.</p>
+                    <p>V 68. členu ustave je urejena <hi rend="italic">lastninska pravica tujcev na
+                            nepremičninah</hi>. V tem členu je bilo prvotno, tj. ob sprejemu ustave,
+                        določeno, da lahko tujci pridobivajo lastninsko pravico na nepremičninah pod
+                        pogoji, ki jih določa zakon. Isti člen je tujcem na zemljiščih prepovedal
+                        pridobivanje lastninske pravice, razen z dedovanjem ob pogoju vzajemnosti
+                        (vzajemnost pomeni, da naša država priznava tujcu pravico do dedovanja
+                        zemljišča, če enako pravico priznava našemu državljanu tudi država, iz
+                        katere je ta tujec). Takšna prvotna ustavna ureditev glede pridobivanja
+                        lastnine na nepremičninah v Sloveniji je bila za tujce restriktivna, oziroma
+                        kar zadeva zemljišča skoraj povsem izključujoča. Ustavodajalca je pri
+                        pisanju teh določb vodila skrb pred možnostjo prevlade ozkogledih in
+                        lukrativnih individualnih ali partikularnih interesov, kar bi vodilo v
+                        situacijo, ko bi lahko tuje fizične in pravne osebe, ki razpolagajo z
+                        velikimi količinami kapitala, v relativno velikem obsegu pokupile slovenska
+                        zemljišča in druge nepremičnine.</p>
+                    <p>V prvi polovici leta 1997 je Slovenija ratificirala t. i. pridružitveni
+                        sporazum z Evropsko unijo, na podlagi katerega je naša država vstopila v
+                        krog držav, ki so kandidirale za članstvo v Evropski uniji. Dotedanja
+                        oziroma prvotna določba 68. člena ustave se je v luči tega sporazuma
+                        izkazala za neustrezno oziroma pretirano omejevalno glede ureditve
+                        pridobivanja lastninske pravice na zemljiščih s strani tujcev, zaradi česar
+                        se je državni zbor odločil drugače urediti to ustavno materijo. Tako je še
+                        pred ratifikacijo navedenega pridružitvenega sporazuma sprejel Ustavni zakon
+                        o spremembi 68. člena ustave Republike Slovenije (Ur. l. RS, št. 42/97), s
+                        katerim je bilo celotno besedilo 68. člena nadomeščeno z novim besedilom, ki
+                        je določilo, da lahko tujci pridobijo lastninsko pravico na nepremičninah
+                        pod pogoji, ki jih določa zakon, ali če tako določa mednarodna pogodba, ki
+                        jo ratificira državni zbor, ob pogoju vzajemnosti. Kot obvezni pogoj za
+                        sprejetje tega zakona in mednarodne pogodbe je bila ustavno določena
+                        dvotretjinska večina glasov vseh poslancev državnega zbora. S takšno
+                        rešitvijo je državni zbor na ustavni ravni načelno in s tem tudi za tujce
+                        liberaliziral promet z nepremičninami, pri čemer pa je podrobnejše rešitve
+                        prenesel na bodočo zakonsko oziroma morebitno konvencijsko ureditev.</p>
+                    <p>Dne 7. 3. 2003 je bila z Ustavnim zakon o spremembah I. poglavja ter 47. in
+                        68. člena Ustave Republike Slovenije določba 68. člena ustave ponovno
+                        spremenjena, in sicer v smeri nadaljnje liberalizacije slovenskega trga
+                        nepremičnin. Ta še vedno veljavna določba 68. člena odpravlja dva dotedenja
+                        pogoja, ki sta veljala za pridobivanje lastninske pravice na nepremičninah s
+                        strani tujcev, tj. pogoj vzajemnosti in pogoj dvotretjinske večine pri
+                        sprejemanju zakona in ratifikaciji mednarodne pogodbe, s katerima so
+                        določajo pogoji za navedeno pridobivanje lastninske pravice. V 68. členu
+                        ustave je sedaj določeno, da lahko tujci pridobijo lastninsko pravico na
+                        nepremičninah pod pogoji, ki jih določa zakon ali mednarodna pogodba, ki jo
+                        ratificira državni zbor. Takšna ustavna rešitev sledi slovenski zavezanosti
+                        načelom prostega pretoka dobrin in prostega gibanja oseb v svetovnem merilu
+                        ter še posebej v okviru EU, na katero je Slovenija prenesla v izvrševanje
+                        del svojih suverenih pravic in znotraj katere so uveljavljene t.i. štiri
+                        svoboščine: prosti pretok blaga, oseb, storitev in kapitala. Pri odločitvi
+                        za takšno spremembo ustave je bila odločilna predhodna politična obljuba s
+                        strani Slovenije, da se bo v tem pogledu še pred dokončno vključitvijo v EU
+                        dodatno uskladila s standardi članic EU, pri čemer je pri preučevanju
+                        ureditve pridobivanja lastninske pravice s strani tujcev ustavodajalec
+                        prvenstveno upošteval tudi primerjalni pogled, ki je pokazal, da v okviru EU
+                        na tem področju razen redkih in omejenih izjem ni uveljavljeno načelo
+                        vzajemnosti. K temu je treba dodati, da je (bila) takšna nova oziroma
+                        sedanja določba 68. člena ustave še vedno nujna predvsem zaradi obravnave
+                        tistih tujcev, ki niso državljani držav članic EU in katerim je zaradi
+                        določenih razlogov treba pogojevati oziroma omejiti pravico do pridobivanja
+                        lastninske pravice na nepremičninah v Sloveniji.</p>
+                    <p>V 69. členu ustave je določeno, da se lahko lastninska pravica na
+                        nepremičnini v javno korist odvzame ali omeji proti nadomestilu v naravi ali
+                        proti odškodnini pod pogoji, ki jih določa zakon. Ta določba torej ureja <hi
+                            rend="italic"
+                        >razlastitev</hi><hi rend="bold" xml:space="preserve">, </hi>ki pride v
+                        poštev takrat, kadar javna korist prevlada nad koristjo lastnika (npr.
+                        zaradi gradnje državne ceste se proti odškodnini razlasti lastnik zemljišča,
+                        čez katerega bo tekla cesta).</p>
+                    <p>V 70. členu ustave je določeno, da se na <hi rend="italic">javnem dobru</hi>
+                        lahko pridobi posebna pravica uporabe pod pogoji, ki jih določa zakon. Kot
+                        javno dobro je mogoče opredeliti takšne stvari, ki so namenjene rabi vseh in
+                        ne morejo biti v pravnem prometu (t. i. stvari oziroma dobrine v splošni
+                        rabi – javne ceste, ulice, parki, reke, jezera, zračni prostor, morska
+                        obala, obalno morje in podobno), vendar pa je mogoče v ta pojem uvrstiti
+                        tudi stvari, ki so lahko v pravnem prometu, vendar le z določenimi
+                        omejitvami (npr. zemljišča, zgradbe, ter premičnine in nepremičnine, ki so
+                        opredeljene kot kulturni spomeniki).</p>
+                    <p>V 70. členu je zapisano tudi, da zakon določa pogoje, pod katerimi se smejo
+                        izkoriščati <hi rend="italic">naravna bogastva</hi> (70/2 URS), med katera
+                        sodijo npr. rudna bogastva, živalski in rastlinski svet, v ekonomskem smislu
+                        pa tudi zemljišča, gozdovi, vode itd. Zakon lahko določi, da smejo naravna
+                        bogastva izkoriščati tudi tuje osebe, pri čemer zakon v takšnem primeru
+                        določi tudi pogoje za izkoriščanje (70/3 URS).</p>
+                    <p>Dne 30. 11. 2016 je bil sprejet Ustavni zakon o dopolnitvi III. poglavja
+                        Ustave Republike Slovenije – UZ70a (Ur. l. RS, št. 75/16), s katerim je bil
+                        v ustavo zapisan nov 70.a člen, ki ureja <hi rend="italic">pravico do pitne
+                            vode in pravno naravo vodnih virov</hi>. Gre za ustavno spremembo, ki se
+                        ustrezno in pravočasno odziva na družbene, okoljske in podnebne razmere v
+                        Sloveniji in v svetu, kjer po eni strani voda postaja vedno pomembnejša
+                        strateška dobrina, po drugi strani pa je lahko zaradi navedenih razmer in
+                        drugih razlogov preskrba prebivalcev s pitno vodo v prihajajočih časih tudi
+                        ogrožena. V 70.a členu je zato določeno, da ima vsakdo pravico do pitne vode
+                        ter da so vodni viri javno dobro v upravljanju države (70.a/1,2 URS). Vodni
+                        viri služijo prednostno in trajnostno oskrbi prebivalstva s pitno vodo in z
+                        vodo za oskrbo gospodinjstev in v tem delu niso tržno blago (70.a/3 URS).
+                        Oskrbo prebivalstva s pitno vodo in z vodo za oskrbo gospodinjstev
+                        zagotavlja država preko samoupravnih lokalnih skupnosti neposredno in
+                        neprofitno (70.a/4 URS). <anchor xml:id="Toc130884657"/></p>
+                </div>
+                <div>
+                    <head>Določbe o varstvu zemljišč, naravne in kulturne dediščine in o zdravem
+                        življenjskem okolju</head>
+                    <p>V 71. členu ustave je opredeljeno <hi rend="italic">varstvo
+                        zemljišč</hi><hi rend="bold" xml:space="preserve">. </hi>Ustava pravi, da
+                        zakon določa zaradi smotrnega izkoriščanja posebne pogoje za uporabo
+                        zemljišč, poleg tega pa določa tudi posebno varstvo kmetijskih zemljišč
+                        (70/1,2 URS). To so sicer pomembne določbe, ki pa same po sebi pomenijo le
+                        ustavno obvezo zakonodajalca, da podrobneje uredi to materijo. Ob tem je v
+                        navedenem členu še dodatno določeno, da država skrbi za gospodarski,
+                        kulturni in socialni napredek prebivalstva na gorskih in hribovitih območjih
+                        (70/3 URS). Ta načelna oziroma programska norma je podlaga za uresničevanje
+                        skrbstvene funkcije države, ki jo je mogoče udejanjati z davčnimi
+                        olajšavami, subvencijami in drugimi oblikami denarne pomoči prebivalcem na
+                        gorskih in hribovitih območjih, z zagotavljanjem posebnih sredstev lokalnim
+                        skupnostim na teh območjih, z določanjem ugodnejših pogojev za razvijanje
+                        posameznih dejavnosti itd.</p>
+                    <p>V prvem odstavku 72. člena ustave je določeno, da ima vsakdo v skladu z
+                        zakonom <hi rend="italic">pravico do zdravega življenjskega okolja</hi>.
+                        Država mora skrbeti za zdravo življenjsko okolje. V ta namen mora zakon
+                        določiti pogoje in načine za opravljanje gospodarskih in drugih dejavnosti.
+                        Zakon tudi določa, pod katerimi pogoji in v kakšnem obsegu je povzročitelj
+                        škode v življenjskem okolju dolžan poravnati škodo (72/2,3 URS). Ta sklop
+                        določb o varstvu zdravega življenjskega okolja predstavlja v pravni obliki
+                        izražen odziv na dandanašnje vse bolj pereče probleme onesnaževanja okolja,
+                        pri čemer se težišče urejanja te materije prenaša na zakon in na ustrezno
+                        skrb države.</p>
+                    <p>Za slovenski narod, ki je številčno relativno majhen in biva v ozemeljsko
+                        majhni državi, je še posebej pomembno, da varuje in razvija svojo <hi
+                            rend="italic">naravno in kulturno dediščino</hi>. 73. člen ustave v tem
+                        pogledu določa, da je vsakdo dolžan v skladu z zakonom varovati naravne
+                        znamenitosti in redkosti ter kulturne spomenike. Država in lokalne skupnosti
+                        pa so dolžne skrbeti za ohranjanje naravne in kulturne dediščine.</p>
+                </div>
+                <div>
+                    <head>Druge določbe iz poglavja o gospodarskih in socialnih razmerjih</head>
+                    <p>Poglavje o gospodarskih in socialnih razmerjih vsebuje tudi nekaj določb, ki
+                        jih ni mogoče uvrstiti v zgornje sklope, zaradi česar jih velja strnjeno
+                        predstaviti posebej.</p>
+                    <p>V 74. členu ustava določa, da je <hi rend="italic">gospodarska pobuda
+                            svobodna</hi>. Zakon določa pogoje za ustanavljanje gospodarskih
+                        organizacij. Gospodarska dejavnost se ne sme izvajati v nasprotju z javno
+                        koristjo. Poleg tega so izrecno prepovedana tudi dejanja nelojalne
+                        konkurence in dejanja, ki v nasprotju z zakonom omejujejo konkurenco (npr.
+                        nedovoljeni monopoli).</p>
+                    <p>V 78. členu ustave je določeno, da država ustvarja možnosti, da si državljani
+                        lahko pridobijo <hi rend="italic">primerno stanovanje.</hi> V tem primeru,
+                        tako kot v nekaterih drugih, je ustavodajalec v ustavni razpravi ocenil, da
+                        bi bila ustavna zagotovitev pravice do stanovanja nerealna oziroma pravno
+                        neučinkovita, zaradi česar je na tem področju opredelil le obveznost države,
+                        da v prihodnje z ustrezno zakonodajo in z drugimi ukrepi zagotovi
+                        državljanom čim ugodnejše možnosti za pridobitev primernih stanovanj.</p>
+                    <p>V četrtem odstavku 72. člena ustave je določeno, da <hi rend="italic">varstvo
+                            živali pred mučenjem ureja zakon</hi>. Ta določba sicer po vsebini ne
+                        sodi povsem na to mesto (navedeni člen obravnava zdravo življenjsko okolje)
+                        oziroma v ustavno poglavje o gospodarskih in socialnih razmerjih, vendar pa
+                        bi jo bilo težko uvrstiti tudi v katerikoli drug sklop ustavnih določb, zato
+                        jo je ustavodajalec umestil v člen, ki se mu po vsebini še najbolj
+                        približuje. Gre za pomembno ustavno normo, ki napotuje na zakonsko urejanje,
+                        v okviru katerega je seveda nadvse primerno živalim kot čutečim bitjem
+                        nameniti tudi druge oblike pravnega varstva in zagotavljanja ustreznih
+                        življenjskih pogojev.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

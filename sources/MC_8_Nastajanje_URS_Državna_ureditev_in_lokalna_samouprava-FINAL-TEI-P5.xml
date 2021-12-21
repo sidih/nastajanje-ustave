@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Microsoft Office User</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2021-12-20</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2021-12-21T16:30:06Z</date><name>Microsoft Office User</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Ustava Republike Slovenije: državna ureditev in lokalna samouprava</head>
+                <docAuthor>Miro Cerar</docAuthor>
+                <div>
+                    <head>Državna ureditev</head>
+                    <p>Ustavno poglavje o državni ureditvi (IV. poglavje) je relativno obsežno in
+                        notranje zelo razčlenjeno. Ustava največji del tega poglavja namenja
+                        državnemu zboru, državnemu svetu, predsedniku republike, vladi, sodstvu in
+                        ustavnemu sodišču. To poglavje vsebuje med drugim tudi nekaj načelnih določb
+                        o upravi, obrambi države, državnemu tožilstvu ter odvetništvu in notariatu.
+                        Če se ob vsem tem omejimo le na nekatere temeljne značilnosti in razmerja
+                        med glavnimi nosilci državne oblasti, vidimo, da je tu najpomembnejši odnos
+                        med zakonodajno, izvršilno (izvršilnoupravno) in sodno vejo oblasti, poleg
+                        tega pa ima poseben sistemski pomen tudi vloga ustavnega sodišča. V
+                        nadaljevanju se predstavitev strnjeno osredotoča predvsem na nekatere
+                        ključne vidike razmerij med najvišjimi državnimi organi.</p>
+                    <p>Nosilec ustavodajne in zakonodajne oblasti je <hi rend="italic">državni
+                            zbor</hi>, ki je predstavniško telo slovenskih državljanov. Sestavlja ga
+                        90 poslancev, ki so izvoljeni v skladu s proporcionalnim volilnim sistemom,
+                        praviloma na listah političnih strank. Ker je za vstop v državni zbor
+                        predviden 4% volilni prag (člen 80/5 URS), posamezni neodvisni kandidati za
+                        poslance praktično nimajo nobene možnosti, da bi bili izvoljeni v državni
+                        zbor, kajti na državni ravni zgolj posamezni kandidat dejansko ne more
+                        zbrati toliko glasov.</p>
+                    <p>Državni zbor se voli praviloma za štiri leta (člen 81 URS). Poslanci imajo
+                        reprezentativen in svoboden mandat, kar pomeni, da so po ustavi (tj. v
+                        ustavnopravnem pogledu) predstavniki vsega ljudstva in niso vezani na
+                        kakršnakoli navodila (seveda pa so vezani na ustavo, zakone in druge pravne
+                        akte). Poslanci imajo torej načelno svobodo pri presojanju, koliko bodo
+                        sledili stališčem političnih strank ali stališčem interesnih skupin in
+                        drugih družbenih akterjev. Vendar pa se v praksi državnega zbora, podobno
+                        kot to velja za parlamente v drugih demokratičnih državah, poslanci v
+                        pretežni meri podrejajo stališčem svojih strank oziroma njihovih vrhov, pri
+                        čemer je to po eni strani logična posledica njihove privrženosti programskim
+                        ciljem in politikam njihovih strank, po drugi strani pa je takšno podrejanje
+                        delno tudi odraz t.i. partitokracije, ki je značilna za vse države, v
+                        katerih sta uveljavljena politični pluralizem in predstavniški sistem. Tu
+                        velja še dodati, da poslanci uživajo poslansko imuniteto, ki se nanaša na
+                        izvzem od njihove kazenske odgovornosti, ne pa tudi na izvzem od
+                        odgovornosti za civilnopravne in druge kršitve zakonov (glej člen 83
+                        URS).</p>
+                    <p>Ustavodajalec v ustavi ni v celoti (taksativno) določil pristojnosti
+                        državnega zbora, saj je v času sprejemanja ustave menil, da se bosta celoten
+                        obseg in vsebina teh pristojnosti postopno dograjevala na podlagi
+                        parlamentarne prakse, seveda v skladu z ustavo. Toda najpomembnejše
+                        pristojnosti državnega zbora določa že ustava, ki pa teh pristojnosti ne
+                        navaja pregledno na enem mestu, marveč v različnih določbah v povezavi z
+                        različnimi ustavnimi institucijami. Med najpomembnejšimi pristojnostmi
+                        državnega zbora, <hi rend="italic">ki jih določa že ustava</hi>, so predvsem
+                        naslednje:</p>
+                    <list rend="unordered">
+                        <item>spreminjanje ustave (168. in 169. člen URS), </item>
+                        <item>sprejemanje zakonov (86., 87. in 89 člen),</item>
+                        <item>ratificiranje mednarodnih pogodb (86. in 153. člen),</item>
+                        <item>razpis zakonodajnega in ustavodajnega referenduma (90. in 170.
+                            člen),</item>
+                        <item>razglasitev izrednega ali vojnega stanja in odločanje o uporabi
+                            obrambnih sil (92. člen),</item>
+                        <item>volitve predsednika vlade (111. člen), </item>
+                        <item>imenovanje ministrov (112. člen),</item>
+                        <item>odločanje o nezaupnici vladi (116. člen),</item>
+                        <item>odločanje o zaupnici vladi (117. člen),</item>
+                        <item>odločanje o interpelaciji o delu vlade ali posameznega ministra (118.
+                            člen),</item>
+                        <item>vložitev obtožbe (t.i. <hi rend="italic">impeachment</hi>) zoper
+                            predsednika države, predsednika vlade ali ministre pred ustavnim
+                            sodiščem (109. in 119. člen),</item>
+                        <item>uvedba parlamentarne preiskave o zadevah javnega pomena (93.
+                            člen),</item>
+                        <item>pristojnost zahtevati mnenje od predsednika republike o posameznem
+                            vprašanju (107. člen),</item>
+                        <item>pristojnost zahtevati mnenje od državnega sveta o posamezni zadevi
+                            (97. člen),</item>
+                        <item>volitve sodnikov (130. člen),</item>
+                        <item>volitve petih članov sodnega sveta (131. člen), </item>
+                        <item>imenovanje članov računskega sodišča (151. člen),</item>
+                        <item>volitve ustavnih sodnikov (163. člen),</item>
+                        <item>odločanje o imuniteti poslancev, sodnikov in sodnikov ustavnega
+                            sodišča (83., 134. in 167. člen),</item>
+                        <item>imenovanje guvernerja centralne banke Slovenije (152. člen). </item>
+                    </list>
+                    <p>K navedenemu je treba dodati, da sodi v pristojnost državnega zbora tudi
+                        sprejemanje državnega proračuna. Čeprav to v ustavi ni izrecno določeno, ta
+                        pristojnost logično in samoumevno izhaja iz konteksta ustavnih določb o
+                        proračunu (148. člen) ter iz ustavno opredeljenega položaja državnega zbora
+                        v sistemu delitve oblasti (pristojnost državnega zbora za sprejemanje
+                        državnega proračuna je izrecno določena v poslovniku državnega zbora).</p>
+                    <p>Nekatere dodatne pristojnosti državnega zbora so urejene še v različnih
+                        zakonih in v poslovniku državnega zbora (pristojnosti za postavljanje
+                        poslanskih vprašanj vladi, za sprejemanje nacionalnih programov, deklaracij
+                        in resolucij, za volitve in imenovanja nekaterih nosilcev javnih funkcij
+                        itd.).</p>
+                    <p>Državni zbor sklepa, če je na njegovi seji navzoča večina poslancev. Zakone
+                        in druge odločitve sprejema državni zbor z večino opredeljenih glasov
+                        navzočih poslancev, kadar ni z ustavo ali z zakonom določena drugačna večina
+                        (86. člen URS). Ustava predvideva posebno kvalificirano večino za sprejem
+                        petih pomembnejših aktov. Z <hi rend="italic">dvotretjinsko večino glasov
+                            vseh poslancev</hi> (kar je tudi zahtevana kvalificirana večina za
+                        spremembo ustave) se sprejemata zakona, ki urejata volitve v državni zbor in
+                        v državni svet (80. in 98. člen URS), medtem ko se zakon o referendumu,
+                        poslovnik državnega zbora in zakon, ki ureja obrambo države sprejemajo z
+                        <hi rend="italic" xml:space="preserve">dvotretjinsko večino glasov navzočih poslancev </hi>(90.,
+                        94. in 124. člen URS). Po oceni ustavodajalca gre prav v teh primerih za
+                        izjemno pomembne pravne akte, katerih sprejem terja višjo stopnjo
+                        parlamentarnega konsenza. Z absolutno večino (<hi rend="italic">večina
+                            glasov vseh poslancev</hi>) pa mora npr. državni zbor sprejeti zakon, o
+                        katerem ponovno odloča po vloženem vetu s strani državnega sveta (člen 91/2
+                        URS).</p>
+                    <p>Po ustavi sta za oblikovanje večine pomembnejših političnih odločitev
+                        pristojna državni zbor in vlada. <hi rend="italic">Predsednik
+                        republike</hi>, ki je za dobo petih let voljen na neposrednih volitvah (ista
+                        oseba je lahko izvoljena največ dvakrat zaporedoma – 103. člen URS), ima
+                        poleg položaja vrhovnega poveljnika obrambnih sil z ustavo določene predvsem
+                        reprezentativne in protokolarne pristojnosti (glej 107. člen URS), ki jih
+                        zakonodaja širi tudi z nekaterimi iniciativnimi oziroma predlagalnimi
+                        pristojnostmi (npr. predlaganje kandidatov za ustavne sodnike, za varuha
+                        človekovih pravic ali za guvernerja centralne banke). Predsednik države
+                        torej v <hi rend="italic" xml:space="preserve">formalnem </hi>pogledu nima
+                        takšnih pristojnosti, s katerimi bi lahko neposredno in odločilno vplival na
+                        oblikovanje politike in zakonodaje, zato je od konkretne osebe predsednika
+                        republike odvisno, v kolikšni meri uspe s svojo dejansko moralno in
+                        politično avtoriteto ter preko neformalnih poti vplivati na politične
+                        odločitve zakonodajne in izvršilne oblasti.</p>
+                    <p>Nekatere pristojnosti predsednika republike sicer dajejo vtis, da predsednik
+                        lahko tudi formalno močneje posega v nekatera politična dogajanja, kar pa
+                        drži le deloma oziroma v manjši meri. Tako npr. predsednik republike
+                        državnemu zboru po parlamentarnih volitvah ali po padcu vlade predlaga v
+                        izvolitev novega kandidata za predsednika vlade (mandatarja za sestavo
+                        vlade). Vendar pa državni zbor na njegov predlog ni absolutno vezan, kajti
+                        poslanci lahko sami predlagajo in izvolijo tudi druge kandidate (glej 111.
+                        člen URS). Podobno je s predsednikovo izključno pristojnostjo za razpust
+                        državnega zbora. Čeprav je takšna njegova pristojnost navidez močna, pa jo
+                        lahko izvaja le v dveh situacijah, katerih nastanek je v celoti odvisen od
+                        odločitev državnega zbora in vlade. Za prvo situacijo gre, ko po
+                        parlamentarnih volitvah državni zbor ne uspe izvoliti mandatarja za sestavo
+                        vlade (111. člen URS), za drugi primer pa gre, ko vlada v državnem zboru ne
+                        dobi zaupnice, državni zbor pa ne uspe izvoliti novega mandatarja (117. člen
+                        URS). V teh primerih predsednik republike ne more samostojno presojati, ali
+                        je primerno razpustiti državni zbor, pač pa mora predsednik državni zbor
+                        (avtomatično) razpustiti, če pride do ene od obeh navedenih situacij.</p>
+                    <p><hi rend="italic">Vlada</hi> je temeljni nosilec izvršilne veje oblasti in
+                        upravne dejavnosti, pri čemer sestavo in delovanje vlade ter število,
+                        pristojnosti in organizacijo ministrstev ureja zakon. Predsednik vlade skrbi
+                        za enotnost politične in upravne usmeritve vlade ter usklajuje delo
+                        ministrov. Ustava vzpostavlja kolektivno odgovornost ministrov za delo vlade
+                        ter individualno odgovornost ministra za delo svojega resorja (tj.
+                        ministrstva ter upravnih organov in organizacij v njegovi sestavi) (114.
+                        člen URS). Ustava je glede uveljavljanja politične odgovornosti vlade po
+                        nemškem vzoru vzpostavila sistem t.i. <hi rend="italic">konstruktivne
+                            nezaupnice</hi>. To pomeni, da lahko državni zbor vladi izglasuje
+                        nezaupnico le tako, da hkrati z večino glasov vseh poslancev izvoli novega
+                        predsednika vlade (116. člen URS). Ustavodajalec je sprejel ureditev
+                        konstruktivne nezaupnice zato, da bi se izognil daljšim vladnim krizam v
+                        smislu situacij, ko je vlada razrešena in ne more v celoti opravljati svojih
+                        funkcij, državni zbor pa ne uspe kmalu izvoliti nove vlade. K takšni rešitvi
+                        je ustavodajalca vodilo prepričanje, da je stabilnost vlade pomembna
+                        vrednota, saj lahko močno prispeva k zagotovitvi kontinuiranega delovanja
+                        družbenih (pod)sistemov.</p>
+                    <p>Povsem specifičen državni organ je <hi rend="italic">državni svet</hi>, ki je
+                        zastopstvo nosilcev socialnih, gospodarskih, poklicnih in lokalnih interesov
+                        (96. člen URS). Državni svet, ki ga je ustavodajalec oblikoval v veliki meri
+                        po zgledu na (nekdanji) Bavarski senat, ima 40 članov. Le-te volijo v skladu
+                        z zakonom lokalne skupnosti (skupine občin) in različne interesne
+                        organizacije (gospodarske zbornice, reprezentativni sindikati, poklicne
+                        organizacije kmetov, obrtnikov in drugih samostojnih poklicev, univerze,
+                        poklicne organizacije raziskovalcev, kulturnih in športnih delavcev itd.).
+                        Državni svet torej ni voljen na splošnih in neposrednih volitvah, prav tako
+                        pa se od državnega zbora bistveno razlikuje po tem, da ni sestavljen po
+                        strankarskem principu (čeprav so v praksi vplivi političnih strank prisotni
+                        tudi v delovanju državnega sveta).</p>
+                    <p>Državni svet ima zakonodajno funkcijo, saj lahko državnemu zboru predlaga
+                        sprejem zakonov, lahko mu daje mnenja v vseh fazah sprejemanja zakonov, pred
+                        razglasitvijo zakona pa lahko zahteva, da državni zbor o zakonu še enkrat
+                        odloča (odložilni veto) (97. člen URS). Vendar pa državni svet ni
+                        zakonodajalec, kajti ta funkcija pripada izključno državnemu zboru. Kljub
+                        temu, da lahko državni svet, poleg že omenjenih zadev, od državnega zbora
+                        zahteva tudi uvedbo parlamentarne preiskave o zadevah javnega pomena ter
+                        sprejema mnenja o vseh zadevah iz pristojnosti državnega zbora, državni svet
+                        o nobeni od teh zadev z državnim zborom neposredno ne soodloča.</p>
+                    <p>Takšna relativno šibka vloga državnega sveta slabi njegov položaj drugega
+                        doma slovenskega parlamenta. Šibkost vloge državnega sveta je predvsem v
+                        tem, da nima nikakršne iniciativne ali nadzorne vloge nad vlado in upravo
+                        ter da ni neposredno vključen v odločanje v ustavodajnih, volilnih in drugih
+                        postopkih iz pristojnosti državnega zbora, seveda z delno izjemo
+                        zakonodajnega postopka, kjer ima državni svet iniciativno in korektivno
+                        funkcijo. Kljub tako omejeni vlogi ter specifični sestavi državnega sveta,
+                        je doslej v teoriji in praksi prevladalo mnenje, da je državni svet treba
+                        šteti za drugi dom parlamenta, seveda z zelo omejeno funkcijo (t.i.
+                        nepopolna dvodomnost).</p>
+                    <p>Državni svet je bil z ustavo ustanovljen kot kompromisna rešitev med
+                        zagovorniki enodomnosti in dvodomnosti slovenskega parlamenta. K njegovi
+                        ustavni določitvi je pripomogla zamisel o koristnosti vključevanja
+                        predstavnikov različnih družbenih interesov v sfero zakonodajnega odločanja,
+                        kar je bil v določeni meri tudi odraz slovenske socialistične in samoupravne
+                        ustavne tradicije iz prejšnjega sistema. Že v 50-ih letih prejšnjega
+                        stoletja je namreč imela slovenska (republiška) skupščina dvodomno sestavo,
+                        ki sta jo tvorila republiški zbor in zbor proizvajalcev (slednji je bil
+                        voljen posredno, v različnih gospodarskih panogah). Po ustavi iz leta 1963
+                        je imela slovenska skupščina najprej celo pet zborov, po sprejetju ustavnih
+                        amandmajev leta 1969 pa le še štiri (republiški, gospodarski,
+                        prosvetno-kulturni in socialno-zdravstveni zbor). Po ustavi iz leta 1974 in
+                        vse do sprejema nove ustave leta 1991 so slovensko skupščino sestavljali
+                        trije zbori: družbeno-politični zbor, zbor občin in zbor združenega dela. V
+                        slednjega so bili poleg manjšega števila predstavnikov državnih organov in
+                        enega predstavnika vojske vključeni delegati iz interesnih področij
+                        gospodarstva, prosvete in kulture, sociale in zdravstva ter kmetijstva in
+                        obrti.</p>
+                    <p>Specifična sestava državnega sveta naj bi po prvotni zamisli iz ustavne
+                        razprave tudi omejevala parlamentarno partitokracijo, saj naj bi interesne
+                        skupine preko svojih predstavnikov v državnem svetu le-temu omogočile
+                        pridobiti neposreden vpliv na zakonodajno delo državnega zbora. Ta vpliv je
+                        v praksi manjši od takšnih pričakovanj, pri čemer pa se kot rečeno, ravno
+                        nasprotno prvotni zamisli, pri delu in odločanju v okviru državnega sveta
+                        pogosto opaža tudi vpliv političnih strank.</p>
+                    <p>Glede <hi rend="italic">sodne veje oblasti</hi> ustava poudarja tiste vidike,
+                        ki omogočajo neodvisnost sodniške funkcije. Čeprav je izvolitev sodnikov
+                        neposredno odvisna od politike, saj sodnike voli državni zbor (130. člen
+                        URS) (tudi tu gre za specifičen ostanek socialistične tradicije), pa je
+                        sodniška funkcija opredeljena kot trajna (129. člen URS), pri čemer je njen
+                        odvzem mogoč le v izjemnih primerih, ki jih določata ustava ali zakon (132.
+                        člen URS). Trajnost sodniške funkcije omogoča sodnikom, da so bistveno bolj
+                        neodvisni od morebitnih političnih pritiskov, kot je to veljalo v prejšnjem
+                        socialističnem sistemu, kjer so bili sodniki zaradi sistema večkratne
+                        reelekcije s strani političnih organov ter monopolne družbeno-politične
+                        vloge vladajoče partije bistveno manj odporni na takšne pritiske. Sodniki so
+                        po ustavi vezani le na ustavo in zakon (125. člen URS), seveda pa je za
+                        resnično neodvisnost sodnikov in sodne veje oblasti v praksi pomembno, da so
+                        za sodnike izvoljeni strokovno in moralno primerni kandidati, ter da so
+                        hkrati zagotovljeni tudi ustrezni materialni pogoji za delo sodnikov in
+                        sodišč.</p>
+                    <p>Posebej pomembno vlogo v novem ustavnem sistemu ima <hi rend="italic">ustavno
+                            sodišče</hi>. Ustavno sodišče je bilo v Sloveniji (in v SFR Jugoslaviji)
+                        prvič konstituirano že z ustavo iz leta 1963, kar je bilo, glede na naravo
+                        tedanjega političnega sistema, takrat veliko presenečenje in je v tujini
+                        doživelo tudi priznanja, saj v drugih komunističnih sistemih do ustanovitve
+                        te vrste sodstva takrat še ni prišlo. Vendar je to sodišče v svojem
+                        delovanju še vedno ostajalo v okvirih tedanje socialistične ustavne ureditve
+                        in uradne partijske ideologije. Poleg tega takratne pristojnosti ustavnega
+                        sodišča le-temu praviloma niso omogočale, da bi lahko neposredno posegalo v
+                        vsebino zakonov in drugih predpisov (npr. z razveljavitvijo posameznih
+                        zakonskih določb). Pristojnosti ustavnega sodišča po novi ustavi so bistveno
+                        močnejše, kar daje temu sodišču izjemen pomen tako na področju varstva
+                        ustavnosti in zakonitosti, kot tudi na področju varstva človekovih
+                        pravic.</p>
+                    <p>Večino pristojnosti slovenskega ustavnega sodišča določa že neposredno
+                        ustava, ki ob tem dopušča, da se z zakonom določijo tudi druge (dodatne)
+                        pristojnosti tega organa. Pristojnosti ustavnega sodišča je mogoče
+                        razčleniti v naslednje tri temeljne skupine:</p>
+                    <list rend="unordered">
+                        <item><hi rend="italic">Preventivna kontrola ustavnosti</hi>. Vpliv
+                            francoskega modela preventivne ustavnosodne kontrole se izraža (le) v
+                            pristojnosti ustavnega sodišča, da na predlog predsednika republike,
+                            vlade ali najmanj tretjine poslancev v državnem zboru v postopku
+                            ratifikacije mednarodnih pogodb izreka mnenja o skladnosti teh pogodb z
+                            ustavo. Državni zbor je vezan na takšno mnenje ustavnega sodišča (člen
+                            160/2 URS).</item>
+                        <item><hi rend="italic">Naknadna kontrola ustavnosti</hi>. Ta vrsta kontrole
+                            obsega abstraktno in konkretno kontrolo ustavnosti. Za ponazoritev velja
+                            navesti, da izvaja ustavno sodišče <hi rend="italic">konkretno
+                                kontrolo</hi>, če npr. to zahteva redno sodišče glede vprašanja
+                            ustavnosti in zakonitosti, ki se mu zastavlja v zvezi s konkretnim
+                            postopkom, ki ga vodi. Težišče delovanja ustavnega sodišča pa je
+                            dejansko na njegovi <hi rend="italic">abstraktni kontroli</hi>
+                            ustavnosti in zakonitosti, ki obsega, na splošno rečeno, presojo
+                            skladnosti predpisov nižjega hierarhičnega nivoja s predpisi višjega
+                            nivoja, predvsem z ustavo, ratificiranimi mednarodnimi pogodbami in
+                            zakoni (glej 160. člen URS). Če ustavno sodišče ugotovi protiustavnost
+                            zakona ali drugega predpisa oziroma splošnega akta, lahko takšen predpis
+                            odpravi ali razveljavi (glej 161. člen URS).</item>
+                        <item><hi rend="italic">Druge ustavno določene pristojnosti </hi>ustavnega
+                            sodišče zajemajo predvsem že omenjeno odločanje o ustavnih pritožbah
+                            zaradi kršitev človekovih pravic posamičnimi akti, odločanje o različnih
+                            sporih o pristojnosti (npr. med državo in lokalnimi skupnostmi ali med
+                            najvišjimi državnimi organi), odločanje o protiustavnosti aktov in
+                            delovanja političnih strank (160. člen URS) ter odločanje o obtožbi
+                            zoper predsednika republike, predsednika vlade in ministre (109. in 119.
+                            člen URS).</item>
+                    </list>
+                </div>
+                <div>
+                    <head>Referendum</head>
+                    <p>Ustava namenja posebno pozornost referendumskemu odločanju, kot eni
+                        najpomembnejših oblik <hi rend="italic">neposredne demokracije</hi>. Državna
+                        ureditev temelji seveda v pretežni meri na
+                        <hi rend="italic" xml:space="preserve">posredni </hi>demokraciji, kar
+                        pomeni, da z volitvami državljani opravljanje oblastnih funkcij prenesejo na
+                        splošni predstavniški organ, tj. državni zbor. Toda v povezavi s temeljno
+                        pravico državljanov, da v skladu z zakonom tudi neposredno sodelujejo pri
+                        upravljanju javnih zadev (44. člen URS), je ustavodajalec prvotno predvidel
+                        zelo široke možnosti predlaganja in izvajanja <hi rend="italic"
+                            >zakonodajnega referenduma</hi>. V prvotnem besedilu 90. člena ustave je
+                        bilo določeno, da mora državni zbor na pobudo najmanj tretjine poslancev,
+                        državnega sveta ali 40.000 volivcev razpisati referendum o kateremkoli
+                        vprašanju, ki se ureja z zakonom. Na podlagi tega člena ustave je nato zakon
+                        predvidel možnost predhodnega zakonodajnega referenduma, ki se je lahko
+                        nanašal na posamezno vprašanje iz predlaganega zakona, ter možnost
+                        naknadnega zakonodajnega referenduma, na katerem se je odločalo o že
+                        sprejetem, vendar še neuveljavljenem zakonu kot celoti.</p>
+                    <p>Leta 2013 je bil sprejet Ustavni zakon o spremembah 90. 97. in 99. člena
+                        Ustave Republike Slovenije (UZ90,97,99, Ur. l. RS, št. 47/13, z dne 31. 5.
+                        2013), ki je zakonodajni referendum opredelil le kot razveljavitveni
+                        referendum, pri čemer je krog predlagateljev referenduma skrčil le na enega,
+                        tj. na volivce, ter hkrati upoštevaje primerjalne ureditve in izkušnje iz
+                        drugih demokratičnih držav uvedel nekatere omejitve referendumskega
+                        odločanja.</p>
+                    <p>Ustava sedaj ohranja le še institut <hi rend="italic">naknadnega
+                            (razveljavitvenega) zakonodajnega referenduma</hi>. Državni zbor mora
+                        razpisati referendum o uveljavitvi zakona, ki ga je sprejel, če to zahteva
+                        najmanj 40.000 volivcev (člen 90/1 URS). Ker imajo volivci v tem primeru
+                        interes, da se zakon ne uveljavi, lahko rečemo, da gre za razveljavitveni
+                        referendum. Pri tem pa ustava določa, da takšnega referenduma ni dopustno
+                        razpisati: a) o zakonih o nujnih ukrepih za zagotovitev obrambe države,
+                        varnosti ali odprave posledic naravnih nesreč; b) o zakonih o davkih,
+                        carinah in drugih obveznih dajatvah ter o zakonu, ki se sprejema za
+                        izvrševanje državnega proračuna; c) o zakonih o ratifikacijah mednarodnih
+                        pogodb; d) o zakonih, ki odpravljajo protiustavnost na področju človekovih
+                        pravic in temeljnih svoboščin ali drugo protiustavnost (člen 90/2 URS).</p>
+                    <p>Pravico glasovanja na referendumu imajo vsi državljani, ki imajo volilno
+                        pravico. Zakon je na referendumu zavrnjen, če proti njemu glasuje večina
+                        volivcev, ki so veljavno glasovali, pod pogojem, da proti zakonu glasuje
+                        najmanj petina vseh volivcev (člen 90/3, 4 URS). Podrobneje se referendum
+                        ureja z zakonom, ki ga državni zbor sprejme z dvotretjinsko večino glasov
+                        navzočih poslancev (člen 90/5 URS).</p>
+                    <p>Ustava omogoča tudi <hi rend="italic">potrditveni ustavni referendum</hi>
+                        (170. člen URS). Referendum o spremembi ustave je mogoče razpisati na
+                        zahtevo najmanj tretjine poslancev, in sicer potem, ko je državni zbor že
+                        sprejel določeno spremembo ustave, vendar pa je še ni razglasil (uveljavil).
+                        Državljani in drugi subjekti torej ne morejo zahtevati ustavnega
+                        referenduma, kar pomeni, da imajo poslanci tu veliko odgovornost glede
+                        presoje, ali je pri določeni ustavni spremembi v potrditev njene
+                        legitimnosti treba izvesti še referendum. Sprememba ustave je na referendumu
+                        sprejeta, če zanjo glasuje večina volivcev, ki so glasovali, pod pogojem, da
+                        se glasovanja udeleži večina vseh volivcev. Takšna ustavna zahteva po visoki
+                        volilni udeležbi ustreza pomenu, ki ga ima institut ustavnega referenduma,
+                        pri čemer pa seveda terja visoko stopnjo mobilizacije volivcev.</p>
+                    </div>
+                <div>
+                    <head>Lokalna samouprava</head>
+                    <p>Ustavno načelo lokalne samouprave (9. člen URS) je v temeljnih vidikih
+                        izpeljano v V. poglavju ustave, podrobneje pa je prepuščeno zakonskemu
+                        urejanju. Ustava določa, da je osnovna enota lokalne samouprave občina, ki
+                        se ustanovi z zakonom, po prej opravljenem referendumu, s katerim se ugotovi
+                        volja prebivalcev na določenem območju (139. člen URS). Ustava določa, da
+                        lahko zakon poseben status nameni mestnim občinam (141. člen URS), posebej
+                        pa določa možnost, da država z zakonom prenese na občine opravljanje
+                        posameznih nalog iz državne pristojnosti, če za to zagotovi tudi potrebna
+                        sredstva. V tako prenesenih zadevah na organe lokalnih skupnosti, opravljajo
+                        državni organi tudi nadzor nad primernostjo in strokovnostjo njihovega dela
+                        (140. člen URS).</p>
+                    <p>Prvotno je ustava le dopuščala povezovanje dveh ali več občin v širše
+                        samoupravne skupnosti. Do takšnega širšega institucionalnega povezovanja
+                        (npr. v obliki pokrajin) v praksi ni prišlo, kajti ustavna ureditev iz leta
+                        1991 ni zagotovila zadostnih političnih, finančnih in drugih spodbud za
+                        ustanavljanje širših samoupravnih lokalnih skupnosti, poleg tega pa tudi ni
+                        zagotovila sistemskih podlag za enotno oziroma teritorialno celovito
+                        ustanavljanje takšnih skupnosti. Slednje pomeni, da na podlagi ustavne
+                        ureditve iz leta 1991 ni bilo mogoče zagotoviti, da bi se pokrajine
+                        usklajeno ustanovile po celem ozemlju Slovenije, kajti njihova ustanovitev
+                        je bila predvidena le za primere, ko bi za to obstajale iniciative in
+                        soglasja posameznih skupin občin. To bi lahko vodilo v situacijo, ko bi bilo
+                        v Sloveniji npr. ustanovljeno nekaj pokrajin (s poljubno velikostjo, odvisno
+                        pač predvsem od soglasja občin), preostali del Slovenije pa ne bi bil
+                        samoupravno organiziran po pokrajinskem principu.</p>
+                    <p>Junija 2006 je je državni zbor z Ustavnim zakonom o spremembah 121., 140. in
+                        143. člena Ustave Republike Slovenije (UZ121, 140, 143, Ur. l. RS,
+                        št.68/2006, z dne 30. 6. 2006) zagotovil sistemsko ureditev pokrajin kot
+                        širših oblik samoupravnih lokalnih skupnosti, pri čemer je večji del te
+                        ureditve prenesel v (obvezno) zakonsko urejanje. Spremenjene določbe ustave
+                        zdaj določajo, da zakonodajalec mora (na področju celotne Slovenije)
+                        ustanoviti pokrajine kot samoupravne lokalne skupnosti, ki opravljajo
+                        lokalne zadeve širšega pomena in z zakonom določene zadeve regionalnega
+                        pomena. Pokrajine se ustanovijo z zakonom, s katerim se določi tudi njihovo
+                        območje, sedež in ime. Ta zakon sprejme državni zbor z dvotretjinsko večino
+                        glasov navzočih poslancev, pri čemer mora biti v postopku za sprejem zakona
+                        zagotovljeno sodelovanje občin. Država na pokrajine z zakonom prenese
+                        opravljanje posameznih nalog iz državne pristojnosti, mora pa jim za to
+                        zagotoviti potrebna sredstva (143. člen URS). Do zdaj zakon, ki bi ustanovil
+                        pokrajine, še ni bil sprejet, tako da ostaja ta del ustave v praksi
+                        neuresničen.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
