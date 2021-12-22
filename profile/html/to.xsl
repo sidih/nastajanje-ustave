@@ -358,20 +358,17 @@
          odbor: dr. Miro Cerar (Pravna fakulteta Univerze v Ljubljani), Gordana Černe
          (Državni zbor), dr. Jure Gašparič (Inštitut za novejšo zgodovino), Urška Mohar
          (Državni zbor), dr. Andrej Pančur (Inštitut za novejšo zgodovino), mag. Borut
-         Peršolja (Državni zbor) in dr. Jure Spruk.</p>
-      <p>Vodji projekta: dr. Miro Cerar, mag. Borut Peršolja</p>
+         Peršolja (Državni zbor) in dr. Jure Spruk. (Opomba: Zbirka je trenutno še v delu in se bo nekaj časa še dopolnjevala.)</p>
+      <p>Vodji projekta: dr. Miro Cerar (strokovni vodja), mag. Borut Peršolja</p>
       <p>Odgovorna oseba: mag. Borut Peršolja</p>
-      <p>Avtorji besedil: dr. Miro Cerar (Kronologija, Ustavna diskontinuiteta, skupščinski
-         sistem, mejniki v procesu nastajanja ustave in priznanje Slovenije, Nastajanje
-         ustave Republike Slovenije, Pojem ustave in obči razvoj ustavnosti, Temeljna
-         izhodišča, viri in cilji ustavne ureditve Republike Slovenije, Ustavna razprava,
-         Ustava Republike Slovenije: preambula in splošne določbe, Ustava Republike
-         Slovenije: človekove pravice in temeljne svoboščine, Ustava Republike Slovenije:
-         gospodarska in socialna razmerja in Ustava Republike Slovenije: državna ureditev in
-         lokalna samouprava) in dr. Jure Gašparič (Ustavna diskontinuiteta, skupščinski
-         sistem, mejniki v procesu nastajanja ustave in priznanje Slovenije, Razvoj
-         ustavnosti na Slovenskem 1848–1991). Pri nastajanju dveh besedil je sodelovala Tjaša
-         Konovšek.</p>
+      <p>Avtorji besedil: dr. Miro Cerar (Kronologija*; Pojem ustave in obči razvoj ustavnosti;
+         Temeljna izhodišča, viri in cilji ustavne ureditve Republike Slovenije; Ustavna razprava;
+         Ustava Republike Slovenije: preambula in splošne določbe; Ustava Republike Slovenije:
+         človekove pravice in temeljne svoboščine; Ustava Republike Slovenije: gospodarska in socialna razmerja;
+         Ustava Republike Slovenije: državna ureditev in lokalna samouprava; dr. Miro Cerar, dr. Jure Gašparič
+         (Ustavna diskontinuiteta, skupščinski sistem, mejniki v procesu nastajanja ustave in priznanje Slovenije)
+         in dr. Jure Gašparič (Razvoj ustavnosti na Slovenskem 1848–1991*). 
+         Pri nastajanju dveh besedil označenih z * je sodelovala Tjaša Konovšek.</p>
       <p>Uporabljeno arhivsko gradivo Državnega zbora:</p>
       <p>Fond Skupščina Republike Slovenije, Zbirka kopij gradiva predanega Državnemu zboru s
          strani dr. Miroslava Cerarja za namen digitalizacije gradiva povezanega z
@@ -433,13 +430,11 @@
       <p>Spletna zasnova in tehnična izvedba: dr. Andrej Pančur</p>
       <p>Avtorstvo in vir slikovnega gradiva: Tone Stojko/Muzej novejše zgodovine
          Slovenije</p>
-      <p>Zbirko gradiv sta v letih 2007–2008 zbrala in uredila dr. Miro Cerar in Mojca
-         Stropnik. Pri zbiranju gradiv so sodelovali Nataša Mlinarič, Gordana Vrabec in Boris
-         Vrišer (vsi Državni zbor).</p>
-      <p>Pregled in dodatno urejanje zbirke gradiv so v letu 2021 opravili dr. Miro Cerar,
-         Gordana Černe (Državni zbor), Tjaša Konovšek, Karin Konda, Marko Kupljen (vsi
-         Inštitut za novejšo zgodovino), Urška Mohar (Državni zbor), dr. Andrej Pančur
-         (Inštitut za novejšo zgodovino) in dr. Jure Spruk.</p>
+      <p>Zbirko gradiv sta v letih 2007–2008 sestavila in uredila dr. Miro Cerar (Pravna fakulteta Univerze v Ljubljani)
+         in Mojca Stropnik. Pri zbiranju gradiv so sodelovali Nataša Mlinarič, Gordana Vrabec in Boris Vrišer (vsi Državni zbor).</p>
+      <p>Pregled in dodatno urejanje zbirke gradiv so v letu 2021 opravili dr. Miro Cerar (Pravna fakulteta Univerze v Ljubljani),
+         Gordana Černe (Državni zbor), Tjaša Konovšek, Karin Konda, Marko Kupljen (vsi Inštitut za novejšo zgodovino),
+         Urška Mohar (Državni zbor), dr. Andrej Pančur (Inštitut za novejšo zgodovino) in dr. Jure Spruk.</p>
       
       <hr/>
       
